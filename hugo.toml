@@ -15,20 +15,15 @@ ignoreErrors = ["error-remote-getjson"]
 # Menu
 [menu]
   [[menu.main]]
-    identifier = "tea-heritage"
-    name = "Tea Heritage"
-    url = "/tea-heritage/"
+    identifier = "artisan-studio"
+    name = "The Artisan’s Studio"
+    url = "/artisan-studio/"
     weight = 10
-  [[menu.main]]
-    identifier = "artisan-guide"
-    name = "The Artisan’s Guide"
-    url = "/artisan-guide/"
-    weight = 20
   [[menu.main]]
     identifier = "tasting-room"
     name = "The Tasting Room"
     url = "/tasting-room/"
-    weight = 30
+    weight = 20
 
 [params]
   color = 'linen'
