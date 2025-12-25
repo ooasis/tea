@@ -39,9 +39,7 @@ ignoreErrors = ["error-remote-getjson"]
       unsafe = true
 
 [taxonomies]
-  category = "categories"
   tag = "tags"
-  series = "series"
 
 [module]
   [[module.imports]]

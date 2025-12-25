@@ -1,0 +1,14 @@
+{{/* layouts/_shortcodes/img.html */}}
+{{ $original := .Page.Resources.GetMatch (.Get "src") }}
+{{ if $original }}
+  {{ $class := (.Get "class") | default "" }}
+  {{/* Resize the image based on the "w" parameter (e.g., "500x") */}}
+  {{ $resized := $original.Resize (.Get "w") }}
+  <img src="{{ $resized.RelPermalink }}" 
+       width="{{ $resized.Width }}" 
+       height="{{ $resized.Height }}" 
+       alt="{{ .Get "alt" }}"
+       {{- if $class -}}class="{{ $class }}"{{- end -}}>
+{{ else }}
+  <p style="color:red">Image not found: {{ .Get "src" }}</p>
+{{ end }}
