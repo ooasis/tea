@@ -19,6 +19,8 @@ Green tea is the oldest and most popular category in China, representing the "fr
 
 Quality in Green tea is often defined by the "tenderness" of the pluck. The most prestigious grade is **Mingqian**, referring to tea picked before the Qingming Festival in early April, when the buds are at their sweetest. As the season progresses into **Yuqian** (before the Grain Rain), the leaves become larger and the flavor profile becomes more robust and slightly more astringent.
 
+**Read more:** [Green Tea]({{< ref "tea-categories/green/_index.md" >}})
+
 **Famous Varieties & Origins:**
 
 * **West Lake Longjing (Dragon Well):** Hangzhou, Zhejiang Province
@@ -42,6 +44,8 @@ White tea is defined by its elegant simplicity. It undergoes the least amount of
 
 The grading of White tea is uniquely strict and is based entirely on the picking standard. The younger the pluck, the higher the grade. White tea is also one of the few categories meant for aging; as it sits for years, the floral notes transform into deep aromas of dried dates and medicinal herbs.
 
+**Read more:** [White Tea]({{< ref "tea-categories/white/_index.md" >}})
+
 **Famous Varieties & Origins:**
 
 * **Bai Hao Yinzhen (Silver Needle):** Fuding & Zhenghe, Fujian Province
@@ -61,6 +65,8 @@ Yellow tea is a rare gem in the tea world, sharing a similar starting point with
 
 Because the "yellowing" process requires a master's touch to prevent the leaves from spoiling or turning "stale," it is increasingly rare in the modern market. It is often graded by the size and uniformity of the buds, with the needle-shaped varieties representing the highest artisanal achievement.
 
+**Read more:** [Yellow Tea]({{< ref "tea-categories/yellow/_index.md" >}})
+
 **Famous Varieties & Origins:**
 
 * **Junshan Yinzhen:** Junshan Island, Hunan Province
@@ -79,6 +85,8 @@ Because the "yellowing" process requires a master's touch to prevent the leaves 
 Oolong is often called the "Artisan’s Tea" because it is partially oxidized (anywhere from 20% to 80%) and requires the most complex processing. It involves repeated bruising, shaking, withering, and often charcoal roasting to coax out specific aromatic compounds. This results in an incredibly broad spectrum of flavors, ranging from light and floral to dark, stony, and fruity. Oolong was developed in the 17th century in the Wuyi Mountains of Fujian and became the centerpiece of the *Gongfu Cha* tea ceremony.
 
 Grading in Oolong is multifaceted, focusing on the altitude of the garden (High Mountain vs. Lowland), the level of charcoal roasting, and the specific cultivar of the tea bush. Each variety listed below carries a distinct "rock rhyme" (*yán yùn*) or floral fragrance that defines its quality.
+
+**Read more:** [Oolong Tea]({{< ref "tea-categories/oolong/_index.md" >}})
 
 **Famous Varieties & Origins:**
 
@@ -103,6 +111,8 @@ What the West calls Black tea is known in China as **Red Tea** (*Hóng Chá*), n
 
 Grading in the Chinese Red Tea tradition emphasizes the presence of golden buds. The highest tiers consist almost entirely of tiny, golden-tipped buds which provide a silky texture and natural honey sweetness, whereas lower grades include more mature leaves and offer a more astringent, "brisk" cup.
 
+**Read more:** [Red Tea]({{< ref "tea-categories/red/_index.md" >}})
+
 **Famous Varieties & Origins:**
 
 * **Qimen Hongcha (Keemun):** Qimen County, Anhui Province
@@ -123,6 +133,8 @@ Grading in the Chinese Red Tea tradition emphasizes the presence of golden buds.
 Black tea is the only category that undergoes true microbial fermentation. Unlike other teas, Black tea—the most famous of which is **Pu-erh**—is a "living" product that continues to evolve and improve with age. It was historically produced for trade with Tibet and Mongolia along the "Tea Horse Road," where the long journeys and humid conditions naturally fermented the tea bricks. This fermentation creates deep, earthy, and woody flavors that are often compared to a damp forest floor or sweet beetroots.
 
 The grading of Dark tea is unique; while leaf size matters, the most important factors are the age of the tea and the age of the trees. **Gushu** (Ancient Tree) tea is the highest grade, prized for its complex mouthfeel and "tea energy" (*Cha Qi*). Dark tea is also divided into **Sheng** (Raw), which ages naturally, and **Shu** (Ripe), which undergoes an accelerated fermentation process.
+
+**Read more:** [Black (Dark) Tea & Pu-erh]({{< ref "tea-categories/black/_index.md" >}})
 
 **Famous Varieties & Origins:**
 
