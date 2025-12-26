@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Shu Pu-erh (Ripe Pu-erh - 熟普洱)"
 ---
-
 ## The History: A Modern Miracle of Fermentation
 
 Unlike Sheng Pu-erh which takes decades to age, Shu Pu-erh (Ripe Pu-erh) is a relatively modern invention. It was developed in the **1970s** at the Menghai and Kunming tea factories to meet the booming demand for aged tea.

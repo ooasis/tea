@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Shou Mei (Longevity Eyebrow - 寿眉)"
 ---
-
 ## The Culture: The "Humility" of White Tea
 
 Shou Mei (literally "Longevity Eyebrow") is the most affordable and widely consumed variety of white tea. While **Silver Needle** is the "Emperor" and **White Peony** is the "Beauty," Shou Mei is often called the "Commoner" of white tea.

@@ -1,6 +1,6 @@
 +++
 date = '2025-12-24T10:10:30-08:00'
-draft = true
+draft = false
 title = "The Artisan's Studio"
 tags = ['tea-category',]
 +++
@@ -30,4 +30,6 @@ tags = ['tea-category',]
 <div class="flex flex-wrap gap-2.5 text-sm">
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/technics/_index.md" >}}'>Technics</a> </span> 
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-production/harvest/_index.md" >}}'>Harvest</a> </span> 
 </div>

@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Huoshan Huangya (Yellow Sprout - 霍山黃芽)"
 ---
-
 ## The Culture: The "Golden Bud" of Anhui
 
 Huoshan Huangya is a rare and prestigious **Yellow Tea** from Anhui Province. Its history is incredibly long, mentioned as a "Tribute Tea" for emperors as far back as the Tang Dynasty (over 1,200 years ago).

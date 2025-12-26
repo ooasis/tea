@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Bai Mudan (White Peony - 白牡丹)"
 ---
-
 ## The Culture: The "Middle Path" of White Tea
 
 Bai Mudan, or "White Peony," is the most popular style of white tea for daily drinking. Its name is inspired by the way the green leaves and silvery buds unfurl in the cup, resembling the blooming of a white peony flower.

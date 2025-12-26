@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Yingde Hongcha (Yingde Red Tea - 英德紅茶)"
 ---
-
 ## The History: The Royal Favorite of Guangdong
 
 Yingde Hongcha is the most famous red tea from Guangdong Province. While tea has been grown in Yingde for centuries, the modern "Hongcha" industry was established in the **1950s** as part of a national effort to create high-quality export teas.

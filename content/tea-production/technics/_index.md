@@ -1,5 +1,6 @@
 +++
 date = '2025-12-25T10:05:00-08:00'
+draft = false
 title = 'Technics'
 tags = ['production']
 weight = 10

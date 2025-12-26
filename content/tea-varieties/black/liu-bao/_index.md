@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Liu Bao Tea (Six Forts Tea - 六堡茶)"
 ---
-
 ## The History: The Ancestor of Ripe Pu-erh
 
 Liu Bao tea is a historic "Hei Cha" (Dark Tea) from Guangxi Province with a history spanning over 1,500 years. During the late 19th and early 20th centuries, it was the "life-saving tea" for Chinese miners in Southeast Asia (Malaysia and Singapore) because of its cooling properties and its ability to settle the stomach in hot, humid climates.

@@ -1,7 +1,8 @@
 ---
+draft: false
+
 title: "Alishan High Mountain Oolong (阿里山高山烏龍)"
 ---
-
 ## The Culture: The Icon of High Mountain Tea
 
 Alishan is the most famous and beloved of Taiwan's **Gao Shan (High Mountain)** teas. While tea has been grown in the Alishan range for decades, its modern fame as a premium oolong destination exploded in the 1980s.
