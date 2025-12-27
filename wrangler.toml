@@ -1,9 +1,0 @@
-name = "tea-lab"
-pages_build_output_dir = "public"
-
-[vars]
-HUGO_VERSION = "0.152.2"
-
-[build]
-command = "hugo --gc --minify"
-
