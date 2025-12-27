@@ -64,3 +64,8 @@ title: "The Tasting Room"
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/black/liu-an/_index.md" >}}'>Liu An Tea (六安茶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/black/yaan-zang-cha/_index.md" >}}'>Ya'an Zang Cha (雅安藏茶)</a></span>
 </div>
+
+### Tea Ware
+
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-ware/gai-wan/_index.md" >}}'>Gai-Wan (盖碗)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-ware/tea-pot/_index.md" >}}'>Tea Pot (茶壶)</a></span>
