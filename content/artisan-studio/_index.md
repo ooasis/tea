@@ -33,10 +33,9 @@ tags = ['tea-category',]
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/harvest/_index.md" >}}'>Harvest</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
-  • <a class="no-underline" href='{{< ref "tea-production/puer-mountains/_index.md" >}}'>Pu`er Mountains</a> </span> 
+  • <a class="no-underline" href='{{< ref "tea-production/puerh-mountains/_index.md" >}}'>Pu-erh Mountains</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
-  • <a class="no-underline" href='{{< ref "tea-production/puer-producers/_index.md" >}}'>Pu`er Producers</a> </span> 
+  • <a class="no-underline" href='{{< ref "tea-production/puerh-producers/_index.md" >}}'>Pu-erh Producers</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/dancong-producers/_index.md" >}}'>Phoenix Dancong Producers</a> </span> 
-
 </div>
