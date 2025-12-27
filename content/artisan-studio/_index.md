@@ -21,7 +21,7 @@ tags = ['tea-category',]
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-categories/red/_index.md" >}}'>Red Tea</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
-  • <a class="no-underline" href='{{< ref "tea-categories/black/_index.md" >}}'>Black & Pu-erh Tea</a>
+  • <a class="no-underline" href='{{< ref "tea-categories/black/_index.md" >}}'>Black (Pu`er Tea)</a>
   </span>
 </div>
 
@@ -36,4 +36,7 @@ tags = ['tea-category',]
   • <a class="no-underline" href='{{< ref "tea-production/puer-mountains/_index.md" >}}'>Pu`er Mountains</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/puer-producers/_index.md" >}}'>Pu`er Producers</a> </span> 
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-production/dancong-producers/_index.md" >}}'>Phoenix Dancong Producers</a> </span> 
+
 </div>
