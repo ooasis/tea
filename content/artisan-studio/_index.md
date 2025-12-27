@@ -32,4 +32,8 @@ tags = ['tea-category',]
   • <a class="no-underline" href='{{< ref "tea-production/technics/_index.md" >}}'>Technics</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/harvest/_index.md" >}}'>Harvest</a> </span> 
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-production/puer-mountains/_index.md" >}}'>Pu`er Mountains</a> </span> 
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-production/puer-producers/_index.md" >}}'>Pu`er Producers</a> </span> 
 </div>
