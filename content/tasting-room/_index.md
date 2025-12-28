@@ -70,3 +70,7 @@ title: "The Tasting Room"
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-ware/gai-wan/_index.md" >}}'>Gai-Wan (盖碗)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-ware/tea-pot/_index.md" >}}'>Tea Pot (茶壶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-ware/zi-sha/_index.md" >}}'>Zi-Sha Pot (紫砂壶)</a></span>
+
+### Tea Shops
+
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-shop/us_shops/_index.md" >}}'>Popular US Shops</a></span>
