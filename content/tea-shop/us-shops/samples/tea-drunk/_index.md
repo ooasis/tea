@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **Tea Drunk**.
 
+{{< sample-grid >}}
 | Product | Variety | Price |
 | --- | --- | --- |
 | [<img src="https://www.teadrunk.com/cdn/shop/products/Ao_Fu_Hou_DSC9733_spent2_despeckle_white_square.jpg?v=1646868659" width="200" alt="Ao Fu Hou 凹富後">](https://www.teadrunk.com/products/ao-fu-hou)<br>Ao Fu Hou 凹富後 | Oolong Tea | From $39.00 |
@@ -17,3 +18,4 @@ Below are some popular sample products from **Tea Drunk**.
 | [<img src="https://www.teadrunk.com/cdn/shop/products/Ban_Tian_Yao_DSC9680_spent2_despeckle_white_square.jpg?v=1646868854" width="200" alt="Ban Tian Yao (Mid-Sky Oolong)">](https://www.teadrunk.com/products/ban-tian-yao)<br>Ban Tian Yao (Mid-Sky Oolong) | Oolong Tea | $110.00 |
 | [<img src="https://www.teadrunk.com/cdn/shop/products/Bei_Dou_spent_white_square_533x.jpg?v=1646982827" width="200" alt="Bei Dou (Big Dipper Oolong)">](https://www.teadrunk.com/products/bei-dou)<br>Bei Dou (Big Dipper Oolong) | Oolong Tea | $90.00 |
 | [<img src="https://www.teadrunk.com/cdn/shop/products/Bu_Lang_DSC9768_spent2_despeckle_white_square_533x.jpg?v=1646868875" width="200" alt="Bu Lang (Bulang Mountain Raw Puer)">](https://www.teadrunk.com/products/bu-lang)<br>Bu Lang (Bulang Mountain Raw Puer) | Pu-erh Tea | $80.00 |
+{{< /sample-grid >}}

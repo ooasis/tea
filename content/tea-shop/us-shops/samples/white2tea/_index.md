@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **White2Tea**.
 
+{{< sample-grid >}}
 | Product | Price |
 | --- | --- |
 | [<img src="https://white2tea.com/cdn/shop/products/2001-hongyin-jiaji-redmark-puer-tea-1b.jpg?v=1584008637&width=480" width="200" alt="2001 Big Red Mark Jia Ji">](https://white2tea.com/products/2001-big-red-mark-jia-ji)<br>2001 Big Red Mark Jia Ji | From $22.10 |
@@ -28,3 +29,4 @@ Below are some popular sample products from **White2Tea**.
 | [<img src="https://white2tea.com/cdn/shop/products/2009-Jingmai-Raw-Puer-2.jpg?v=1580897442&width=480" width="200" alt="2009 Jingmai">](https://white2tea.com/products/2009-jingmai)<br>2009 Jingmai | From $6.80 (Sold out) |
 | [<img src="https://white2tea.com/cdn/shop/products/200X-wuliang-raw-Puerh.jpg?v=1581834437&width=480" width="200" alt="200X Wuliang Raw Puer">](https://white2tea.com/products/200x-wuliang-raw-puer)<br>200X Wuliang Raw Puer | From $6.60 (Sold out) |
 | [<img src="https://white2tea.com/cdn/shop/products/2012_White2tea_GiantSteps.jpg?crop=region&crop_height=1200&crop_left=200&crop_top=0&crop_width=1200&v=1580898311&width=480" width="200" alt="2012 White2tea Giant Steps">](https://white2tea.com/products/2012-white2tea-giant-steps)<br>2012 White2tea Giant Steps | $38.00 (Sold out) |
+{{< /sample-grid >}}

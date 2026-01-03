@@ -6,5 +6,7 @@ draft = false
 
 Below are some popular sample products from **TeaVivre**.
 
+{{< sample-grid >}}
 | Product | Variety | Price |
 | --- | --- | --- |
+{{< /sample-grid >}}

@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **Red Blossom Tea Co.**.
 
+{{< sample-grid >}}
 | Product | Variety | Price |
 | --- | --- | --- |
 | [<img src="https://redblossomtea.com/cdn/shop/products/EssentialCollection_1.1_small.jpg" width="200" alt="Essential Collection">](https://redblossomtea.com/products/essential-collection)<br>Essential Collection | Sampler | $65.00 |
@@ -20,3 +21,4 @@ Below are some popular sample products from **Red Blossom Tea Co.**.
 | [<img src="https://redblossomtea.com/cdn/shop/products/GRN_SpringMaofeng_1_60d7eee8-2753-4ac1-8042-727e7bbc86a6_small.jpg" width="200" alt="Spring Maofeng">](https://redblossomtea.com/products/spring-maofeng)<br>Spring Maofeng | Green Tea | $22.00 |
 | [<img src="https://redblossomtea.com/cdn/shop/files/2024DECGlassInfuserCup_15copy_small.jpg" width="200" alt="Glass Infuser Cup">](https://redblossomtea.com/products/glass-infuser-cup)<br>Glass Infuser Cup | Teaware | $25.00 |
 | [<img src="https://redblossomtea.com/cdn/shop/files/StaggEKGWhite_small.jpg" width="200" alt="Stagg EKG Kettle">](https://redblossomtea.com/products/stagg-ekg-kettle)<br>Stagg EKG Kettle | Teaware | $165.00 |
+{{< /sample-grid >}}

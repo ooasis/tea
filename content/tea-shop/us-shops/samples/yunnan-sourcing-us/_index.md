@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **Yunnan Sourcing US**.
 
+{{< sample-grid >}}
 | Product | Variety | Price |
 | --- | --- | --- |
 | [<img src="https://yunnansourcing.us/cdn/shop/products/thumb1_e5798c8a-e90e-4fae-b01d-7f49d61d35b3_512x512.jpg" width="200" alt="High Mountain Red Ai Lao Mountain Black Tea">](https://yunnansourcing.us/products/high-mountain-red-ai-lao-mountain-black-tea)<br>High Mountain Red Ai Lao Mountain Black Tea | Black Tea | $15.00 |
@@ -28,3 +29,4 @@ Below are some popular sample products from **Yunnan Sourcing US**.
 | [<img src="https://yunnansourcing.us/cdn/shop/products/thumb1_1f3039dd-e248-4ce6-a000-fc09f074c22e_512x513.jpg" width="200" alt="Pure Bud Silver Strands Yunnan Green Tea">](https://yunnansourcing.us/products/pure-bud-silver-strands-yunnan-green-tea)<br>Pure Bud Silver Strands Yunnan Green Tea | Green Tea | $12.00 |
 | [<img src="https://yunnansourcing.us/cdn/shop/products/thumb_f0eb861f-4815-433a-a645-e2ade78caea4_512x511.jpg" width="200" alt="Anxi 'Hairy Crab' Mao Xie Qi Men Oolong Tea">](https://yunnansourcing.us/products/anxi-hairy-crab-mao-xie-qi-men-oolong-tea)<br>Anxi "Hairy Crab" Mao Xie Qi Men Oolong Tea | Oolong Tea | $14.00 |
 | [<img src="https://yunnansourcing.us/cdn/shop/products/thumb1_2ae983b9-0ddb-4410-bf3b-32cd7a257594_512x514.jpg" width="200" alt="Light Roast Anxi Tie Guan Yin Oolong Tea">](https://yunnansourcing.us/products/light-roast-anxi-tie-guan-yin-oolong-tea)<br>Light Roast Anxi Tie Guan Yin Oolong Tea | Oolong Tea | $16.00 |
+{{< /sample-grid >}}

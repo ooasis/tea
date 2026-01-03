@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **Seven Cups**.
 
+{{< sample-grid >}}
 | Product | Price |
 | --- | --- |
 | [<img src="https://sevencups.com/files/2023/04/HT-EigTre-cheng-pin-dry-leaf-edited-2-cropped-1080w-560x420.jpeg" width="200" alt="Ba Bao Cha (Eight Treasures) Caffeine Free Herbal Tea">](https://sevencups.com/shop/ba-bao-cha-eight-treasures/)<br>Ba Bao Cha (Eight Treasures) Caffeine Free Herbal Tea | $19.75 |
@@ -14,3 +15,4 @@ Below are some popular sample products from **Seven Cups**.
 | [<img src="https://sevencups.com/files/2025/10/GLPI-BigBel-3mins-560x420.jpg" width="200" alt="Big Belly Half Moon Glass Teapot">](https://sevencups.com/shop/big-belly-half-moon-glass-teapot/)<br>Big Belly Half Moon Glass Teapot | $35.00 |
 | [<img src="https://sevencups.com/files/2025/10/YXP-AntZhu-front-560x420.jpg" width="200" alt="Antique Style Purple Zhu Ni Yixing Teapot">](https://sevencups.com/shop/antique-style-purple-zhu-ni-yixing-teapot/)<br>Antique Style Purple Zhu Ni Yixing Teapot | $185.00 |
 | [<img src="https://sevencups.com/files/2024/10/YXP-ScoJia-Front-560x420.jpg" width="200" alt="Bamboo Carved Stone Scoop">](https://sevencups.com/shop/bamboo-carved-stone-scoop/)<br>Bamboo Carved Stone Scoop | $45.00 |
+{{< /sample-grid >}}

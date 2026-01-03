@@ -6,6 +6,7 @@ draft = false
 
 Below are some popular sample products from **Old Ways Tea**.
 
+{{< sample-grid >}}
 | Product | Price (per gram) | Year |
 | --- | --- | --- |
 | [<img src="https://oldwaystea.com/spree/products/44/product/brighter_-_15_year_aged__Da_Hong_Pao-3.jpg?1486693280" width="200" alt="Aged Da Hong Pao (2000) 陈年老茶">](https://oldwaystea.com/products/aged-da-hong-pao-2000)<br>Aged Da Hong Pao (2000) 陈年老茶 | $1.30 | 2000 |
@@ -27,3 +28,4 @@ Below are some popular sample products from **Old Ways Tea**.
 | [<img src="https://oldwaystea.com/spree/products/1902/product/2022__Ban_tian_yao__godmother.jpg?1692243980" width="200" alt="Zuhuo Ban Tian Yao 半天腰">](https://oldwaystea.com/products/zuhuo-ban-tian-yao-2022)<br>Zuhuo Ban Tian Yao 半天腰 | $0.75 | 2022 |
 | [<img src="https://oldwaystea.com/spree/products/1910/product/2022__godmother__shui_jin_gui.jpg?1692417402" width="200" alt="Zuhuo Shui Jin Gui 水金龟">](https://oldwaystea.com/products/zuhuo-shui-jin-gui-2022)<br>Zuhuo Shui Jin Gui 水金龟 | $0.64 | 2022 |
 | [<img src="https://oldwaystea.com/spree/products/1917/product/2023__Jin_Jun_Mei-2.jpg?1694228815" width="200" alt="Tongmu Jin Jun Mei 金骏眉">](https://oldwaystea.com/products/tongmu-jin-jun-mei-2023)<br>Tongmu Jin Jun Mei 金骏眉 | $1.10 | 2023 |
+{{< /sample-grid >}}
