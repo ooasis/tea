@@ -6,55 +6,14 @@ draft = false
 
 Below are some popular sample products from **Tea Drunk**.
 
-| Product Name | Variety | Price |
+| Product | Variety | Price |
 | --- | --- | --- |
-| Ao Fu Hou 凹富後 | Oolong Tea | From $39.00 |
-| Apprentice Tea Tasting Session | Experience | $35.00 |
-| Award Winning Porcelain, Gold, Lacquer Tea Cup | Teaware | $1,785.00 |
-| Da Hong Pao (Big Red Robe) | Oolong Tea | $120.00 |
-| Tie Guan Yin (Iron Goddess) | Oolong Tea | $95.00 |
-| Bai Hao Yinzhen (Silver Needle) | White Tea | $110.00 |
-| Xi Hu Longjing (West Lake Dragon Well) | Green Tea | $150.00 |
-| Zheng Shan Xiao Zhong (Lapsang Souchong) | Black Tea | $85.00 |
-| Jun Shan Yin Zhen (Yellow Tea) | Yellow Tea | $180.00 |
-| Rou Gui (Cinnamon Oolong) | Oolong Tea | $105.00 |
-| Shui Xian (Water Sprite Oolong) | Oolong Tea | $90.00 |
-| Bi Luo Chun (Green Snail Spring) | Green Tea | $80.00 |
-| Huang Shan Mao Feng | Green Tea | $75.00 |
-| Lu'an Gua Pian (Melon Seed) | Green Tea | $85.00 |
-| Tai Ping Hou Kui | Green Tea | $130.00 |
-| Anji Bai Cha | Green Tea | $115.00 |
-| Jin Jun Mei (Golden Steed Eyebrow) | Black Tea | $250.00 |
-| Qimen Hong Cha (Keemun) | Black Tea | $65.00 |
-| Yunnan Gold | Black Tea | $55.00 |
-| Aged Raw Pu-erh (2000s) | Pu-erh Tea | $350.00 |
-| Aged Ripe Pu-erh (2000s) | Pu-erh Tea | $200.00 |
-| Tea Drunk Reserve Sampler | Sampler | $150.00 |
-| Tea Drunk Classic Sampler | Sampler | $85.00 |
-| Tea Drunk Everyday Sampler | Sampler | $45.00 |
-| Tea Drunk Tea Club (Monthly) | Subscription | $75.00/mo |
-| Hand-Made Yixing Teapot | Teaware | $450.00 |
-| Gongfu Tea Pitcher (Glass) | Teaware | $35.00 |
-| Porcelain Tasting Cup | Teaware | $25.00 |
-| Bamboo Tea Tray (Large) | Teaware | $120.00 |
-| Tea Tongs (Sandalwood) | Teaware | $15.00 |
-| 2024 Spring Harvest Collection | Sampler | $180.00 |
-| 2023 Vintage Rock Tea Set | Sampler | $220.00 |
-| 2022 Aged White Tea Cake | White Tea | $135.00 |
-| 2021 Wild Tree Raw Puer | Pu-erh Tea | $280.00 |
-| 2020 High Mountain Oolong | Oolong Tea | $110.00 |
-| 2019 First Flush Green Tea | Green Tea | $95.00 |
-| 2018 Aged Black Tea | Black Tea | $75.00 |
-| 2017 Special Reserve Puer | Pu-erh Tea | $450.00 |
-| 2016 Vintage Oolong | Oolong Tea | $145.00 |
-| 2015 Rare Variety Sampler | Sampler | $190.00 |
-| White Porcelain Gaiwan (Hand-Painted) | Teaware | $85.00 |
-| Travel Tea Case (Leather) | Teaware | $65.00 |
-| Tea Brush (Horse Hair) | Teaware | $12.00 |
-| Tea Pick (Damascus Steel) | Teaware | $45.00 |
-| Water Kettle (Silver) | Teaware | $2,500.00 |
-| Tea Pet (Clay Frog) | Teaware | $28.00 |
-| Tea Towel (Silk/Cotton) | Teaware | $18.00 |
-| Shunan's Favorites Collection | Sampler | $135.00 |
-| Moon Festival Tea Gift Set | Gift Set | $95.00 |
-| Tea Drunk Membership (Annual) | Subscription | $800.00/yr |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Ao_Fu_Hou_DSC9733_spent2_despeckle_white_square.jpg?v=1646868659" width="200" alt="Ao Fu Hou 凹富後">](https://www.teadrunk.com/products/ao-fu-hou)<br>Ao Fu Hou 凹富後 | Oolong Tea | From $39.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Porcelain_Gold_and_Lacquer_533x.jpg?v=1626586863" width="200" alt="Award Winning Porcelain, Gold, Lacquer Tea Cup">](https://www.teadrunk.com/products/award-winning-porcelain-gold-lacquer-tea-cup)<br>Award Winning Porcelain, Gold, Lacquer Tea Cup | Teaware | $1,785.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/1d3VM5zw.jpg?v=1646868680" width="200" alt="Da Hong Pao (Big Red Robe)">](https://www.teadrunk.com/products/da-hong-pao)<br>Da Hong Pao (Big Red Robe) | Oolong Tea | $120.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Bai_Ji_Guan_DSC9654_spent2_despeckle_white_square-1.jpg?v=1646868732" width="200" alt="Bai Ji Guan (White Rooster Crest)">](https://www.teadrunk.com/products/bai-ji-guan)<br>Bai Ji Guan (White Rooster Crest) | Oolong Tea | $105.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/files/Product_Photos_-_Yan_Cha_-_Bai_Mu_Dan_Yan_Cha_-_Dry_Leaves_533x.png?v=1753809581" width="200" alt="Bai Mu Dan Yan Cha (White Peony Rock Wulong)">](https://www.teadrunk.com/products/bai-mu-dan-yan-cha)<br>Bai Mu Dan Yan Cha (White Peony Rock Wulong) | Oolong Tea | $95.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Bai_Ye_wet_leaf_533x.jpg?v=1665539183" width="200" alt="Bai Ye (White Leaf Dan Cong)">](https://www.teadrunk.com/products/bai-ye)<br>Bai Ye (White Leaf Dan Cong) | Oolong Tea | $85.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Ban_Tian_Yao_DSC9680_spent2_despeckle_white_square.jpg?v=1646868854" width="200" alt="Ban Tian Yao (Mid-Sky Oolong)">](https://www.teadrunk.com/products/ban-tian-yao)<br>Ban Tian Yao (Mid-Sky Oolong) | Oolong Tea | $110.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Bei_Dou_spent_white_square_533x.jpg?v=1646982827" width="200" alt="Bei Dou (Big Dipper Oolong)">](https://www.teadrunk.com/products/bei-dou)<br>Bei Dou (Big Dipper Oolong) | Oolong Tea | $90.00 |
+| [<img src="https://www.teadrunk.com/cdn/shop/products/Bu_Lang_DSC9768_spent2_despeckle_white_square_533x.jpg?v=1646868875" width="200" alt="Bu Lang (Bulang Mountain Raw Puer)">](https://www.teadrunk.com/products/bu-lang)<br>Bu Lang (Bulang Mountain Raw Puer) | Pu-erh Tea | $80.00 |

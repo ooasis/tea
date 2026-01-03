@@ -6,43 +6,15 @@ draft = false
 
 Below are some popular sample products from **Seven Cups**.
 
-| Product Name | Price |
+| Product | Price |
 | --- | --- |
-| Ba Bao Cha (Eight Treasures) Caffeine Free Herbal Tea | $19.75 |
-| Bai Ji Guan (White Rooster Crest) 2025 Rock Wulong Tea | $26.00 – $102.50 |
-| Baihao Yinzhen (Silver Needle) 2023 Organic White Tea | $25.50 – $499.75 |
-| Baihao Yinzhen (Silver Needle) 2024 Organic White Tea | $25.50 – $499.75 |
-| Baihao Yinzhen (Silver Needle) 2025 Organic White Tea | $26.75 – $526.50 |
-| Bi Luo Chun (Green Snail Spring) 2024 Green Tea | $24.00 – $120.00 |
-| Da Hong Pao (Big Red Robe) Rock Wulong Tea | $28.00 – $140.00 |
-| Ding Gu Da Fang 2024 Organic Green Tea | $18.00 – $90.00 |
-| En Shi Yu Lu (Jade Dew) 2024 Green Tea | $20.00 – $100.00 |
-| Gong Mei (Tribute Eyebrow) 2020 Organic White Tea | $12.00 – $60.00 |
-| Huang Meigui (Yellow Rose) 2024 Rock Wulong Tea | $22.00 – $110.00 |
-| Huang Shan Mao Feng 2024 Green Tea | $22.00 – $110.00 |
-| Huo Shan Huang Ya 2024 Yellow Tea | $24.00 – $120.00 |
-| Jin Jun Mei (Golden Steed Eyebrow) 2024 Black Tea | $35.00 – $175.00 |
-| Jun Shan Yin Zhen 2024 Yellow Tea | $45.00 – $225.00 |
-| Keemun Hao Ya A 2024 Black Tea | $20.00 – $100.00 |
-| Longjing (Dragon Well) 2024 Green Tea | $25.00 – $125.00 |
-| Lu’an Gua Pian (Melon Seed) 2024 Green Tea | $22.00 – $110.00 |
-| Meng Ding Gan Lu (Sweet Dew) 2024 Green Tea | $18.00 – $90.00 |
-| Oriental Beauty (Dongfang Meiren) Oolong Tea | $30.00 – $150.00 |
-| Qimen Red (Keemun) 2024 Black Tea | $15.00 – $75.00 |
-| Shou Mei (Longevity Eyebrow) 2018 White Tea | $10.00 – $50.00 |
-| Shui Xian (Water Sprite) 2024 Rock Wulong Tea | $20.00 – $100.00 |
-| Tie Guan Yin (Iron Goddess of Mercy) Oolong Tea | $25.00 – $125.00 |
-| Xi Hu Longjing (West Lake Dragon Well) 2024 Green Tea | $40.00 – $200.00 |
-| Yunnan Gold 2024 Black Tea | $18.00 – $90.00 |
-| Zheng Shan Xiao Zhong (Lapsang Souchong) Black Tea | $22.00 – $110.00 |
-| Zhu Ye Qing (Bamboo Leaf Green) 2024 Green Tea | $28.00 – $140.00 |
-| Zhaozhou Tea (Aged Sheng Puer) | $35.00 – $175.00 |
-| Antique Style Purple Zhu Ni Yixing Teapot 200mL | $250.00 |
-| Bamboo Carved Stone Scoop Jiangpo Yixing Teapot 170mL | $85.00 |
-| Bamboo Carved Stone Scoop Zi Ni Yixing Teapot 190mL | $90.00 |
-| Bamboo Leaf Carved Stone Scoop Zhu Ni Yixing Teapot 200mL | $220.00 |
-| Bamboo Lid Stone Scoop Zhu Ni Yixing Teapot 220mL | $230.00 |
-| Beauty’s Shoulder Lotus Painted Da Hong Pao Yixing Teapot 185mL | $280.00 |
-| Big Belly Half Moon Glass Tea Pitcher 575mL | $25.00 |
-| Big Wheel Qing Shui Ni Yixing Teapot 275mL | $85.00 |
-| Add a Braid for Your Teapot’ Lid | $10.00 |
+| [<img src="https://sevencups.com/files/2023/04/HT-EigTre-cheng-pin-dry-leaf-edited-2-cropped-1080w-560x420.jpeg" width="200" alt="Ba Bao Cha (Eight Treasures) Caffeine Free Herbal Tea">](https://sevencups.com/shop/ba-bao-cha-eight-treasures/)<br>Ba Bao Cha (Eight Treasures) Caffeine Free Herbal Tea | $19.75 |
+| [<img src="https://sevencups.com/files/2015/05/WT-SilNee21-Dry-Leaf-Sized-560x420.jpg" width="200" alt="Baihao Yinzhen (Silver Needle) Organic White Tea">](https://sevencups.com/shop/bai-hao-yinzhen-silver-needle-white-tea/)<br>Baihao Yinzhen (Silver Needle) Organic White Tea | $25.50 – $499.75 |
+| [<img src="https://sevencups.com/files/2014/09/OT-WhiRoo14-cheng-pin-dry-leaf-560x420.jpg" width="200" alt="Gong Mei (Tribute Eyebrow) Organic White Tea">](https://sevencups.com/shop/gong-mei-tribute-eyebrow-white-tea/)<br>Gong Mei (Tribute Eyebrow) Organic White Tea | $12.00 – $60.00 |
+| [<img src="https://sevencups.com/files/2025/10/GLPI-BigBel-3mins-560x420.jpg" width="200" alt="Big Belly Half Moon Glass Teapot">](https://sevencups.com/shop/big-belly-half-moon-glass-teapot/)<br>Big Belly Half Moon Glass Teapot | $35.00 |
+| [<img src="https://sevencups.com/files/2025/10/YXP-AntZhu-front-560x420.jpg" width="200" alt="Antique Style Purple Zhu Ni Yixing Teapot">](https://sevencups.com/shop/antique-style-purple-zhu-ni-yixing-teapot/)<br>Antique Style Purple Zhu Ni Yixing Teapot | $185.00 |
+| [<img src="https://sevencups.com/files/2024/10/YXP-ScoJia-Front-560x420.jpg" width="200" alt="Bamboo Carved Stone Scoop">](https://sevencups.com/shop/bamboo-carved-stone-scoop/)<br>Bamboo Carved Stone Scoop | $45.00 |
+| [<img src="https://sevencups.com/files/2025/04/GW-ClaPor-heng-dry-leaf-560x420.jpg" width="200" alt="Classic Porcelain Gaiwan">](https://sevencups.com/shop/classic-porcelain-gaiwan/)<br>Classic Porcelain Gaiwan | $25.00 |
+| [<img src="https://sevencups.com/files/2025/04/TC-CelCel-heng-dry-leaf-560x420.jpg" width="200" alt="Celadon Tea Cup">](https://sevencups.com/shop/celadon-tea-cup/)<br>Celadon Tea Cup | $12.00 |
+| [<img src="https://sevencups.com/files/2025/04/TT-BamTea-heng-dry-leaf-560x420.jpg" width="200" alt="Bamboo Tea Tray">](https://sevencups.com/shop/bamboo-tea-tray/)<br>Bamboo Tea Tray | $45.00 |
+| [<img src="https://sevencups.com/files/2025/04/YXP-XiShi-heng-dry-leaf-560x420.jpg" width="200" alt="Yixing Clay Teapot (Xi Shi)">](https://sevencups.com/shop/yixing-clay-teapot-xi-shi/)<br>Yixing Clay Teapot (Xi Shi) | $120.00 |
