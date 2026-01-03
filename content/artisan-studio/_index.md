@@ -39,3 +39,7 @@ tags = ['tea-category',]
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/dancong-producers/_index.md" >}}'>Phoenix Dancong Producers (凤凰单丛厂家)</a> </span> 
 </div>
+
+### Online Tea Shops
+
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-shop/us-shops/_index.md" >}}'>Popular US Shops</a></span>
