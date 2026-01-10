@@ -7,7 +7,7 @@ title: "West Lake Longjing (西湖龙井)"
 
 Longjing’s history stretches back over 1,200 years to the Tang Dynasty, but it truly became a legend during the Qing Dynasty.
 
-According to legend, the **Emperor Qianlong** visited West Lake and was so impressed by the tea at Shifeng (Lion Peak) Mountain that he granted "Imperial" status to 18 tea bushes. Those original bushes are still alive today!
+According to legend, the **Emperor Qianlong** visited West Lake and was so impressed by the tea at Shifeng (Lion Peak) Mountain that he granted "Imperial" status to 18 tea bushes. Some gardens still point to "imperial bushes" associated with this story.
 
 The name itself comes from a village well that, according to local folklore, was home to a rain-bringing dragon. During a drought, a monk supposedly prayed at the well, and the dragon obliged by bringing rain to save the tea crops. When you brew the tea, the leaves dance in the water, sometimes resembling tiny dragons swirling in a well.
 
@@ -58,7 +58,7 @@ You don't need to be a master to spot good tea! Use your senses:
 | **Liquor** | Clear, pale yellow-green. | Cloudy or brownish. |
 | **Taste** | Sweet "Umami," buttery, no bitterness. | Harsh, astringent, or bitter. |
 
-> **Pro Tip:** Look for the **Geographical Indication (GI) sticker** on the tin. Authentic West Lake Longjing often comes with a QR code or scratch-off serial number that proves it was grown in the protected Hangzhou zone.
+> **Pro Tip:** Look for the **Geographical Indication (GI) sticker** on the tin. Authentic West Lake Longjing often comes with a QR code or scratch-off serial number that can help verify it was produced within the protected Hangzhou zone.
 
 ---
 

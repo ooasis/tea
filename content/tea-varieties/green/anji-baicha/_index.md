@@ -7,7 +7,7 @@ title: "Anji Bai Cha (The White Green Tea - 安吉白茶)"
 
 Anji Bai Cha is one of the most unique teas in China. Despite its name (which translates to "Anji White Tea"), it is technically a **Green Tea**.
 
-The confusion comes from the cultivar, **"Bai Ye No. 1."** In the early spring, when the temperature is below 23°C, the tea leaves are nearly white due to a lack of chlorophyll. As the weather warms up, the leaves turn green. This rare genetic mutation was rediscovered in 1982 after being mentioned in a Song Dynasty tea treatise 900 years earlier. Because it is high in amino acids (the "sweetness" molecule) and low in chlorophyll, it is much sweeter and less bitter than typical green teas.
+The confusion comes from the cultivar, **"Bai Ye No. 1."** In early spring, when temperatures are cool, the tea leaves can appear very pale due to low chlorophyll. As the weather warms up, the leaves turn green. This rare genetic mutation was rediscovered in 1982 and is sometimes linked (in local retellings) to much older written references. Because it is high in amino acids (including L-theanine) and low in chlorophyll early in the season, many drinkers find it sweeter and less bitter than typical green teas.
 
 ---
 

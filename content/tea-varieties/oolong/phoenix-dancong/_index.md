@@ -5,7 +5,7 @@ title: "Phoenix Dancong (Fenghuang Dancong - 凤凰单丛)"
 ---
 ## The History: The "Single Bush" Perfume
 
-Phoenix Dancong is a unique family of oolong teas from the Phoenix Mountains in Guangdong Province. Its history dates back over 900 years, with some ancient trees from the Song Dynasty still producing tea today!
+Phoenix Dancong is a unique family of oolong teas from the Phoenix Mountains in Guangdong Province. Local tradition often traces its heritage back toward the Song era, and the region is known for very old trees and long tea-making lineages.
 
 The name **"Dancong"** literally means "single bush." Traditionally, these teas were harvested and processed from individual, genetically distinct tea trees, each with its own unique aroma. This resulted in a dizzying array of "fragrance types" that are all natural—no flowers or oils are ever added.
 
@@ -15,9 +15,9 @@ The name **"Dancong"** literally means "single bush." Traditionally, these teas 
 
 The "terroir" of Dancong is the **Phoenix Mountain (Fenghuangshan)** range near Chaozhou.
 
-*   **Volcanic Soil:** The mountains are ancient volcanoes, providing a soil rich in minerals that gives the tea its characteristic "mountain charm" (Shan Yun).
+*   **Mineral-rich soils:** The mountain soils are often described as mineral-rich, contributing to the tea’s "mountain charm" (Shan Yun).
 *   **Altitude:** The best teas (High Mountain / Gao Shan) grow above 1,000 meters, where the cool air and mist slow the growth of the leaves.
-*   **The City of Chaozhou:** The local culture is inseparable from the tea. Chaozhou is the birthplace of **Gongfu Cha**, the traditional, high-leaf-to-water ratio brewing method.
+*   **The City of Chaozhou:** The local culture is inseparable from the tea. Chaozhou is one of the most influential heartlands of **Gongfu Cha**, the traditional, high-leaf-to-water ratio brewing method.
 
 ---
 

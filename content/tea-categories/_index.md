@@ -16,7 +16,7 @@ The foundation of all Chinese tea knowledge begins with understanding the **Six 
 
 {{< img src="green.png" w="200x" alt="Green Tea" class="float-image" >}}
 
-Green tea is the oldest and most popular category in China, representing the "fresh leaf" in its purest form. It is non-oxidized; the leaves are heated shortly after picking to "kill the green" (*shāqīng*), which stops the natural enzymatic breakdown. This preserves the vibrant green color, high antioxidant content, and the fresh, vegetal aroma that defines the category. Historically, Green tea has been documented since the Tang Dynasty (618–907 AD), where it was the primary form of "tribute tea" sent to the Imperial Court.
+Green tea is often considered the oldest and most popular category in China, representing the "fresh leaf" in its purest form. It is non-oxidized; the leaves are heated shortly after picking to "kill the green" (*shāqīng*), which stops the natural enzymatic breakdown. This preserves the vibrant green color and the fresh, vegetal aroma that defines the category. Historically, green tea is documented since at least the Tang Dynasty (618–907 AD), where it was a primary form of "tribute tea" sent to the Imperial Court.
 
 Quality in Green tea is often defined by the "tenderness" of the pluck. The most prestigious grade is **Mingqian**, referring to tea picked before the Qingming Festival in early April, when the buds are at their sweetest. As the season progresses into **Yuqian** (before the Grain Rain), the leaves become larger and the flavor profile becomes more robust and slightly more astringent.
 
@@ -83,7 +83,7 @@ Because the "yellowing" process requires a master's touch to prevent the leaves 
 
 {{< img src="oolong.png" w="200x" alt="Oolong Tea" class="float-image" >}}
 
-Oolong is often called the "Artisan’s Tea" because it is partially oxidized (anywhere from 20% to 80%) and requires the most complex processing. It involves repeated bruising, shaking, withering, and often charcoal roasting to coax out specific aromatic compounds. This results in an incredibly broad spectrum of flavors, ranging from light and floral to dark, stony, and fruity. Oolong was developed in the 17th century in the Wuyi Mountains of Fujian and became the centerpiece of the *Gongfu Cha* tea ceremony.
+Oolong is often called the "Artisan’s Tea" because it is partially oxidized (anywhere from 20% to 80%) and requires complex processing. It involves repeated bruising, shaking, withering, and often charcoal roasting to coax out specific aromatic compounds. This results in an incredibly broad spectrum of flavors, ranging from light and floral to dark, stony, and fruity. Oolong is commonly associated with the late Ming / early Qing era in Fujian (especially the Wuyi region) and later became closely associated with *Gongfu Cha* brewing culture.
 
 Grading in Oolong is multifaceted, focusing on the altitude of the garden (High Mountain vs. Lowland), the level of charcoal roasting, and the specific cultivar of the tea bush. Each variety listed below carries a distinct "rock rhyme" (*yán yùn*) or floral fragrance that defines its quality.
 
@@ -108,7 +108,7 @@ Grading in Oolong is multifaceted, focusing on the altitude of the garden (High 
 
 {{< img src="red.png" w="200x" alt="Red Tea" class="float-image" >}}
 
-What the West calls Black tea is known in China as **Red Tea** (*Hóng Chá*), named after the reddish-amber color of the brewed liquid. It is fully oxidized, a process that turns the leaves dark and transforms their chemical makeup to produce robust flavors of malt, chocolate, and dark fruit. The history of Black tea began with **Lapsang Souchong** in the Wuyi Mountains, which is considered the world's first black tea, originally smoked over pine wood to preserve it for long journeys.
+What the West calls Black tea is known in China as **Red Tea** (*Hóng Chá*), named after the reddish-amber color of the brewed liquid. It is fully oxidized, a process that turns the leaves dark and transforms their chemical makeup to produce robust flavors of malt, chocolate, and dark fruit. The history of black/red tea is often traced to early Wuyi styles such as **Lapsang Souchong**, which is frequently cited as one of the earliest black teas and is traditionally smoked over pine wood to help it store and travel.
 
 Grading in the Chinese Red Tea tradition emphasizes the presence of golden buds. The highest tiers consist almost entirely of tiny, golden-tipped buds which provide a silky texture and natural honey sweetness, whereas lower grades include more mature leaves and offer a more astringent, "brisk" cup.
 
@@ -131,7 +131,7 @@ Grading in the Chinese Red Tea tradition emphasizes the presence of golden buds.
 
 {{< img src="black.png" w="200x" alt="Black Tea" class="float-image" >}}
 
-Black tea is the only category that undergoes true microbial fermentation. Unlike other teas, Black tea—the most famous of which is **Pu-erh**—is a "living" product that continues to evolve and improve with age. It was historically produced for trade with Tibet and Mongolia along the "Tea Horse Road," where the long journeys and humid conditions naturally fermented the tea bricks. This fermentation creates deep, earthy, and woody flavors that are often compared to a damp forest floor or sweet beetroots.
+Black tea is the category most associated with post-fermentation (microbial activity during processing and/or storage). Unlike other teas, Black tea—the most famous of which is **Pu-erh**—is often described as a "living" product that can continue to evolve with age. It was historically produced for trade with Tibet and Mongolia along the "Tea Horse Road," where long journeys and humid conditions could encourage fermentation in compressed tea. This fermentation creates deep, earthy, and woody flavors that are often compared to a damp forest floor or sweet beetroots.
 
 The grading of Dark tea is unique; while leaf size matters, the most important factors are the age of the tea and the age of the trees. **Gushu** (Ancient Tree) tea is the highest grade, prized for its complex mouthfeel and "tea energy" (*Cha Qi*). Dark tea is also divided into **Sheng** (Raw), which ages naturally, and **Shu** (Ripe), which undergoes an accelerated fermentation process.
 

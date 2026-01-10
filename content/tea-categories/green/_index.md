@@ -8,11 +8,11 @@ weight = 10
 
 {{< img src="green.png" w="260x" alt="Green Tea" class="float-image" >}}
 
-### The Ancestral Leaf: A Legacy of Five Thousand Years
+### The Ancestral Leaf: A Legacy of Many Centuries
 
-The history of green tea is essentially the history of civilization in the East. While Western history often points to the 17th-century tea trade, Chinese green tea dates back nearly five millennia to the legendary Emperor Shennong. He was said to be a divine healer who tested hundreds of herbs on himself; one afternoon, as he boiled water under a wild tea tree, a few leaves drifted into his pot. He found the resulting brew refreshing and detoxifying, and thus, the world’s first cup of green tea was poured.
+The history of green tea is deeply intertwined with Chinese history and literature. While Western history often points to the 17th-century tea trade, Chinese tradition traces tea back to legendary figures like Emperor Shennong. In the best-known origin story, a few leaves drift into his boiling water; he finds the brew refreshing—and thus, the first cup of tea is born (in legend).
 
-However, the green tea we drink today—the loose, vibrant leaves—didn’t become the standard until the Ming Dynasty. Before that, during the Tang and Song eras, tea was steamed and pressed into hard cakes or ground into fine powders. It was Emperor Hongwu who changed everything by decreeing that tribute tea should be delivered in loose-leaf form to alleviate the labor-intensive burden on the farmers. This single royal command sparked a revolution in processing, leading to the pan-firing techniques that define the nutty, toasted character of modern Chinese greens.
+However, the green tea we drink today—the loose, vibrant leaves—didn’t become the standard until the Ming Dynasty. Before that, during the Tang and Song eras, tea was often steamed and pressed into cakes or ground into powders. The shift toward loose-leaf tribute tea in the early Ming is commonly associated with Emperor Hongwu, and it helped accelerate the pan-firing techniques that define the nutty, toasted character of modern Chinese greens.
 
 ### A Tour of the Great Gardens: Geography and Terroir
 

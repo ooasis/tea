@@ -5,20 +5,20 @@ title: "Lapsang Souchong (Zheng Shan Xiao Zhong - 正山小种)"
 ---
 ## The History: The World's First Black Tea
 
-Lapsang Souchong holds the title of the **world's first black (red) tea**, originating in the late Ming Dynasty. 
+Lapsang Souchong is often cited as one of the earliest Chinese black (red) teas, commonly associated with the late Ming / early Qing period.
 
-Legend has it that an army passing through the Wuyi Mountains camped at a tea factory. Their presence delayed the drying of the fresh leaves. To save the crop, the farmers sped up the drying process by burning local pine wood. The leaves absorbed the resinous smoke, creating a unique, bold flavor. To their surprise, Dutch traders loved the smoky tea, and it became an international sensation, eventually becoming the favorite tea of Winston Churchill and Sherlock Holmes.
+Legend has it that an army passing through the Wuyi Mountains camped at a tea factory. Their presence delayed the drying of the fresh leaves. To save the crop, the farmers sped up the drying process by burning local pine wood. The leaves absorbed the resinous smoke, creating a unique, bold flavor. The smoky style later became popular with overseas traders and drinkers.
 
 ---
 
 ## Geography: The Mist of Tongmu Village
 
-The only place that can produce authentic Lapsang Souchong is **Tongmu Village** within the Wuyi Nature Reserve. 
+Tongmu Village within the Wuyi Nature Reserve is widely regarded as the original home of Lapsang Souchong, and "Zheng Shan" (Original Mountain) is typically used for tea made from within that protected core area.
 
 *   **Zheng Shan (Original Mountain):** Refers to tea grown within the strict boundaries of Tongmu.
 *   **Souchong (Xiao Zhong):** Refers to the "small leaf" variety of tea bush native to the area.
 
-The village is high-altitude, secluded, and pristine. The ecosystem is so protected that non-residents often need special permits to enter. This terroir produces a tea with a natural "longan" fruit sweetness that imitation teas lack.
+The village is high-altitude, secluded, and protected. Access can be restricted for non-residents, depending on local rules. Many drinkers associate Tongmu material with a natural "longan" fruit sweetness that is hard to replicate elsewhere.
 
 ---
 

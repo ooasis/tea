@@ -33,7 +33,7 @@ Because Oolong is defined by its degree of oxidation (anywhere from 10% to 80%) 
 
 ## Of Mist and Granite: The Geography of the Tea Farms
 
-The geography of Oolong is perhaps the most dramatic in the tea world. In the **Wuyi Mountains**, a UNESCO World Heritage site, the tea bushes grow directly out of the cracks in limestone cliffs. The roots of these "Rock Teas" (Yancha) drink in the mineral-rich runoff from the mountains, which creates a distinct "stony" taste in the throat that enthusiasts crave.
+The geography of Oolong is perhaps the most dramatic in the tea world. In the **Wuyi Mountains**, a UNESCO World Heritage site, the tea bushes grow among rocky cliffs and ravines. The roots of these "Rock Teas" (Yancha) draw from mineral-rich runoff, which many drinkers associate with a distinct "stony" sensation in the throat.
 
 In contrast, the **High Mountain Oolongs of Taiwan** are grown at altitudes above 1,000 meters, where the air is thin and the temperature drops sharply at night. This stress causes the tea plants to produce high levels of sugar and pectin, resulting in a tea that feels like "liquid silk" on the palate. Meanwhile, in **Guangdong**, the ancient "Dancong" trees—some hundreds of years old—grow as single, tall trees rather than pruned bushes, producing a tea so aromatic that it is often mistaken for being artificially scented with fruit or flowers.
 

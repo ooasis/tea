@@ -7,9 +7,9 @@ title: "Da Hong Pao (Big Red Robe - 大红袍)"
 
 Da Hong Pao is perhaps the most legendary of all Chinese teas. Its history is steeped in imperial myth, dating back to the Ming Dynasty.
 
-According to the most popular legend, a candidate traveling to the imperial examinations fell ill in the Wuyi Mountains. A monk from the Tianxin Temple brewed a tea from local bushes that miraculously cured him. After passing his exams and being awarded a high position (marked by a red robe), he returned to the mountains to drape his **imperial red robe** over the tea bushes in gratitude. 
+According to the most popular legend, a candidate traveling to the imperial examinations fell ill in the Wuyi Mountains. A monk from the Tianxin Temple brewed a tea from local bushes that was said to help him recover. After passing his exams and being awarded a high position (marked by a red robe), he returned to the mountains to drape his **imperial red robe** over the tea bushes in gratitude. 
 
-Today, only six original "mother bushes" remain on a cliffside in the Jiulongke (Nine Dragon Cave) area. These bushes are so precious they are strictly protected and no longer harvested; the last batch ever sold at auction fetched over $30,000 for just 20 grams!
+Today, a small number of original "mother bushes" remain on a cliffside in the Jiulongke (Nine Dragon Cave) area. These bushes are strictly protected and are no longer harvested; rare historic lots have reportedly fetched extraordinary prices at auction.
 
 ---
 

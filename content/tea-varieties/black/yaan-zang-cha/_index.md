@@ -5,7 +5,7 @@ title: "Ya'an Zang Cha (Tibetan Border Tea - 雅安藏茶)"
 ---
 ## The Culture: The "Life-Giving" Tea of the Plateaus
 
-Ya'an Zang Cha (literally "Tibetan Tea") is one of the most historically significant teas in China. For over 1,300 years, it was the primary trade commodity on the **Sichuan-Tibet Tea Horse Road**. In the high-altitude, harsh environment of the Tibetan Plateau, where vegetables are scarce, this tea was—and is—a vital source of vitamins and minerals. There is a famous Tibetan saying: *"I would rather go three days without food than one day without tea."*
+Ya'an Zang Cha (literally "Tibetan Tea") is one of the most historically significant teas in China. For over 1,300 years, it was a major trade commodity on the **Sichuan-Tibet Tea Horse Road**. In the high-altitude, harsh environment of the Tibetan Plateau—where fresh vegetables can be scarce—this tea became a daily staple in butter tea culture. There is a famous Tibetan saying: *"I would rather go three days without food than one day without tea."*
 
 Unlike the delicate green teas of the lowlands, Zang Cha is built for endurance. It is designed to be boiled for long periods and mixed with yak butter, salt, and roasted barley (Tsampa). It is a "working" tea, robust and grounding.
 
@@ -22,7 +22,7 @@ The home of Zang Cha is **Ya'an**, a city in Sichuan Province known as the "Rain
 
 ## Decoding the Grades & Processing
 
-Zang Cha undergoes one of the most complex processing methods in the tea world, involving up to **32 distinct steps** of firing, rolling, and "aging in piles" (fermentation).
+Zang Cha undergoes one of the more complex processing methods in the tea world, often described as involving many distinct steps of firing, rolling, and "aging in piles" (fermentation).
 
 ### 1. The Raw Material
 Zang Cha uses mature leaves and stems. The stems are actually a vital component—they contain natural sugars that enhance the sweetness of the tea during long boiling sessions and provide structure to the compressed bricks.
@@ -60,6 +60,6 @@ Zang Cha is a specialty of Sichuan. Look for vendors who focus on the "Tradition
 
 ---
 
-Ya'an Zang Cha is a tea for the soul. It is exceptionally grounding and is one of the few teas that **never becomes bitter**, no matter how long you boil it. For the best experience, simmer a small amount of the tea in a pot for 5–10 minutes and enjoy its deep, sweet warmth.
+Ya'an Zang Cha is a tea for the soul. It is exceptionally grounding and tends to stay smooth even with long boils. For the best experience, simmer a small amount of the tea in a pot for 5–10 minutes and enjoy its deep, sweet warmth.
 
 

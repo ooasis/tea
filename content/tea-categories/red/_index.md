@@ -14,9 +14,9 @@ weight = 50
 
 ## The Crimson Revolution: History and Culture
 
-Red tea is a relatively young member of the tea family, emerging in the late Ming and early Qing Dynasties (around the 17th century). Legend has it that its discovery was a happy accident in the Wuyi Mountains. A passing army decided to camp at a tea factory, delaying the drying of the fresh leaves. To keep them from rotting, the farmers quickly dried the now-darkened leaves over pine fires. The result was **Lapsang Souchong**, the world’s first red tea.
+Red tea is a relatively young member of the tea family, emerging in the late Ming and early Qing Dynasties (around the 17th century). Legend has it that its discovery was a happy accident in the Wuyi Mountains. A passing army decided to camp at a tea factory, delaying the drying of the fresh leaves. To keep them from spoiling, the farmers quickly dried the now-darkened leaves over pine fires. The result was **Lapsang Souchong**, often cited as one of the earliest red/black teas.
 
-While green tea was the drink of the scholarly elite, red tea became the engine of global trade. It was this "Red Tea" that captured the hearts of European royals and fueled the tea culture of the British Empire. In China today, red tea is celebrated for its "warm" nature in Traditional Chinese Medicine; it is often the tea of choice during the cold winter months or for those with a "cool" stomach, praised for its ability to soothe and provide a gentle, comforting energy.
+While green tea was long associated with the scholarly elite, red tea became a major driver of global trade. It was this "Red Tea" that captured the hearts of European royals and fueled the tea culture of the British Empire. In China today, red tea is often described as "warming" in Traditional Chinese Medicine; it’s commonly chosen in colder months or by those who prefer gentler teas.
 
 ## The Jewels of the East: Famous Varieties
 
