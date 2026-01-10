@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tea Lab logo">
+  <title>Tea Lab</title>
+  <!-- Sprout + beaker mark -->
+  <!-- Beaker (light purple), behind -->
+  <g fill="none" stroke="#c4b5fd" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M26 24h16"/>
+    <path d="M29 24l-4 24c-.35 1.9 1.0 3.6 3.0 3.6h12c2.0 0 3.35-1.7 3.0-3.6l-4-24"/>
+    <path d="M30 38c1.6 1.1 3.4 1.1 5 0s3.4-1.1 5 0" opacity="0.85"/>
+  </g>
+  <!-- Sprout (green), foreground -->
+  <g fill="none" stroke="#22c55e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 50c0-12 0-18 3-28"/>
+    <path d="M31 19c-6-1-10-5-12-11c8-1 14 2 16 7"/>
+    <path d="M35 17c2-6 8-10 16-11c-2 8-7 14-14 15"/>
+  </g>
+</svg>

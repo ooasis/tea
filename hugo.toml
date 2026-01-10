@@ -32,6 +32,9 @@ enableRobotsTXT = true
   name = 'Latest Articles'
   bio = 'Explore the world of tea'
   mainSections = ['blogs']
+  # Logo variants: "sprout-beaker" (default), "badge", "classic"
+  # logoVariant = 'sprout-beaker'
+  favicon = 'favicon.svg'
   # SEO
   # The Paper theme gates canonical/OG/schema on production or params.env == "production".
   # Cloudflare Pages should build with `hugo --environment production`, but this keeps
