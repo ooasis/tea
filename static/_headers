@@ -1,1 +1,9 @@
+/tags
+  X-Robots-Tag: noindex, follow
+/tags/
+  X-Robots-Tag: noindex, follow
+/tags/*
+  X-Robots-Tag: noindex, follow
 
+/page/*
+  X-Robots-Tag: noindex, follow
