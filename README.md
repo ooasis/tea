@@ -1,4 +1,4 @@
-# Tea Lab / 小茶坊
+# Tea & Me
 
 A multilingual Hugo static site about tea, featuring the [hugo-paper](https://github.com/nanxiaobei/hugo-paper) theme.
 

@@ -1,8 +1,8 @@
-baseURL = 'https://tea.suns-online.com/'
+baseURL = 'https://teaandme.com/'
 languageCode = 'en'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
-title = 'Tea Lab'
+title = 'Tea & Me'
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 enableRobotsTXT = true
@@ -43,7 +43,7 @@ enableRobotsTXT = true
   description = 'Explore the world of Chinese tea: varieties, processing, terroir, teaware, and tasting.'
   # Used by Hugo internal OpenGraph/Twitter templates as a default preview image.
   images = ['images/green-tea.jpg']
-  author = 'Tea Lab'
+  author = 'Tea & Me'
 
 # Needed to render raw HTML
 [markup]
