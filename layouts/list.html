@@ -67,15 +67,19 @@
 
 {{- if $isTagPage -}}
 <a
-  class="rounded-lg bg-black/[3%] px-4 py-2 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+  class="block px-1 py-1 no-underline hover:underline"
   href="{{ $page.RelPermalink }}"
 >
-  {{- if gt $page.Weight 0 -}}
-  <div class="mb-1 text-[11px] tracking-wider text-orange-500">FEATURED</div>
-  {{- end -}}
   <div class="text-sm font-medium leading-snug">{{ $page.Title }}</div>
-  {{- if $page.Date -}}
-  <div class="mt-1 text-xs opacity-60">{{ $page.Date | time.Format ":date_medium" }}</div>
+  {{- if or $page.Date (gt $page.Weight 0) -}}
+  <div class="mt-1 text-xs opacity-60">
+    {{- if $page.Date -}}
+    {{ $page.Date | time.Format ":date_medium" }}
+    {{- end -}}
+    {{- if gt $page.Weight 0 -}}
+    {{- if $page.Date -}}<span class="mx-1.5">&middot;</span>{{- end -}}<span class="text-orange-500">Featured</span>
+    {{- end -}}
+  </div>
   {{- end -}}
 </a>
 {{- else -}}
