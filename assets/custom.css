@@ -1,6 +1,16 @@
 /* Place custom css here. */
 @reference './app.css';
 
+/* Wider content area on laptop/desktop */
+:root {
+  --w: calc(820px + 32px * 2);
+}
+@media (min-width: 1024px) {
+  :root {
+    --w: calc(900px + 32px * 2);
+  }
+}
+
 .float-image {
   float: left;
   margin-right: 1rem;

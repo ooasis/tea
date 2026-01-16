@@ -25,6 +25,11 @@ enableRobotsTXT = true
     name = "The Tasting Room"
     url = "/tasting-room/"
     weight = 20
+  [[menu.main]]
+    identifier = "all-topics"
+    name = "All Topics"
+    url = "/tags/"
+    weight = 30
 
 [params]
   color = 'linen'
