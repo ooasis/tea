@@ -12,6 +12,36 @@ table td, table th {
   vertical-align: top;
 }
 
+/* Home page: 1 column on mobile, 2 columns on larger screens */
+.home-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+.home-main {
+  min-width: 0;
+}
+.home-sidebar-inner {
+  position: relative;
+}
+@media (min-width: 768px) {
+  .home-layout {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 3rem;
+  }
+  .home-main {
+    flex: 2;
+  }
+  .home-sidebar {
+    flex: 1;
+  }
+  .home-sidebar-inner {
+    position: sticky;
+    top: 1.5rem;
+  }
+}
+
 .sample-grid table {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
