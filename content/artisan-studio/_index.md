@@ -1,10 +1,9 @@
 +++
-date = '2025-12-24T10:10:30-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = "The Artisan's Studio"
-tags = ['tea-category',]
+tags = ['culture', 'harvest', 'processing', 'producers', 'vendors']
 +++
-
 ### Tea Categories
 
 <div class="flex flex-wrap gap-2.5 text-sm">

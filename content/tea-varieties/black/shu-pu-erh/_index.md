@@ -2,6 +2,8 @@
 draft: false
 
 title: "Shu Pu-erh (Ripe Pu-erh - 熟普洱)"
+date: 2026-01-16T00:00:00-08:00
+tags: [dark-tea, culture, processing, buying-guide, yunnan]
 ---
 ## The History: A Modern Miracle of Fermentation
 

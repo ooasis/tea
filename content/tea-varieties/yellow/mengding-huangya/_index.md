@@ -2,6 +2,8 @@
 draft: false
 
 title: "Mengding Huangya (Meng Mountain Yellow Sprout - 蒙頂黃芽)"
+date: 2026-01-16T00:00:00-08:00
+tags: [yellow-tea, culture, buying-guide, sichuan]
 ---
 ## The Culture: The "First Mountain" of Tea
 

@@ -2,6 +2,8 @@
 draft: false
 
 title: "Sheng Pu-erh (Raw Pu-erh - 生普洱)"
+date: 2026-01-16T00:00:00-08:00
+tags: [dark-tea, culture, processing, buying-guide, yunnan]
 ---
 ## The History: The Ancient Tea Horse Road
 

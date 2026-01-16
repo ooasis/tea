@@ -2,6 +2,8 @@
 draft: false
 
 title: "Phoenix Dancong (Fenghuang Dancong - 凤凰单丛)"
+date: 2026-01-16T00:00:00-08:00
+tags: [oolong, culture, brewing, buying-guide, guangdong]
 ---
 ## The History: The "Single Bush" Perfume
 

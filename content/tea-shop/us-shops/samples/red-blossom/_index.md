@@ -1,9 +1,9 @@
 +++
 title = "Samples from Red Blossom Tea Co."
-date = "2025-12-28T00:00:00-08:00"
+tags = ['vendors']
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 +++
-
 Below are some popular sample products from **Red Blossom Tea Co.**.
 
 {{< sample-grid >}}

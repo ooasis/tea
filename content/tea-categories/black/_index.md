@@ -1,11 +1,10 @@
 +++
-date = '2025-12-25T10:00:00-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Black Tea (Hēi Chá | 黑茶) — Dark & Pu-erh'
-tags = ['category']
+tags = ['dark-tea', 'puerh', 'culture', 'processing']
 weight = 60
 +++
-
 {{< img src="black.png" w="260x" alt="Black (Dark) Tea" class="float-image" >}}
 
 **Black Tea (Heicha)** is its wise, weathered elder. To avoid confusion, we must first clear up a linguistic mystery: what the West calls "black tea" (like Earl Grey or English Breakfast) is actually called "red tea" in China. True Chinese **Black Tea**, or **Dark Tea**, is a category of post-fermented teas that have been aged—sometimes for decades—to develop deep, earthy, and subterranean flavors that no other tea can mimic.

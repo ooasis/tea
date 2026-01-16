@@ -1,11 +1,10 @@
 +++
-date = '2025-12-25T10:00:00-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Oolong Tea (Wūlóng Chá | 乌龙茶)'
-tags = ['category']
+tags = ['oolong', 'culture', 'processing']
 weight = 40
 +++
-
 {{< img src="oolong.png" w="260x" alt="Oolong Tea" class="float-image" >}}
 
 **Oolong Tea (Wulong)** is a grand, multi-act opera. For many tea lovers, Oolong is the "final destination"—it is the most complex, diverse, and technically demanding category of tea in existence. Positioned artistically between unoxidized green tea and fully oxidized black tea, Oolong offers a dizzying spectrum of flavors, ranging from the scent of blooming lilies and honeyed peaches to the deep, comforting aroma of roasted chocolate and charcoal-fired minerals.

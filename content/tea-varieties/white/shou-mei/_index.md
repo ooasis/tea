@@ -2,6 +2,8 @@
 draft: false
 
 title: "Shou Mei (Longevity Eyebrow - 寿眉)"
+date: 2026-01-16T00:00:00-08:00
+tags: [white-tea, culture, processing, buying-guide, fujian]
 ---
 ## The Culture: The "Humility" of White Tea
 

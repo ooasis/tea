@@ -1,9 +1,9 @@
 +++
-date = '2025-12-27T10:16:03-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Gai Wan'
+tags = ['teaware', 'culture', 'brewing', 'gaiwan']
 +++
-
 ## 1. A Journey Through Time: The History of the Gaiwan
 
 The name "Gaiwan" literally translates to **"Lidded Bowl"** (*Gai* 盖 meaning lid, and *Wan* 碗 meaning bowl). But its history is a fascinating evolution of how we interact with tea.

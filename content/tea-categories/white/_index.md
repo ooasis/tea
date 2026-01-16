@@ -1,11 +1,10 @@
 +++
-date = '2025-12-25T10:00:00-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'White Tea (Bái Chá | 白茶)'
-tags = ['category']
+tags = ['white-tea', 'culture', 'processing']
 weight = 20
 +++
-
 {{< img src="white.png" w="260x" alt="White Tea" class="float-image" >}}
 
 If green tea is a snapshot of spring, white tea is the gentle exhale of a quiet afternoon. Among the various categories of Chinese tea, white tea is the most minimalist, the most ethereal, and perhaps the most misunderstood. Often sought after for its high antioxidant content and its delicate, honey-sweet profile, it is a tea that celebrates "non-doing." As we venture into the mist-covered hills of Fujian, you’ll discover that while white tea involves the least amount of human intervention, it requires the most profound understanding of nature.

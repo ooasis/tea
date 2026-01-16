@@ -2,6 +2,8 @@
 draft: false
 
 title: "Da Hong Pao (Big Red Robe - 大红袍)"
+date: 2026-01-16T00:00:00-08:00
+tags: [oolong, culture, brewing, buying-guide, fujian]
 ---
 ## The Myth and History: The Scholar’s Robe
 

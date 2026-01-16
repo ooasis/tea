@@ -2,6 +2,8 @@
 draft: false
 
 title: "Dongting Biluochun (Green Snail Spring - 洞庭碧螺春)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, jiangsu]
 ---
 ## The History: The "Scary" Fragrance
 

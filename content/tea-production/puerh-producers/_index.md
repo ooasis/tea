@@ -1,9 +1,9 @@
 +++
-date = '2025-12-26T12:36:57-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Puer Producers'
+tags = ['puerh', 'buying-guide', 'producers', 'yunnan']
 +++
-
 ---
 
 # The Titans of Tea: A Guide to Pu-erh’s Legendary Factories and Artisans

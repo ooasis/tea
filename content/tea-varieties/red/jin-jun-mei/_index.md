@@ -2,6 +2,8 @@
 draft: false
 
 title: "Jin Jun Mei (Golden Steed Eyebrow - 金骏眉)"
+date: 2026-01-16T00:00:00-08:00
+tags: [red-tea, culture, grading, buying-guide, fujian]
 ---
 ## The History: The Modern Legend of Wuyi
 

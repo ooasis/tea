@@ -2,6 +2,8 @@
 draft: false
 
 title: "Lapsang Souchong (Zheng Shan Xiao Zhong - 正山小种)"
+date: 2026-01-16T00:00:00-08:00
+tags: [red-tea, culture, buying-guide, fujian]
 ---
 ## The History: The World's First Black Tea
 

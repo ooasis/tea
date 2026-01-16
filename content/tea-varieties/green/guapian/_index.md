@@ -2,6 +2,8 @@
 draft: false
 
 title: "Lu'an Gua Pian (Melon Seed Tea - 六安瓜片)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, anhui]
 ---
 ## The History: The Unique Budless Wonder
 

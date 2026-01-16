@@ -2,6 +2,8 @@
 draft: false
 
 title: "Qimen Hongcha (Keemun - 祁门红茶)"
+date: 2026-01-16T00:00:00-08:00
+tags: [red-tea, culture, buying-guide, anhui]
 ---
 ## The History: The "Burgundy" of Teas
 

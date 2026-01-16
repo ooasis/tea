@@ -2,6 +2,8 @@
 draft: false
 
 title: "Taiping Houkui (Monkey King - 太平猴魁)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, anhui]
 ---
 ## The History: The "Monkey King" of Green Tea
 

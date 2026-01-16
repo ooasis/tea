@@ -2,6 +2,8 @@
 draft: false
 
 title: "West Lake Longjing (西湖龙井)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, grading, buying-guide, zhejiang]
 ---
 ## The Myth and History: Why "Dragon Well"?
 

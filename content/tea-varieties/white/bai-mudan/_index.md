@@ -2,6 +2,8 @@
 draft: false
 
 title: "Bai Mudan (White Peony - 白牡丹)"
+date: 2026-01-16T00:00:00-08:00
+tags: [white-tea, culture, buying-guide, fujian]
 ---
 ## The Culture: The "Middle Path" of White Tea
 

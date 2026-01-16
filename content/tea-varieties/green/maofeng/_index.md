@@ -2,6 +2,8 @@
 draft: false
 
 title: "Huangshan Maofeng (Yellow Mountain Fur Peak - 黄山毛峰)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, anhui]
 ---
 ## The History: The Tea of the Yellow Mountain
 

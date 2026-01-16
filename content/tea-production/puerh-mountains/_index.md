@@ -1,9 +1,9 @@
 +++
-date = '2025-12-26T12:15:24-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'The Big Three: History and Terroir of Pu-erh'
+tags = ['puerh', 'culture', 'processing', 'yunnan']
 +++
-
 # The Heart of Pu-erh: The "Big Three" Producing Regions
 
 To truly understand Pu-erh is to understand the land and the people of Yunnan. This tea isn't just a beverage; it is a living history of the Silk Road’s southern cousin—the **Ancient Tea-Horse Road** (*Chama Gudao*). For over a thousand years, caravans laden with tea traveled from these mountains to Tibet, Southeast Asia, and the Imperial Palace in Beijing.

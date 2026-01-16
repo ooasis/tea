@@ -1,10 +1,9 @@
 +++
-date = '2025-12-27T10:52:34-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Zi Sha'
+tags = ['teaware', 'culture', 'brewing', 'zisha']
 +++
-
-
 ## 1. The Raw Material: "Five-Color Earth" (五色土)
 
 The soul of a Yixing pot is the clay itself. Mined from the **Huanglong Mountain (黄龙山)** in Yixing, Jiangsu Province, this ore is often called "Five-Color Earth" because of the vibrant natural hues it takes on after firing.

@@ -2,6 +2,8 @@
 draft: false
 
 title: "Xinyang Maojian (Green Tip - 信阳毛尖)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, henan]
 ---
 ## The Culture: The "King" of Northern Green Teas
 

@@ -2,6 +2,8 @@
 draft: false
 
 title: "Tieguanyin (Iron Goddess of Mercy - 铁观音)"
+date: 2026-01-16T00:00:00-08:00
+tags: [oolong, culture, brewing, buying-guide, fujian]
 ---
 ## The Myth and History: The Devout Farmer
 

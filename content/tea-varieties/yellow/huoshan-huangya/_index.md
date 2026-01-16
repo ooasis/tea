@@ -2,6 +2,8 @@
 draft: false
 
 title: "Huoshan Huangya (Yellow Sprout - 霍山黃芽)"
+date: 2026-01-16T00:00:00-08:00
+tags: [yellow-tea, culture, buying-guide, anhui]
 ---
 ## The Culture: The "Golden Bud" of Anhui
 

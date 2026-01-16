@@ -2,6 +2,8 @@
 draft: false
 
 title: "Oriental Beauty (Bai Hao Oolong - 东方美人)"
+date: 2026-01-16T00:00:00-08:00
+tags: [oolong, culture, buying-guide, taiwan]
 ---
 ## The History: The Tea Bitten by Insects
 

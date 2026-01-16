@@ -2,6 +2,8 @@
 draft: false
 
 title: "Zhu Ye Qing (Green Bamboo Reed - 竹叶青)"
+date: 2026-01-16T00:00:00-08:00
+tags: [green-tea, culture, buying-guide, sichuan]
 ---
 ## The Culture: The Zen Tea of Mount Emei
 

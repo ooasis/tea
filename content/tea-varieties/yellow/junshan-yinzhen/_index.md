@@ -2,6 +2,8 @@
 draft: false
 
 title: "Junshan Yinzhen (Silver Needle of the Emperor's Isle - 君山银针)"
+date: 2026-01-16T00:00:00-08:00
+tags: [yellow-tea, culture, buying-guide, hunan]
 ---
 ## The History: The Emperor’s Tribute
 

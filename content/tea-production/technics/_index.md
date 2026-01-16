@@ -1,11 +1,10 @@
 +++
-date = '2025-12-25T10:05:00-08:00'
+date = '2026-01-16T00:00:00-08:00'
 draft = false
 title = 'Technics'
-tags = ['production']
+tags = ['culture', 'processing']
 weight = 10
 +++
-
 Hello tea friends! Welcome back to the tea table.
 
 If you’ve ever wondered why a cup of Green Tea tastes grassy and fresh while a cup of Black Tea tastes malty and sweet—even though they come from the exact same plant (*Camellia sinensis*)—the answer lies in the **art of processing**.

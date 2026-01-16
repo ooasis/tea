@@ -2,6 +2,8 @@
 draft: false
 
 title: "Liu An Basket Tea (Six-Peace Dark Tea - 六安籃茶)"
+date: 2026-01-16T00:00:00-08:00
+tags: [dark-tea, culture, buying-guide, anhui]
 ---
 ## The Culture: The "Medicine" of the Overseas Chinese
 
