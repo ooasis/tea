@@ -2,8 +2,8 @@
 date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'US Shops'
-tags = ['buying-guide', 'vendors']
 +++
+
 
 The list below focuses on the top-rated online shops that specialize primarily in **authentic Chinese tea**, prioritizing those with established US fulfillment and strong community reputations for quality and reliability.
 

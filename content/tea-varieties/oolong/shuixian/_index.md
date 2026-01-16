@@ -2,8 +2,8 @@
 draft: false
 
 title: "Shuixian (Narcissus Rock Oolong - 水仙)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [oolong, culture, brewing, buying-guide, fujian]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The Culture: The "Gentle Giant" of Wuyi

@@ -2,8 +2,8 @@
 draft: false
 
 title: "Anhua Hei Cha (Hunan Dark Tea - 安化黑茶)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [dark-tea, culture, processing, buying-guide, hunan]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The Culture: The "Golden Flower" Miracle

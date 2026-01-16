@@ -2,8 +2,8 @@
 draft: false
 
 title: "Ya'an Zang Cha (Tibetan Border Tea - 雅安藏茶)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [dark-tea, culture, buying-guide, sichuan]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The Culture: The "Life-Giving" Tea of the Plateaus

@@ -2,8 +2,8 @@
 draft: false
 
 title: "Dading Liuan Huangya (Six-Peace Yellow Sprout - 大頂六安黃芽)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [yellow-tea, culture, buying-guide, anhui]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The Culture: The Imperial Sprout of Anhui

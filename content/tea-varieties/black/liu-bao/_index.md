@@ -2,8 +2,8 @@
 draft: false
 
 title: "Liu Bao Tea (Six Forts Tea - 六堡茶)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [dark-tea, culture, processing, buying-guide, guangxi]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The History: The Ancestor of Ripe Pu-erh

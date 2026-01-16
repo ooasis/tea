@@ -2,8 +2,8 @@
 draft: false
 
 title: "Chuan Hong (Sichuan Red Tea - 川紅)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [red-tea, culture, buying-guide, sichuan]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The Culture: The "Red" Soul of Sichuan

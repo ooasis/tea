@@ -2,8 +2,8 @@
 date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Major Tea Categories'
-tags = ['culture', 'processing']
 +++
+
 
 The foundation of all Chinese tea knowledge begins with understanding the **Six Major Categories**. While it is a common misconception that different teas come from different plants, almost all authentic Chinese tea originates from a single species: *Camellia sinensis*. The incredible diversity we enjoy—from the grassy sweetness of a spring Green tea to the earthy depth of an aged Pu-erh—is determined by the artisanal processing of the leaf, specifically the level of oxidation and fermentation.
 

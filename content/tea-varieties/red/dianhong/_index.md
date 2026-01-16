@@ -2,8 +2,8 @@
 draft: false
 
 title: "Dianhong (Yunnan Red Tea - 滇红)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [red-tea, culture, buying-guide, yunnan]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The History: The Golden Red of the West

@@ -2,7 +2,6 @@
 date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = "The Artisan's Studio"
-tags = ['culture', 'harvest', 'processing', 'producers', 'vendors']
 +++
 
 ### Tea Categories

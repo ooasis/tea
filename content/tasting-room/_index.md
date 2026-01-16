@@ -3,7 +3,6 @@ draft: false
 
 title: "The Tasting Room"
 date: '2026-01-15T21:37:44-08:00'
-tags: [culture, brewing]
 ---
 
 ### Famous Varieties

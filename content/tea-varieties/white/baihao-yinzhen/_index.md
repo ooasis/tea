@@ -2,8 +2,8 @@
 draft: false
 
 title: "Baihao Yinzhen (Silver Needle - 白毫银针)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [white-tea, culture, grading, buying-guide, fujian]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The History: The "Beauty" of White Tea

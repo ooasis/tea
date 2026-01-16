@@ -2,8 +2,8 @@
 draft: false
 
 title: "Yingde Hongcha (Yingde Red Tea - 英德紅茶)"
-date: '2026-01-15T21:37:44-08:00'
 tags: [red-tea, culture, buying-guide, guangdong]
+date: '2026-01-15T21:37:44-08:00'
 ---
 
 ## The History: The Royal Favorite of Guangdong
