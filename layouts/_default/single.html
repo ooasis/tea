@@ -22,10 +22,7 @@
   <section>{{- .Content -}}</section>
 
   <!-- Tags (clickable) -->
-  {{- $showTags := or .Params.showTags .Params.showtags -}}
-  {{- if $showTags -}}
   {{- partial "page-tags.html" . -}}
-  {{- end -}}
 
   <!-- Post Nav -->
   {{- if not site.Params.disablePostNavigation -}}<!---->

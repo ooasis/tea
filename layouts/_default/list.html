@@ -1,8 +1,10 @@
 {{- define "main" -}}
 
+{{- $isTagPage := eq .Type "tags" -}}
+
 <!-- Tag Title -->
 {{- if and .Title (eq .Type "tags") -}}
-<h1 class="mb-14">#{{- .Title -}}</h1>
+<h1 class="mb-8 text-xl font-medium">#{{ .Title }}</h1>
 {{- end -}}
 
 <!-- Section content - show for section pages -->
@@ -10,12 +12,6 @@
 <div class="mb-12">
   {{- .Content -}}
 </div>
-{{- end -}}
-
-<!-- Tags for section/list pages (preview via showTags=true) -->
-{{- $showTags := or .Params.showTags .Params.showtags -}}
-{{- if $showTags -}}
-{{- partial "page-tags.html" . -}}
 {{- end -}}
 
 <!-- $pages -->
@@ -30,8 +26,15 @@
 {{- end -}}
 
 <!-- Articles -->
-{{- $paginator := .Paginate $pages -}} {{- range $index, $page :=
-$paginator.Pages -}}<!---->
+{{- $pagerSize := 5 -}}
+{{- if $isTagPage -}}
+{{- $pagerSize = 50 -}}
+{{- end -}}
+{{- $paginator := .Paginate $pages $pagerSize -}}
+{{- if $isTagPage -}}
+<div class="not-prose flex flex-col gap-2">
+{{- end -}}
+{{- range $index, $page := $paginator.Pages -}}<!---->
 
 <!-- avatar -->
 {{- if and (or $.IsHome (eq $.Kind "home")) (eq $paginator.PageNumber 1) (eq $index 0) -}}<!---->
@@ -62,16 +65,34 @@ $paginator.Pages -}}<!---->
 
 {{- end -}}
 
+{{- if $isTagPage -}}
+<a
+  class="rounded-lg bg-black/[3%] px-4 py-2 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+  href="{{ $page.RelPermalink }}"
+>
+  {{- if gt $page.Weight 0 -}}
+  <div class="mb-1 text-[11px] tracking-wider text-orange-500">FEATURED</div>
+  {{- end -}}
+  <div class="text-sm font-medium leading-snug">{{ $page.Title }}</div>
+  {{- if $page.Date -}}
+  <div class="mt-1 text-xs opacity-60">{{ $page.Date | time.Format ":date_medium" }}</div>
+  {{- end -}}
+</a>
+{{- else -}}
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   {{- if gt $page.Weight 0 -}}
   <span class="mb-1 inline-block text-xs tracking-wider text-orange-500">Featured</span>
   {{- end -}}
-  <h2 class="my-0!">{{- $page.Title -}}</h2>
+  <h2 class="my-0!">{{ $page.Title }}</h2>
   {{- if $page.Date -}}
-  <time class="text-xs antialiased opacity-60">{{- $page.Date | time.Format ":date_medium" -}}</time>
+  <time class="text-xs antialiased opacity-60">{{ $page.Date | time.Format ":date_medium" }}</time>
   {{- end -}}
   <a class="absolute inset-0 text-[0px]" href="{{- $page.Permalink -}}">{{- $page.Title -}}</a>
 </section>
+{{- end -}}
+{{- end -}}
+{{- if $isTagPage -}}
+</div>
 {{- end -}}
 
 <!-- Main Nav -->
@@ -93,6 +114,9 @@ $paginator.Pages -}}<!---->
   {{- end -}}
 </nav>
 {{- end -}}<!---->
+
+<!-- Tags (clickable) -->
+{{- partial "page-tags.html" . -}}
 
 {{- end -}}
 

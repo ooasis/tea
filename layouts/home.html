@@ -1,98 +1,38 @@
 {{- define "main" -}}
 
-<!-- Tag Title -->
-{{- if and .Title (eq .Type "tags") -}}
-<h1 class="mb-14">#{{- .Title -}}</h1>
-{{- end -}}
-
-<!-- Home page content - always show for home pages -->
-{{- if or .IsHome (eq .Kind "home") -}}
-<div class="mb-12">
-  {{- if .Content -}}
-  {{- .Content -}}
-  {{- end -}}
-</div>
-{{- end -}}
-
-<!-- $pages -->
-{{- $pages := union .RegularPages .Sections -}}<!---->
-{{- if .IsHome -}}<!---->
-{{- $main := where site.RegularPages "Type" "in" site.Params.mainSections -}}<!---->
-{{- if gt (len $main) 0 -}}
-{{- $pages = $main -}}<!---->
-{{- else -}}
-{{- $pages = .Sections -}}<!---->
-{{- end -}}
-{{- end -}}
-
-<!-- Articles -->
-{{- $paginator := .Paginate $pages -}}<!---->
-{{- range $index, $page := $paginator.Pages -}}<!---->
-
-<!-- avatar -->
-{{- if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) -}}<!---->
-
-{{- $avatar_url := $.Scratch.Get "avatar_url" -}}<!---->
-{{- if or $avatar_url site.Params.name -}}
-<div class="-mt-2 mb-12 flex items-center">
-  {{- if $avatar_url -}}
-  <div
-    class="h-24 w-24 shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/50 p-3 ltr:mr-5 ltr:-ml-1 rtl:-mr-1 rtl:ml-5 dark:bg-white/90!"
-  >
-    <img
-      class="not-prose my-0 h-full w-full rounded-full bg-black/5! hover:animate-spin dark:bg-black/80!"
-      src="{{- $avatar_url -}}"
-      alt="{{- site.Params.name | default site.Title -}}"
-    />
+<div class="flex flex-col gap-10 md:flex-row md:gap-12">
+  <!-- Left: main home content -->
+  <div class="min-w-0 md:w-2/3">
+    {{- if .Content -}}
+    {{- .Content -}}
+    {{- end -}}
   </div>
-  {{- end -}}<!---->
-  {{- if site.Params.name -}}
-  <div>
-    <div class="mt-3 mb-1 text-2xl font-medium text-black dark:text-white">
-      {{- site.Params.name -}}
+
+  <!-- Right: latest content (top 10, no pagination) -->
+  <aside class="not-prose md:w-1/3">
+    <div class="sticky top-6">
+      <div class="mb-4 text-sm tracking-wide opacity-70">Latest</div>
+
+      {{- $candidates := where site.Pages "Kind" "in" (slice "section" "page") -}}
+      {{- $candidates = where $candidates "RelPermalink" "ne" "/" -}}
+      {{- $latest := first 10 ($candidates.ByDate.Reverse) -}}
+
+      <div class="flex flex-col gap-3">
+        {{- range $latest -}}
+        <a
+          class="rounded-lg bg-black/[3%] px-4 py-3 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+          href="{{- .RelPermalink -}}"
+        >
+          <div class="text-sm font-medium leading-snug">{{- .Title -}}</div>
+          {{- if .Date -}}
+          <div class="mt-1 text-xs opacity-60">{{- .Date | time.Format ":date_medium" -}}</div>
+          {{- end -}}
+        </a>
+        {{- end -}}
+      </div>
     </div>
-    <div class="break-words">
-      {{- site.Params.bio | default (print `A personal blog by `
-      site.Params.name) -}}
-    </div>
-  </div>
-  {{- end -}}
+  </aside>
 </div>
-{{- end -}}<!---->
-
-{{- end -}}<!---->
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  {{- if gt $page.Weight 0 -}}
-  <span class="mb-1 inline-block text-xs tracking-wider text-orange-500"
-    >Featured</span
-  >
-  {{- end -}}
-  <h2 class="my-0!">{{- $page.Title -}}</h2>
-  <time class="text-xs antialiased opacity-60"
-    >{{- $page.Date | time.Format ":date_medium" -}}</time
-  >
-  <a class="absolute inset-0 text-[0px]" href="{{- $page.Permalink -}}"
-    >{{- $page.Title -}}</a
-  >
-</section>
-{{- end -}}
-
-<!-- Main Nav -->
-{{- if gt $paginator.TotalPages 1 -}}
-<nav class="mt-14 flex">
-  {{- if $paginator.HasPrev -}}
-  <a class="btn not-prose" href="{{- $paginator.Prev.URL -}}"
-    >← {{- i18n "prev_page" -}}</a
-  >
-  {{- end -}}<!---->
-  {{- if $paginator.HasNext -}}
-  <a class="btn not-prose ml-auto" href="{{- $paginator.Next.URL -}}"
-    >{{- i18n "next_page" -}} →</a
-  >
-  {{- end -}}
-</nav>
-{{- end -}}<!---->
 
 {{- end -}}
 
