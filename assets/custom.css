@@ -24,6 +24,34 @@ table td, table th {
 .home-sidebar-inner {
   position: relative;
 }
+.home-latest-title {
+  margin: 0 0 1rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.home-latest-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; /* slightly larger gap between entries */
+}
+.home-latest-item {
+  display: block;
+  padding: 0.25rem 0;
+  text-decoration: none;
+}
+.home-latest-item:hover {
+  text-decoration: underline;
+}
+.home-latest-item-title {
+  font-size: 0.95rem; /* smaller than Latest */
+  font-weight: 500;
+  line-height: 1.25;
+}
+.home-latest-item-date {
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
 @media (min-width: 768px) {
   .home-layout {
     flex-direction: row;
@@ -39,6 +67,10 @@ table td, table th {
   .home-sidebar-inner {
     position: sticky;
     top: 1.5rem;
+  }
+  /* Nudge the sidebar down so the 'Latest' title aligns with the left column text */
+  .home-latest-title {
+    margin-top: 1rem;
   }
 }
 

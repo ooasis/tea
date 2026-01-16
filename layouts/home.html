@@ -11,21 +11,21 @@
   <!-- Right: latest content (top 10, no pagination) -->
   <aside class="home-sidebar not-prose">
     <div class="home-sidebar-inner">
-      <div class="mb-4 text-sm tracking-wide opacity-70">Latest</div>
+      <h2 class="home-latest-title">Latest</h2>
 
       {{- $candidates := where site.Pages "Kind" "in" (slice "section" "page") -}}
       {{- $candidates = where $candidates "RelPermalink" "ne" "/" -}}
       {{- $latest := first 10 ($candidates.ByDate.Reverse) -}}
 
-      <div class="flex flex-col gap-3">
+      <div class="home-latest-list">
         {{- range $latest -}}
         <a
-          class="rounded-lg bg-black/[3%] px-4 py-3 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+          class="home-latest-item"
           href="{{- .RelPermalink -}}"
         >
-          <div class="text-sm font-medium leading-snug">{{- .Title -}}</div>
+          <div class="home-latest-item-title">{{- .Title -}}</div>
           {{- if .Date -}}
-          <div class="mt-1 text-xs opacity-60">{{- .Date | time.Format ":date_medium" -}}</div>
+          <div class="home-latest-item-date">{{- .Date | time.Format ":date_medium" -}}</div>
           {{- end -}}
         </a>
         {{- end -}}
