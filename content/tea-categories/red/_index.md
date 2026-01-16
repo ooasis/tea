@@ -1,10 +1,11 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Red Tea (Hóng Chá | 红茶)'
 tags = ['red-tea', 'culture', 'processing']
 weight = 50
 +++
+
 {{< img src="red.png" w="260x" alt="Red Tea" class="float-image" >}}
 
 **Red Tea (Hong Cha)** is a warm, glowing hearth on a winter’s evening. For many in the West, this category is known as "Black Tea," but in China, it is named for the deep, shimmering crimson of its liquor. While it is the most globally recognized type of tea, Chinese Red Tea offers a level of honeyed sweetness, cocoa-like depth, and floral elegance that is a world away from the astringent breakfast blends found in grocery store tea bags.

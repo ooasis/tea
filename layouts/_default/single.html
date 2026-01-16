@@ -21,18 +21,10 @@
 
   <section>{{- .Content -}}</section>
 
-  <!-- Post Tags -->
-  {{- if .Params.tags -}}
-  <footer class="mt-12 flex flex-wrap">
-    {{- range .Params.tags -}} {{- $href := print (absURL "tags/") (urlize .)
-    -}}
-    <a
-      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
-      href="{{- $href -}}"
-      >{{- . -}}</a
-    >
-    {{- end -}}
-  </footer>
+  <!-- Tags (clickable) -->
+  {{- $showTags := or .Params.showTags .Params.showtags -}}
+  {{- if $showTags -}}
+  {{- partial "page-tags.html" . -}}
   {{- end -}}
 
   <!-- Post Nav -->

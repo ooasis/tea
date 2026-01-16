@@ -2,9 +2,10 @@
 draft: false
 
 title: "Lapsang Souchong (Zheng Shan Xiao Zhong - 正山小种)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [red-tea, culture, buying-guide, fujian]
 ---
+
 ## The History: The World's First Black Tea
 
 Lapsang Souchong is often cited as one of the earliest Chinese black (red) teas, commonly associated with the late Ming / early Qing period.

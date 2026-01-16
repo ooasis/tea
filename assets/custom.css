@@ -84,6 +84,25 @@ table td, table th {
   color: #059669;
 }
 
+/* Subtle pagination buttons (used on tag pages) */
+.btn.btn-subtle {
+  background: rgba(0, 0, 0, 0.06);
+  color: rgba(0, 0, 0, 0.72);
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  padding: 0.55rem 0.9rem;
+}
+.btn.btn-subtle:hover {
+  background: rgba(0, 0, 0, 0.09);
+}
+.dark .btn.btn-subtle {
+  background: rgba(255, 255, 255, 0.10);
+  color: rgba(255, 255, 255, 0.85);
+  border-color: rgba(255, 255, 255, 0.14);
+}
+.dark .btn.btn-subtle:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
 @media (max-width: 640px) {
   .sample-grid table {
     grid-template-columns: 1fr;

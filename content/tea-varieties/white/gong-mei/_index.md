@@ -2,9 +2,10 @@
 draft: false
 
 title: "Gong Mei (Tribute Eyebrow - 貢眉)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [white-tea, culture, processing, buying-guide, fujian]
 ---
+
 ## The Culture: The "Tribute" of the Mountains
 
 Gong Mei (literally "Tribute Eyebrow") is a traditional variety of white tea that occupies a unique space between the delicate **White Peony** and the robust **Shou Mei**. Historically, it was the highest-quality "leaf-style" white tea presented to the imperial court, hence the name "Tribute."

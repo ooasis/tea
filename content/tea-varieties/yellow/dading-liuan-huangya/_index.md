@@ -2,9 +2,10 @@
 draft: false
 
 title: "Dading Liuan Huangya (Six-Peace Yellow Sprout - 大頂六安黃芽)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [yellow-tea, culture, buying-guide, anhui]
 ---
+
 ## The Culture: The Imperial Sprout of Anhui
 
 Dading Liuan Huangya is a rare and prestigious **Yellow Tea** from the Lu'an (Liu An) region of Anhui Province. Its history is deeply tied to the Ming and Qing Dynasties, where it was served as a "Tribute Tea" to the Imperial Court.

@@ -1,9 +1,10 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Tea Pot'
 tags = ['teaware', 'culture', 'brewing', 'teapot']
 +++
+
 ## 1. A Brief History: From Boiling to Steeping
 
 The teapot as we know it today didn't always exist.

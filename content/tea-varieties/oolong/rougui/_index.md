@@ -2,9 +2,10 @@
 draft: false
 
 title: "Rougui (Cinnamon Rock Oolong - 肉桂)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [oolong, culture, brewing, buying-guide, fujian]
 ---
+
 ## The Culture: The "Aggressive" Fragrance
 
 Rougui (literally "Cinnamon") is the "powerhouse" of the Wuyi Rock Tea (Yancha) family. While Da Hong Pao is the "King," Rougui is often called the **"General"** or the "Aromatic King" because of its bold, spicy, and long-lasting fragrance.

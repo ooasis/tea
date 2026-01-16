@@ -1,9 +1,10 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Harvest'
 tags = ['culture', 'harvest', 'grading']
 +++
+
 If you’ve ever looked at a tin of high-end Chinese green tea and wondered why some leaves cost more than a fine bottle of champagne, the answer usually lies in two words: **The Harvest.**
 
 In the world of Chinese tea (*Cha*), harvesting is an art of timing and anatomy. For amateurs, understanding these nuances is the "secret handshake" that helps you navigate tea shops with confidence. Let's break down how the *when* and the *what* determine the soul of your brew.

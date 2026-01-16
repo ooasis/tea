@@ -2,9 +2,10 @@
 draft: false
 
 title: "Ya'an Zang Cha (Tibetan Border Tea - 雅安藏茶)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [dark-tea, culture, buying-guide, sichuan]
 ---
+
 ## The Culture: The "Life-Giving" Tea of the Plateaus
 
 Ya'an Zang Cha (literally "Tibetan Tea") is one of the most historically significant teas in China. For over 1,300 years, it was a major trade commodity on the **Sichuan-Tibet Tea Horse Road**. In the high-altitude, harsh environment of the Tibetan Plateau—where fresh vegetables can be scarce—this tea became a daily staple in butter tea culture. There is a famous Tibetan saying: *"I would rather go three days without food than one day without tea."*

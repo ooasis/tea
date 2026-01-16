@@ -1,10 +1,11 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Yellow Tea (Huáng Chá | 黄茶)'
 tags = ['yellow-tea', 'culture', 'processing']
 weight = 30
 +++
+
 {{< img src="yellow.png" w="260x" alt="Yellow Tea" class="float-image" >}}
 
 **Yellow Tea (Huang Cha)** is a rare, golden sunset. In the world of tea, yellow tea is often called "the lost art." It is one of the rarest categories of tea, often overlooked because its production is so labor-intensive and time-consuming that many farmers have simply switched to making green tea instead. But for those who find it, yellow tea offers a sophisticated, mellowed elegance that removes the "bite" of green tea while retaining its soul.

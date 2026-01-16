@@ -2,9 +2,10 @@
 draft: false
 
 title: "Home"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [culture]
 ---
+
 Welcome to a space dedicated to the art, science, and soul of Chinese tea. If you have ever felt captivated by the fragrance of a fresh spring brew or puzzled by the complexity of a dark, aged leaf, you are in the right place.
 
 This blog is a digital companion for the curious palate. We are moving beyond the simplicity of the tea bag to explore the profound depth of **Cha Dao** (The Way of Tea). Whether you are looking to understand the difference between high-mountain Oolongs or simply want to know why your green tea sometimes tastes bitter, our goal is to help you transform a daily habit into a lifetime of discovery.

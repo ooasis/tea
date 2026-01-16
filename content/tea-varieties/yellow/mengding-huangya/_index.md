@@ -2,9 +2,10 @@
 draft: false
 
 title: "Mengding Huangya (Meng Mountain Yellow Sprout - 蒙頂黃芽)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [yellow-tea, culture, buying-guide, sichuan]
 ---
+
 ## The Culture: The "First Mountain" of Tea
 
 Mengding Huangya is a rare and prestigious **Yellow Tea** from **Mount Mengding** in Sichuan Province. The history of this mountain is legendary—it is widely considered the birthplace of tea cultivation. According to tradition, a monk named Wu Lizhen planted the first seven tea bushes on the summit during the Han Dynasty (over 2,000 years ago).

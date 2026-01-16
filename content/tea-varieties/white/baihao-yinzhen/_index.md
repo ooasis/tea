@@ -2,9 +2,10 @@
 draft: false
 
 title: "Baihao Yinzhen (Silver Needle - 白毫银针)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [white-tea, culture, grading, buying-guide, fujian]
 ---
+
 ## The History: The "Beauty" of White Tea
 
 Baihao Yinzhen, or "Silver Needle," is the most prized and expensive variety of white tea. Its history is relatively modern compared to green tea, gaining prominence during the Qing Dynasty (late 18th century).

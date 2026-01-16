@@ -2,9 +2,10 @@
 draft: false
 
 title: "Shuixian (Narcissus Rock Oolong - 水仙)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [oolong, culture, brewing, buying-guide, fujian]
 ---
+
 ## The Culture: The "Gentle Giant" of Wuyi
 
 Shuixian (literally "Narcissus" or "Water Sprite") is one of the oldest and most widely planted varieties of Wuyi Rock Tea. While Rougui is known for its aggressive aroma, Shuixian is loved for its **smooth, thick, and velvety "water" (liquor)**.

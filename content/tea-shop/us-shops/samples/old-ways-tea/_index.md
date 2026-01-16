@@ -1,9 +1,10 @@
 +++
 title = "Samples from Old Ways Tea"
 tags = ['vendors']
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 +++
+
 Below are some popular sample products from **Old Ways Tea**.
 
 {{< sample-grid >}}

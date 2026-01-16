@@ -1,10 +1,12 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Green Tea (Lǜ Chá | 绿茶)'
 tags = ['green-tea', 'culture', 'processing']
+showTags = true
 weight = 10
 +++
+
 {{< img src="green.png" w="260x" alt="Green Tea" class="float-image" >}}
 
 ### The Ancestral Leaf: A Legacy of Many Centuries

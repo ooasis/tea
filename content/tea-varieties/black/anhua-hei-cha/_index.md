@@ -2,9 +2,10 @@
 draft: false
 
 title: "Anhua Hei Cha (Hunan Dark Tea - 安化黑茶)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [dark-tea, culture, processing, buying-guide, hunan]
 ---
+
 ## The Culture: The "Golden Flower" Miracle
 
 Anhua Hei Cha is a legendary dark tea from Hunan Province with a history spanning over 1,000 years. Historically, it was a vital "Tribute Tea" and a primary trade commodity on the **Ancient Tea Horse Road**, where it was transported to the border regions of China and Tibet.

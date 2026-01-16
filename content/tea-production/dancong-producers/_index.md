@@ -1,9 +1,10 @@
 +++
-date = '2026-01-16T00:00:00-08:00'
+date = '2026-01-15T21:37:44-08:00'
 draft = false
 title = 'Dancong Producers'
 tags = ['oolong', 'buying-guide', 'producers', 'guangdong']
 +++
+
 # Discovering Phoenix Dancong: The Aromatic Oolong
 
 Phoenix Dancong (凤凰单丛, Fènghuáng Dān Cōng) is one of China's most celebrated oolong teas, often hailed as the "perfume of teas" for its astonishing array of natural floral, fruity, and spicy aromas. Originating from the rugged mountains of Guangdong Province, this semi-oxidized tea is crafted from leaves of ancient tea trees, each variety meticulously selected and propagated to preserve its unique scent profile. Unlike many teas that blend leaves from multiple plants, Dancong—meaning "single bush"—emphasizes the individuality of each cultivar, resulting in a sipping experience that's as diverse as it is delightful.

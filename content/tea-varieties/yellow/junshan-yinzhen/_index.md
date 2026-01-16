@@ -2,9 +2,10 @@
 draft: false
 
 title: "Junshan Yinzhen (Silver Needle of the Emperor's Isle - 君山银针)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [yellow-tea, culture, buying-guide, hunan]
 ---
+
 ## The History: The Emperor’s Tribute
 
 Junshan Yinzhen is the most famous and prestigious variety of **Yellow Tea**. Its history is deeply tied to the Imperial Court, as it was a "Tribute Tea" for many dynasties.

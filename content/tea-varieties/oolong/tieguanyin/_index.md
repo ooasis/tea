@@ -2,9 +2,10 @@
 draft: false
 
 title: "Tieguanyin (Iron Goddess of Mercy - 铁观音)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [oolong, culture, brewing, buying-guide, fujian]
 ---
+
 ## The Myth and History: The Devout Farmer
 
 Tieguanyin, a premium variety of Chinese oolong tea from Anxi County in Fujian province, is named after the Buddhist deity **Guanyin** (the Bodhisattva of Compassion).

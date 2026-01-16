@@ -2,9 +2,10 @@
 draft: false
 
 title: "Huangshan Maofeng (Yellow Mountain Fur Peak - 黄山毛峰)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [green-tea, culture, buying-guide, anhui]
 ---
+
 ## The History: The Tea of the Yellow Mountain
 
 Huangshan Maofeng is one of China's "Top Ten" teas, originating in the late 19th century during the Guangxu period of the Qing Dynasty. It was created by a merchant named Xie Zhengan, who founded the famous "Xie Yuda" tea company.

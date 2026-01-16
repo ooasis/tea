@@ -1,0 +1,32 @@
+{{- define "main" -}}
+
+{{- /* Taxonomy terms page, e.g. /tags/ */ -}}
+
+{{- if .Title -}}
+<h1 class="mb-14">{{- .Title -}}</h1>
+{{- end -}}
+
+{{- if .Content -}}
+<div class="mb-10">
+  {{- .Content -}}
+</div>
+{{- end -}}
+
+{{- $terms := .Data.Terms.Alphabetical -}}
+{{- if gt (len $terms) 0 -}}
+<div class="not-prose flex flex-wrap">
+  {{- range $terms -}}
+  {{- $termPage := .Page -}}
+  <a
+    class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+    href="{{- $termPage.RelPermalink -}}"
+  >{{- $termPage.Title -}}<span class="ml-2 text-xs opacity-60">({{- .Count -}})</span></a>
+  {{- end -}}
+</div>
+{{- else -}}
+<p class="opacity-60">No tags yet.</p>
+{{- end -}}
+
+{{- end -}}
+
+

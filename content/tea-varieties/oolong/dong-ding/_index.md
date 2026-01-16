@@ -2,9 +2,10 @@
 draft: false
 
 title: "Dong Ding Oolong (Frozen Summit - 冻顶乌龙)"
-date: 2026-01-16T00:00:00-08:00
+date: '2026-01-15T21:37:44-08:00'
 tags: [oolong, culture, brewing, buying-guide, taiwan]
 ---
+
 ## The History: The Frozen Summit
 
 Dong Ding (literally "Frozen Summit") is perhaps the most famous of all Taiwanese oolongs. Its origins date back to the mid-19th century when a scholar brought 12 tea seedlings from the Wuyi Mountains in Fujian to the Lugu area of Taiwan.
