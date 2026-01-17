@@ -1,0 +1,57 @@
+---
+description: Tea & Me (Hugo) project rules — content, layouts, and generated outputs
+alwaysApply: true
+globs:
+  - "**/*"
+---
+
+# Tea & Me — Cursor rules
+
+You are working in a **Hugo static site** repo. Optimize for: correct Hugo behavior, clean Markdown content, and not editing generated artifacts.
+
+## Source-of-truth vs generated output
+
+- **Edit these (source of truth)**:
+  - `content/**` (Markdown + page bundles)
+  - `layouts/**` (templates + shortcodes)
+  - `assets/**` (site CSS like `assets/custom.css`)
+  - `static/**` (static assets copied as-is)
+  - `hugo.toml` (site configuration)
+- **Do NOT edit these manually (generated/build artifacts)**:
+  - `public/**` (production build output)
+  - `resources/_gen/**` (Hugo image pipeline/cache output)
+
+If a user asks for a visual/output change, implement it by changing **source files** above, not `public/`.
+
+## Content authoring conventions (Markdown in `content/**`)
+
+- **Front matter**: Use **YAML front matter** with `---` delimiters (match existing pages).
+  - Keep `draft: false` unless explicitly requested otherwise.
+  - Keep `title`, `tags`, and `date` present for new pages.
+- **Tags**: Use existing tag style: lowercase, hyphenated/kebab-case tokens (e.g. `dark-tea`, `buying-guide`, `guangxi`).
+- **Headings**: Start main content at `##` (the page title is provided by front matter + theme).
+- **Tone**: Informational, structured, practical; prefer short sections, lists, and comparison tables where helpful.
+- **UpdateTime**: When a leaf page is changed, please change the `date` to current time to reflect the last modified time.
+
+## Page bundles + images
+
+This repo uses **page bundles** (directories with `_index.md`) and images stored alongside the page.
+
+- When adding an image for a page, place it in the same directory as that page’s `_index.md` (or in the parent bundle if the content expects that).
+- Prefer the existing shortcode for images:
+  - Use `{{< img src="FILE" w="1200x" alt="..." >}}` for raster images (png/jpg/webp).
+  - Use `{{< img src="FILE.svg" alt="..." >}}` for SVGs (do not rely on resizing via `w` for SVG).
+- Ensure every image has meaningful **alt** text.
+- If you reference an image, ensure the referenced file actually exists in the bundle (otherwise the shortcode renders an error message).
+
+## Templates / theme interaction
+
+- Prefer making changes via `layouts/**` overrides and `assets/custom.css` rather than editing vendored theme code.
+- Only modify `themes/paper/**` if the user explicitly asks, or if there is no reasonable override approach.
+
+## Tooling / agent behavior
+
+- Prefer using **absolute paths** when calling tools (this workspace runs on macOS).
+- When making changes, keep diffs minimal and consistent with existing style.
+- Never introduce secrets; don’t add external network dependencies unless the user asks.
+
