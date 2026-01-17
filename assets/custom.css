@@ -22,6 +22,114 @@ table td, table th {
   vertical-align: top;
 }
 
+/* Search */
+.search-form {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  max-width: 44rem;
+}
+.search-input {
+  width: 100%;
+  min-width: 14rem;
+  padding: 0.55rem 0.75rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  background: rgba(255, 255, 255, 0.65);
+  color: inherit;
+}
+.dark .search-input {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(0, 0, 0, 0.18);
+}
+.search-input:focus {
+  outline: none;
+  border-color: rgba(0, 0, 0, 0.35);
+}
+.dark .search-input:focus {
+  border-color: rgba(255, 255, 255, 0.35);
+}
+.header-search-input {
+  min-width: 8.5rem;
+  max-width: 12rem;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+}
+.search-btn {
+  padding: 0.55rem 0.9rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 0, 0.06);
+}
+.search-btn:hover {
+  background: rgba(0, 0, 0, 0.09);
+}
+.dark .search-btn {
+  border-color: rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.10);
+}
+.dark .search-btn:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+.search-results {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.search-result {
+  display: block;
+  padding: 0.85rem 1rem;
+  border-radius: 0.9rem;
+  text-decoration: none;
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  background: rgba(0, 0, 0, 0.02);
+}
+.search-result:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+.dark .search-result {
+  border-color: rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.06);
+}
+.dark .search-result:hover {
+  background: rgba(255, 255, 255, 0.09);
+}
+.search-title {
+  font-weight: 600;
+  line-height: 1.25;
+}
+.search-summary {
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+.search-tags {
+  margin-top: 0.55rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.search-tag {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  opacity: 0.8;
+}
+.dark .search-tag {
+  border-color: rgba(255, 255, 255, 0.16);
+}
+.search-empty {
+  padding: 1rem;
+  border-radius: 0.9rem;
+  border: 1px dashed rgba(0, 0, 0, 0.22);
+  opacity: 0.75;
+}
+.dark .search-empty {
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
 /* Home page: 1 column on mobile, 2 columns on larger screens */
 .home-layout {
   display: flex;

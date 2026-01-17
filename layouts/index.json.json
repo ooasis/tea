@@ -1,0 +1,35 @@
+{{- /*
+  Home JSON output used for client-side search.
+  Produces: /index.json (enabled via [outputs].home = ["JSON", ...])
+
+  Notes:
+  - Includes "page" and "section" kinds (so section landing pages are searchable too).
+  - Can be disabled per page via front matter: search: false
+*/ -}}
+{{- $pages := where site.Pages "Kind" "in" (slice "page" "section") -}}
+{{- $pages = where $pages "Params.search" "ne" false -}}
+{{- $pages = where $pages "RelPermalink" "ne" "/search/" -}}
+
+{{- $items := slice -}}
+{{- range $pages -}}
+  {{- $summary := "" -}}
+  {{- if .Params.description -}}
+    {{- $summary = .Params.description -}}
+  {{- else if .Summary -}}
+    {{- $summary = .Summary -}}
+  {{- else if .Content -}}
+    {{- $summary = .Content -}}
+  {{- end -}}
+  {{- $summary = $summary | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace | truncate 280 -}}
+
+  {{- $items = $items | append (dict
+    "title" (.Title | default "")
+    "url" .RelPermalink
+    "section" (.Section | default "")
+    "tags" (.Params.tags | default (slice))
+    "summary" $summary
+  ) -}}
+{{- end -}}
+{{- $items | jsonify -}}
+
+
