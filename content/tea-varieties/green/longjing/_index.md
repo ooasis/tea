@@ -6,6 +6,8 @@ tags: [green-tea, culture, grading, buying-guide, zhejiang]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="longjing-1.png" w="1200x" alt="West Lake Longjing (Xihu Longjing) illustration" >}}
+
 ## The Myth and History: Why "Dragon Well"?
 
 Longjing’s history stretches back over 1,200 years to the Tang Dynasty, but it truly became a legend during the Qing Dynasty.

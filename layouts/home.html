@@ -13,9 +13,26 @@
     <div class="home-sidebar-inner">
       <h2 class="home-latest-title">Latest</h2>
 
+      {{- /*
+        Only show "leaf" pages in the right-column Latest list:
+        - Regular pages (Kind "page")
+        - Or section pages (Kind "section") that have no children (.Sections and .Pages are empty)
+        This avoids showing higher-level landing sections like /tea-varieties/ while still listing
+        the actual end-node content pages in your current _index.md-based structure.
+      */ -}}
       {{- $candidates := where site.Pages "Kind" "in" (slice "section" "page") -}}
       {{- $candidates = where $candidates "RelPermalink" "ne" "/" -}}
-      {{- $latest := first 10 ($candidates.ByDate.Reverse) -}}
+
+      {{- $leaf := slice -}}
+      {{- range $candidates -}}
+        {{- if and (eq .Kind "page") (eq .Weight 0) -}}
+          {{- $leaf = $leaf | append . -}}
+        {{- else if and (eq .Kind "section") (eq .Weight 0) (eq (len .Sections) 0) (eq (len .Pages) 0) -}}
+          {{- $leaf = $leaf | append . -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $latest := first 10 (sort $leaf "Date" "desc") -}}
 
       <div class="home-latest-list">
         {{- range $latest -}}
