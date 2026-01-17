@@ -6,13 +6,32 @@
 {{ end }}
 {{ if $original }}
   {{ $class := (.Get "class") | default "" }}
-  {{/* Resize the image based on the "w" parameter (e.g., "500x") */}}
-  {{ $resized := $original.Resize (.Get "w") }}
-  <img src="{{ $resized.RelPermalink }}" 
-       width="{{ $resized.Width }}" 
-       height="{{ $resized.Height }}" 
-       alt="{{ .Get "alt" }}"
-       {{- if $class -}}class="{{ $class }}"{{- end -}}>
+  {{ $w := (.Get "w") | default "" }}
+  {{/* Hugo commonly reports SVG subtype as "svg" (sometimes "svg+xml"). */}}
+  {{ $isSvg := or (eq $original.MediaType.SubType "svg") (eq $original.MediaType.SubType "svg+xml") }}
+
+  {{/* SVGs can't be resized via Hugo's image pipeline; serve as-is. */}}
+  {{ if $isSvg }}
+    <img src="{{ $original.RelPermalink }}"
+         alt="{{ .Get "alt" }}"
+         style="max-width:100%;height:auto"
+         {{- if $class -}}class="{{ $class }}"{{- end -}}>
+  {{ else }}
+    {{ if $w }}
+      {{/* Resize the image based on the "w" parameter (e.g., "500x") */}}
+      {{ $resized := $original.Resize $w }}
+      <img src="{{ $resized.RelPermalink }}" 
+           width="{{ $resized.Width }}" 
+           height="{{ $resized.Height }}" 
+           alt="{{ .Get "alt" }}"
+           {{- if $class -}}class="{{ $class }}"{{- end -}}>
+    {{ else }}
+      <img src="{{ $original.RelPermalink }}"
+           alt="{{ .Get "alt" }}"
+           style="max-width:100%;height:auto"
+           {{- if $class -}}class="{{ $class }}"{{- end -}}>
+    {{ end }}
+  {{ end }}
 {{ else }}
   <p style="color:red">Image not found: {{ $src }}</p>
 {{ end }}

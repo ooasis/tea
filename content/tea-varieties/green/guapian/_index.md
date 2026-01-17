@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, anhui]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="guapian-1.svg" w="1200x" alt="Lu'an Gua Pian (Melon Seed Tea - 六安瓜片) illustration" >}}
+
 ## The History: The Unique Budless Wonder
 
 Lu'an Gua Pian is one of China's most distinctive green teas, with a history reaching back to the Tang Dynasty. However, it gained its modern fame during the Qing Dynasty when it became a favorite of the Empress Dowager Cixi.

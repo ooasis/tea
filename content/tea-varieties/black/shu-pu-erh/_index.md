@@ -6,6 +6,8 @@ tags: [dark-tea, culture, processing, buying-guide, yunnan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="shu-pu-erh-1.svg" w="1200x" alt="Shu Pu-erh (Ripe Pu-erh - 熟普洱) illustration" >}}
+
 ## The History: A Modern Miracle of Fermentation
 
 Unlike Sheng Pu-erh which takes decades to age, Shu Pu-erh (Ripe Pu-erh) is a relatively modern invention. It was developed in the **1970s** at the Menghai and Kunming tea factories to meet the booming demand for aged tea.

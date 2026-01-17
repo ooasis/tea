@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, jiangsu]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="biluochun-1.svg" w="1200x" alt="Dongting Biluochun (Green Snail Spring - 洞庭碧螺春) illustration" >}}
+
 ## The History: The "Scary" Fragrance
 
 Biluochun is one of China’s most famous green teas, with a history dating back to the Tang Dynasty. However, its modern name was given by the **Emperor Kangxi** of the Qing Dynasty.

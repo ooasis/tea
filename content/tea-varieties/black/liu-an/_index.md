@@ -6,6 +6,8 @@ tags: [dark-tea, culture, buying-guide, anhui]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="liu-an-1.png" w="1200x" alt="Liu An Basket Tea (Six-Peace Dark Tea - 六安籃茶) illustration" >}}
+
 ## The Culture: The "Medicine" of the Overseas Chinese
 
 Liu An Basket Tea is a historic "Hei Cha" (Dark Tea) from Anhui Province. It is **distinct from the green tea Lu'an Gua Pian**, although they share the same geographical name. Its history is deeply tied to the trade with Southeast Asia and Hong Kong, where it was traditionally used as a medicinal tea for cooling the body and aiding digestion.

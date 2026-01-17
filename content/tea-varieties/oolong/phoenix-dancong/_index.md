@@ -6,6 +6,8 @@ tags: [oolong, culture, brewing, buying-guide, guangdong]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="phoenix-dancong-1.svg" w="1200x" alt="Phoenix Dancong (Fenghuang Dancong - 凤凰单丛) illustration" >}}
+
 ## The History: The "Single Bush" Perfume
 
 Phoenix Dancong is a unique family of oolong teas from the Phoenix Mountains in Guangdong Province. Local tradition often traces its heritage back toward the Song era, and the region is known for very old trees and long tea-making lineages.

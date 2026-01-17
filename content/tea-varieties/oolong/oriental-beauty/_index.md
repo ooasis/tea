@@ -6,6 +6,8 @@ tags: [oolong, culture, buying-guide, taiwan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="oriental-beauty-1.svg" w="1200x" alt="Oriental Beauty (Bai Hao Oolong - 东方美人) illustration" >}}
+
 ## The History: The Tea Bitten by Insects
 
 Oriental Beauty (Dongfang Meiren) is perhaps the most unique oolong in the world. Its story begins with a "mistake" in the late 19th century.

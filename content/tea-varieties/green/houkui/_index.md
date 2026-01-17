@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, anhui]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="houkui-1.svg" w="1200x" alt="Taiping Houkui (Monkey King - 太平猴魁) illustration" >}}
+
 ## The History: The "Monkey King" of Green Tea
 
 Taiping Houkui is one of China's most visually stunning and prestigious green teas. It was first created in the late 19th century in Taiping County (now Huangshan District) of Anhui Province.

@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, sichuan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="zhuyeqing-1.svg" w="1200x" alt="Zhu Ye Qing (Green Bamboo Reed - 竹叶青) illustration" >}}
+
 ## The Culture: The Zen Tea of Mount Emei
 
 Zhu Ye Qing is a modern classic of Chinese green tea, originating from the sacred **Mount Emei** in Sichuan Province, one of the Four Sacred Buddhist Mountains of China.

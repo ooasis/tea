@@ -6,6 +6,8 @@ tags: [red-tea, culture, buying-guide, yunnan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="dianhong-1.svg" w="1200x" alt="Dianhong (Yunnan Red Tea - 滇红) illustration" >}}
+
 ## The History: The Golden Red of the West
 
 Dianhong (literally "Yunnan Red") is a relatively young category of tea, first created in **1939** in Fengqing County. It was developed during the Second Sino-Japanese War as a high-quality export tea to earn foreign currency for the war effort.

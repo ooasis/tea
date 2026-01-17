@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Tieguanyin (Iron Goddess of Mercy - 铁观音) illustration">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbfaf5"/>
+      <stop offset="1" stop-color="#f2efe6"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0.00"/>
+      <stop offset="0.5" stop-color="#000" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.00"/>
+    </linearGradient>
+    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="wash" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="noise"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 .22 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <linearGradient id="liquor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9eb08f" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#9eb08f" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#paper)"/>
+
+  <g opacity="0.55" filter="url(#wash)">
+    <path d="M0 360 C220 310, 340 420, 520 360 C720 295, 820 415, 1010 360 C1210 305, 1310 420, 1600 350 L1600 520 L0 520 Z" fill="#111"/>
+  </g>
+  <g opacity="0.35" filter="url(#blur)">
+    <path d="M0 420 C250 380, 390 500, 610 430 C820 360, 980 500, 1210 430 C1390 375, 1480 455, 1600 420 L1600 620 L0 620 Z" fill="#000"/>
+  </g>
+
+  <rect x="0" y="430" width="1600" height="220" fill="url(#mist)" opacity="0.25"/>
+
+  <g opacity="0.55">
+    <g fill="none" stroke="#0b0b0b" stroke-opacity="0.55" stroke-width="6" stroke-linecap="round">
+      <path d="M1320 40 C1280 210, 1300 420, 1260 650"/>
+      <path d="M1400 20 C1380 220, 1410 440, 1360 700"/>
+      <path d="M1500 70 C1470 240, 1505 430, 1460 760"/>
+    </g>
+    <g fill="#0b0b0b" fill-opacity="0.45">
+      <path d="M1340 140 l60 -25 l-40 55 Z"/>
+      <path d="M1420 210 l70 -20 l-45 58 Z"/>
+      <path d="M1470 170 l75 -22 l-48 62 Z"/>
+      <path d="M1380 330 l70 -22 l-48 62 Z"/>
+      <path d="M1510 320 l75 -22 l-48 62 Z"/>
+      <path d="M1450 480 l70 -22 l-48 62 Z"/>
+    </g>
+  </g>
+
+  <g transform="translate(120,560)">
+    <g opacity="0.9">
+      <path d="M90 280 C60 200, 70 90, 115 0 C150 95, 150 200, 120 290" fill="#0b0b0b" fill-opacity="0.42"/>
+      <path d="M170 300 C140 220, 155 95, 210 10 C235 110, 235 220, 205 315" fill="#0b0b0b" fill-opacity="0.36"/>
+      <path d="M250 310 C230 240, 255 135, 325 35 C340 140, 330 245, 285 325" fill="#0b0b0b" fill-opacity="0.30"/>
+      <path d="M330 320 C330 240, 375 145, 455 70 C455 170, 420 270, 360 335" fill="#0b0b0b" fill-opacity="0.26"/>
+      <path d="M92 260 C70 190, 82 100, 120 25 C142 110, 135 195, 122 268" fill="#9eb08f" fill-opacity="0.18"/>
+      <path d="M170 285 C150 215, 168 120, 215 35 C232 120, 224 215, 205 292" fill="#9eb08f" fill-opacity="0.16"/>
+      <path d="M254 292 C238 230, 260 150, 322 62 C332 150, 318 230, 282 305" fill="#9eb08f" fill-opacity="0.14"/>
+    </g>
+    <g fill="#ffffff" opacity="0.55">
+      <circle cx="150" cy="170" r="8"/>
+      <circle cx="235" cy="210" r="6"/>
+      <circle cx="120" cy="215" r="5"/>
+    </g>
+  </g>
+
+  <g transform="translate(1050,365)">
+    <path d="M120 60 C120 30, 155 10, 210 10 C265 10, 300 30, 300 60 L285 340 C282 380, 255 410, 210 410 C165 410, 138 380, 135 340 Z" fill="#ffffff" fill-opacity="0.22" stroke="#111" stroke-opacity="0.35" stroke-width="6"/>
+    <path d="M138 150 C150 135, 175 125, 210 125 C245 125, 270 135, 282 150 L270 330 C268 355, 248 375, 210 375 C172 375, 152 355, 150 330 Z" fill="url(#liquor)"/>
+    <g fill="#9eb08f" fill-opacity="0.28" stroke="#0b0b0b" stroke-opacity="0.15" stroke-width="3">
+      <path d="M185 210 C210 190, 238 200, 250 220 C225 245, 195 242, 185 210 Z"/>
+      <path d="M170 270 C195 250, 225 260, 238 282 C214 308, 184 304, 170 270 Z"/>
+      <path d="M220 300 C245 280, 275 290, 288 312 C264 338, 234 334, 220 300 Z"/>
+    </g>
+    <ellipse cx="210" cy="58" rx="92" ry="26" fill="#fff" fill-opacity="0.18"/>
+  </g>
+
+  <g transform="translate(60,70)" opacity="0.65">
+    <text x="0" y="0" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="44" fill="#111">Tieguanyin (Iron Goddess of Mercy - 铁观音)</text>
+    <path d="M0 18 H520" stroke="#111" stroke-opacity="0.25" stroke-width="4"/>
+  </g>
+</svg>

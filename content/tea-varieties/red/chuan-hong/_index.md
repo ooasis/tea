@@ -6,6 +6,8 @@ tags: [red-tea, culture, buying-guide, sichuan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="chuan-hong-1.svg" w="1200x" alt="Chuan Hong (Sichuan Red Tea - 川紅) illustration" >}}
+
 ## The Culture: The "Red" Soul of Sichuan
 
 Chuan Hong (literally "Sichuan Red") is one of China's most distinctive and high-quality red teas. While Sichuan is world-famous for its green teas (like Zhu Ye Qing), its red tea history is relatively modern, gaining prominence in the **1950s**.

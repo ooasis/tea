@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, henan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="maojian-1.svg" w="1200x" alt="Xinyang Maojian (Green Tip - 信阳毛尖) illustration" >}}
+
 ## The Culture: The "King" of Northern Green Teas
 
 Xinyang Maojian is the most famous green tea from Henan Province and is consistently ranked among China's Top Ten Teas. Its history dates back over 2,300 years, with tea production in the region mentioned in Lu Yu's *The Classic of Tea* during the Tang Dynasty.

@@ -6,6 +6,8 @@ tags: [dark-tea, culture, processing, buying-guide, yunnan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="sheng-pu-erh-1.svg" w="1200x" alt="Sheng Pu-erh (Raw Pu-erh - 生普洱) illustration" >}}
+
 ## The History: The Ancient Tea Horse Road
 
 Sheng Pu-erh (Raw Pu-erh) is one of the oldest types of tea in the world, originating in the Yunnan province of China. Its history is inseparable from the **Ancient Tea Horse Road**, a treacherous network of trails through the Himalayas where tea was traded for Tibetan horses.

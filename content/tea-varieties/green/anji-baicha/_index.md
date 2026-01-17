@@ -6,6 +6,8 @@ tags: [green-tea, culture, buying-guide, zhejiang]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="anji-baicha-1.png" w="1200x" alt="Anji Bai Cha (Anji Baicha) illustration" >}}
+
 ## The Mystery: Is it White or Green?
 
 Anji Bai Cha is one of the most unique teas in China. Despite its name (which translates to "Anji White Tea"), it is technically a **Green Tea**.

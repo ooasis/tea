@@ -6,6 +6,8 @@ tags: [red-tea, culture, buying-guide, anhui]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
+{{< img src="qimen-hongcha-1.svg" w="1200x" alt="Qimen Hongcha (Keemun - 祁门红茶) illustration" >}}
+
 ## The History: The "Burgundy" of Teas
 
 Qimen Hongcha, better known in the West as **Keemun**, is widely considered the most prestigious red tea in China. It was first created in 1875 by a failed civil servant named Yu Ganchen, who traveled to Fujian to learn the secrets of red tea and brought them back to his home in Qimen, Anhui.
