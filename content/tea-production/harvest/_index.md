@@ -1,5 +1,5 @@
 +++
-date = '2026-01-15T21:37:44-08:00'
+date = '2026-01-17T23:03:42-08:00'
 draft = false
 title = 'Harvest'
 tags = ['culture', 'harvest', 'grading']
@@ -33,10 +33,16 @@ In China, the tea harvest is dictated by the **24 Solar Terms** of the tradition
 
 When we talk about "parts" of the tea plant, we aren't just grabbing handfuls of hedges. We are looking for the **tenderest growth** at the very tip of the branch.
 
+{{< media-split
+  src="tea-picking.jpg"
+  w="900x"
+  alt="Tea picking standards diagram showing: single bud (silver needle), one bud and one leaf, one bud and two leaves, and coarser plucks with three to four mature leaves."
+>}}
 * **The Bud (Single Bud):** The unopened leaf at the tip. It’s covered in tiny white hairs (trichomes). Teas made of only buds (like *Silver Needle*) are delicate, silky, and prized.
 * **One Bud, One Leaf:** A balanced plucking standard often used for high-end Longjing (Dragon Well).
 * **One Bud, Two Leaves:** The classic "fine" pluck. The bud provides sweetness, while the two leaves provide the body, aroma, and complexity.
 * **Coarser Plucks:** Teas like Oolong or Pu-erh often use more mature leaves (3 to 4 leaves down) because they require more "material" to survive the intense oxidation and roasting processes.
+{{< /media-split >}}
 
 ---
 
