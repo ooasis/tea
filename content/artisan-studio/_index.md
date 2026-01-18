@@ -32,7 +32,7 @@ title = "The Artisan's Studio"
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/harvest/_index.md" >}}'>Harvest (采摘)</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
-  • <a class="no-underline" href='{{< ref "tea-production/puerh-mountains/_index.md" >}}'>Pu-erh Mountains (普洱山头)</a> </span> 
+  • <a class="no-underline" href='{{< ref "tea-production/puerh-mountains/_index.md" >}}'>Pu-erh Mountains (普洱山头) </a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/puerh-producers/_index.md" >}}'>Pu-erh Producers (普洱厂家)</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
