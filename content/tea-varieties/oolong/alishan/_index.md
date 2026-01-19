@@ -6,7 +6,7 @@ tags: [oolong, culture, brewing, buying-guide, taiwan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
-{{< img src="alishan-1.svg" w="1200x" alt="Alishan High Mountain Oolong (阿里山高山烏龍) illustration" >}}
+{{< img src="alishan-1.png" w="1200x" alt="Alishan High Mountain Oolong (阿里山高山烏龍) illustration" >}}
 
 ## The Culture: The Icon of High Mountain Tea
 

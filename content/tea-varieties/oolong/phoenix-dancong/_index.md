@@ -6,7 +6,7 @@ tags: [oolong, culture, brewing, buying-guide, guangdong]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
-{{< img src="phoenix-dancong-1.svg" w="1200x" alt="Phoenix Dancong (Fenghuang Dancong - 凤凰单丛) illustration" >}}
+{{< img src="phoenix-dancong-1.png" w="1200x" alt="Phoenix Dancong (Fenghuang Dancong - 凤凰单丛) illustration" >}}
 
 ## The History: The "Single Bush" Perfume
 

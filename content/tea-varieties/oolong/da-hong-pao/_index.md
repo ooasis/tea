@@ -6,7 +6,7 @@ tags: [oolong, culture, brewing, buying-guide, fujian]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
-{{< img src="da-hong-pao-1.svg" w="1200x" alt="Da Hong Pao (Big Red Robe - 大红袍) illustration" >}}
+{{< img src="da-hong-pao-1.png" w="1200x" alt="Da Hong Pao (Big Red Robe - 大红袍) illustration" >}}
 
 ## The Myth and History: The Scholar’s Robe
 

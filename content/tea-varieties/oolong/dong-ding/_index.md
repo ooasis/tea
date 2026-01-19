@@ -6,7 +6,7 @@ tags: [oolong, culture, brewing, buying-guide, taiwan]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
-{{< img src="dong-ding-1.svg" w="1200x" alt="Dong Ding Oolong (Frozen Summit - 冻顶乌龙) illustration" >}}
+{{< img src="dong-ding-1.png" w="1200x" alt="Dong Ding Oolong (Frozen Summit - 冻顶乌龙) illustration" >}}
 
 ## The History: The Frozen Summit
 

@@ -6,7 +6,7 @@ tags: [oolong, culture, brewing, buying-guide, fujian]
 date: '2026-01-15T21:37:44-08:00'
 ---
 
-{{< img src="rougui-1.svg" w="1200x" alt="Rougui (Cinnamon Rock Oolong - 肉桂) illustration" >}}
+{{< img src="rougui-1.png" w="1200x" alt="Rougui (Cinnamon Rock Oolong - 肉桂) illustration" >}}
 
 ## The Culture: The "Aggressive" Fragrance
 
