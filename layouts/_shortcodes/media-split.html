@@ -1,0 +1,46 @@
+{{/* layouts/_shortcodes/media-split.html */}}
+{{ $src := (.Get "src") }}
+{{ $original := .Page.Resources.GetMatch $src }}
+{{ if and (not $original) .Page.Parent }}
+  {{ $original = .Page.Parent.Resources.GetMatch $src }}
+{{ end }}
+
+{{ $class := (.Get "class") | default "" }}
+{{ $w := (.Get "w") | default "" }}
+
+<div class="media-split{{ if $class }} {{ $class }}{{ end }}">
+  <div class="media-split__media">
+    {{ if $original }}
+      {{/* Hugo commonly reports SVG subtype as "svg" (sometimes "svg+xml"). */}}
+      {{ $isSvg := or (eq $original.MediaType.SubType "svg") (eq $original.MediaType.SubType "svg+xml") }}
+
+      {{/* SVGs can't be resized via Hugo's image pipeline; serve as-is. */}}
+      {{ if $isSvg }}
+        <img src="{{ $original.RelPermalink }}"
+             alt="{{ .Get "alt" }}"
+             style="max-width:100%;height:auto">
+      {{ else }}
+        {{ if $w }}
+          {{/* Resize the image based on the "w" parameter (e.g., "900x") */}}
+          {{ $resized := $original.Resize $w }}
+          <img src="{{ $resized.RelPermalink }}"
+               width="{{ $resized.Width }}"
+               height="{{ $resized.Height }}"
+               alt="{{ .Get "alt" }}">
+        {{ else }}
+          <img src="{{ $original.RelPermalink }}"
+               alt="{{ .Get "alt" }}"
+               style="max-width:100%;height:auto">
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      <p style="color:red">Image not found: {{ $src }}</p>
+    {{ end }}
+  </div>
+
+  <div class="media-split__content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
+
+
