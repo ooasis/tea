@@ -49,6 +49,20 @@ This repo uses **page bundles** (directories with `_index.md`) and images stored
 - Prefer making changes via `layouts/**` overrides and `assets/custom.css` rather than editing vendored theme code.
 - Only modify `themes/paper/**` if the user explicitly asks, or if there is no reasonable override approach.
 
+## Search (static)
+
+This site uses **client-side search** powered by a Hugo-generated JSON index.
+
+- Hugo generates `/index.json` via `layouts/index.json.json` (enabled by `hugo.toml` outputs).
+- The search page loads the index and ranks results in the browser via `static/js/search.js`.
+- To exclude a page/section from search, set front matter: `search: false`.
+- Keep `description` and/or summaries clean: they feed both SEO `<meta name="description">` and the search index `summary`.
+
+## SEO / robots
+
+- Tag/taxonomy/pagination pages are marked `noindex,follow` in `layouts/partials/head.html`—don’t change this unless you explicitly want these pages indexed.
+- Production SEO tags (canonical/OG/schema/twitter) are enabled when building in production or when `params.env = "production"` (see `hugo.toml`).
+
 ## Tooling / agent behavior
 
 - Prefer using **absolute paths** when calling tools (this workspace runs on macOS).
