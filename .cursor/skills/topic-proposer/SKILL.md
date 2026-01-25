@@ -1,3 +1,8 @@
+---
+name: topic-proposer
+description: Generate 3 distinct blog ideas from a rough topic, with structured proposals including titles, descriptions, tags, content paths, and key topics to cover for the Tea & Me Hugo site.
+---
+
 # Topic Proposer Skill
 
 ## Role

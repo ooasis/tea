@@ -1,3 +1,8 @@
+---
+name: blog-illustrator
+description: Generate 1-2 image creation prompts in the _ai.prompt format and integrate them into blog posts, with proper image shortcodes, alt text, and styling guidelines for the Tea & Me Hugo site.
+---
+
 # Blog Illustrator Skill
 
 ## Role

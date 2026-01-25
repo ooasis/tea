@@ -25,6 +25,9 @@ title = "The Artisan's Studio"
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-categories/japanese-green-tea/_index.md" >}}'>Japanese Green Tea (日本绿茶)</a>
   </span>
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-categories/english-tea-culture/_index.md" >}}'>English Tea Culture</a>
+  </span>
 </div>
 
 ### Tea Productions

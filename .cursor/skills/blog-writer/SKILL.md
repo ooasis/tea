@@ -1,3 +1,8 @@
+---
+name: blog-writer
+description: Create 3 complete blog drafts (500-1000 words each) ready for publication as Hugo page bundles, with proper front matter, markdown content, image shortcodes, and practical information for the Tea & Me site.
+---
+
 # Blog Writer Skill
 
 ## Role

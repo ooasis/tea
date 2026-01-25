@@ -1,5 +1,5 @@
 ---
-description: Tea & Me (Hugo) project rules — content, layouts, and generated outputs
+description: Tea & Me (Hugo) project rules — critical always-on conventions
 alwaysApply: true
 globs:
   - "**/*"
@@ -8,6 +8,8 @@ globs:
 # Tea & Me — Cursor rules
 
 You are working in a **Hugo static site** repo. Optimize for: correct Hugo behavior, clean Markdown content, and not editing generated artifacts.
+
+> **Note**: For detailed project structure, conventions, and workflows, see `@.cursor/skills/project-overview/SKILL.md`
 
 ## Source-of-truth vs generated output
 
@@ -23,49 +25,15 @@ You are working in a **Hugo static site** repo. Optimize for: correct Hugo behav
 
 If a user asks for a visual/output change, implement it by changing **source files** above, not `public/`.
 
-## Content authoring conventions (Markdown in `content/**`)
+## Essential conventions
 
-- **Front matter**: Use **YAML front matter** with `---` delimiters (match existing pages).
-  - Keep `draft: false` unless explicitly requested otherwise.
-  - Keep `title`, `tags`, and `date` present for new pages.
-- **Tags**: Use existing tag style: lowercase, hyphenated/kebab-case tokens (e.g. `dark-tea`, `buying-guide`, `guangxi`).
-- **Headings**: Start main content at `##` (the page title is provided by front matter + theme).
-- **Tone**: Informational, structured, practical; prefer short sections, lists, and comparison tables where helpful.
-- **UpdateTime**: When a leaf page is changed, please change the `date` to current time to reflect the last modified time.
-
-## Page bundles + images
-
-This repo uses **page bundles** (directories with `_index.md`) and images stored alongside the page.
-
-- When adding an image for a page, place it in the same directory as that page’s `_index.md` (or in the parent bundle if the content expects that).
-- Prefer the existing shortcode for images:
-  - Use `{{< img src="FILE" w="1200x" alt="..." >}}` for raster images (png/jpg/webp).
-  - Use `{{< img src="FILE.svg" alt="..." >}}` for SVGs (do not rely on resizing via `w` for SVG).
-- Ensure every image has meaningful **alt** text.
-- If you reference an image, ensure the referenced file actually exists in the bundle (otherwise the shortcode renders an error message).
-
-## Templates / theme interaction
-
-- Prefer making changes via `layouts/**` overrides and `assets/custom.css` rather than editing vendored theme code.
-- Only modify `themes/paper/**` if the user explicitly asks, or if there is no reasonable override approach.
-
-## Search (static)
-
-This site uses **client-side search** powered by a Hugo-generated JSON index.
-
-- Hugo generates `/index.json` via `layouts/index.json.json` (enabled by `hugo.toml` outputs).
-- The search page loads the index and ranks results in the browser via `static/js/search.js`.
-- To exclude a page/section from search, set front matter: `search: false`.
-- Keep `description` and/or summaries clean: they feed both SEO `<meta name="description">` and the search index `summary`.
-
-## SEO / robots
-
-- Tag/taxonomy/pagination pages are marked `noindex,follow` in `layouts/partials/head.html`—don’t change this unless you explicitly want these pages indexed.
-- Production SEO tags (canonical/OG/schema/twitter) are enabled when building in production or when `params.env = "production"` (see `hugo.toml`).
+- **Front matter**: Use YAML front matter with `---` delimiters. Keep `draft: false`, `title`, `tags`, and `date` present for new pages.
+- **Content structure**: Start content at `##` (page title comes from front matter).
+- **Images**: Use `{{< img src="FILE" w="1200x" alt="..." >}}` shortcode. Place images in same directory as `_index.md`. Always include meaningful alt text.
+- **Theme**: Prefer `layouts/**` overrides and `assets/custom.css` over editing `themes/paper/**`.
 
 ## Tooling / agent behavior
 
 - Prefer using **absolute paths** when calling tools (this workspace runs on macOS).
 - When making changes, keep diffs minimal and consistent with existing style.
-- Never introduce secrets; don’t add external network dependencies unless the user asks.
-
+- Never introduce secrets; don't add external network dependencies unless the user asks.
