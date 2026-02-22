@@ -72,3 +72,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/gai-wan/_index.md" >}}'>Gai-Wan (盖碗)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/tea-pot/_index.md" >}}'>Tea Pot (茶壶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/zi-sha/_index.md" >}}'>Zi-Sha Pot (紫砂壶)</a></span>
+
+## Tea Cuisine
+
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/tea-egg/_index.md" >}}'>Tea Egg (茶叶蛋)</a></span>
