@@ -77,3 +77,4 @@ date: '2026-01-15T21:37:44-08:00'
 
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/tea-egg/_index.md" >}}'>Tea Egg (茶叶蛋)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href="{{< ref "tea-cuisine/longjing-shrimp/_index.md" >}}">Longjing Shrimp (龙井虾仁)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href="{{< ref "tea-cuisine/longjing-shrimp/_index.md" >}}">Longjing Shrimp (龙井虾仁)</a></span>
