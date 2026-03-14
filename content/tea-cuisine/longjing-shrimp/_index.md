@@ -6,8 +6,6 @@ title: "Longjing Shrimp: The Delicate Hangzhou Dish Where Tea Meets the Wok"
 tags: [culture, cuisine, recipes]
 ---
 
-{{< img src="longjing-shrimp-1.jpg" w="1200x" alt="Elegant plate of Longjing shrimp with fresh tea leaves, West Lake scenery in soft background" >}}
-
 ## A Little Culture: Where Longjing Shrimp Comes From
 
 Longjing shrimp (龙井虾仁, *Lóngjǐng xiárén*) is one of the most celebrated dishes from Hangzhou, the capital of Zhejiang province in eastern China. Named after the famous Longjing (Dragon Well) green tea grown in the hills around West Lake, this dish perfectly embodies the harmony between tea culture and Chinese culinary arts.

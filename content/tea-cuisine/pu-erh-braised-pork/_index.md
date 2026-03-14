@@ -1,18 +1,13 @@
 ---
-title: "Pu-erh Braised Pork (普洱茶红烧肉)"
 date: 2026-03-15T00:00:00+08:00
 draft: false
+
+title: "Pu-erh Braised Pork (普洱茶红烧肉)"
 description: "Discover how aged pu-erh tea transforms classic hongshao rou into a deeply aromatic, less greasy masterpiece of tea cuisine."
 tags: ["tea cuisine", "pu-erh", "Chinese cooking", "braised pork", "Yunnan", "recipe"]
-categories: ["Tea Cuisine", "Recipes"]
-series: ["Tea Cuisine Blog"]
-weight: 3
-image: "images/pu-erh-braised-pork-hero.jpg"
 ---
 
 # Pu-erh Braised Pork (普洱茶红烧肉)
-
-*Day 3 of our Tea Cuisine Series*
 
 ---
 
@@ -155,50 +150,6 @@ Chinese cooks have known for centuries that tea makes braised meats "less greasy
 
 ---
 
-## AI Image Prompts
-
-For future blog illustrations, here are detailed prompts for generating images:
-
-### Hero Image
-```
-Professional food photography, pu-erh braised pork belly in dark ceramic bowl, 
-glossy amber sauce coating tender pork cubes, steam rising, garnished with 
-sliced scallions and star anise, rustic wooden table, natural window lighting, 
-shallow depth of field, warm tones, Chinese tea leaves scattered nearby, 
-4k, highly detailed --ar 16:9 --style raw
-```
-
-### Process Shot: Tea Brewing
-```
-Close-up of aged pu-erh tea leaves steeping in glass teapot, dark amber liquid, 
-traditional Chinese tea ceremony aesthetic, soft natural lighting, steam visible, 
-minimalist composition, warm earth tones --ar 3:2
-```
-
-### Process Shot: Caramelized Sugar
-```
-Overhead shot of rock sugar caramelizing in wok, amber-colored syrup, 
-wooden spatula, warm golden lighting, cooking action shot, professional 
-food photography style --ar 1:1
-```
-
-### Finished Dish with Tea
-```
-Flat lay composition, pu-erh braised pork over white rice in ceramic bowl, 
-side of pu-erh tea in traditional cup, chopsticks, tea leaves in small dish, 
-dark slate background, moody lighting, Chinese cuisine styling --ar 4:3
-```
-
-### Ingredient Layout
-```
-Knolling photography style, all ingredients for pu-erh braised pork arranged 
-neatly: pork belly cubes, pu-erh tea cake, ginger, garlic, star anise, 
-cinnamon, soy sauce bottles, rock sugar, clean white background, 
-even lighting, professional food styling --ar 16:9
-```
-
----
-
 ## Tips for Success
 
 1. **Choose the right pu-erh**: Don't use your most expensive drinking tea, but avoid the cheapest tea dust. A mid-range shou pu-erh (3-5 years aged) is perfect.
@@ -211,15 +162,3 @@ even lighting, professional food styling --ar 16:9
 
 5. **Freeze the tea**: Brew extra pu-erh and freeze it in ice cube trays for future braising projects.
 
----
-
-## Coming Up Next
-
-In Day 4 of our Tea Cuisine Series, we'll explore **Longjing (Dragon Well) Shrimp**, where delicate green tea meets fresh river shrimp in a dish that captures the essence of Hangzhou spring.
-
----
-
-*Have you cooked with tea before? Share your tea cuisine experiments in the comments below!*
-
-**Previous**: [Day 2: Tea-Smoked Chicken](/tea-cuisine/tea-smoked-chicken/)  
-**Next**: [Day 4: Longjing Shrimp](/tea-cuisine/longjing-shrimp/)
