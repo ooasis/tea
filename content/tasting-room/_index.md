@@ -79,3 +79,4 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/longjing-shrimp/_index.md" >}}'>Longjing Shrimp (龙井虾仁)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/tea-smoked-duck/_index.md" >}}'>Tea-Smoked Duck (茶熏鸭)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/matcha-desserts/_index.md" >}}'>Matcha Desserts (抹茶甜品)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href="{{< ref "tea-cuisine/pu-erh-braised-pork/_index.md" >}}">Pu-erh Braised Pork (普洱茶红烧肉)</a></span>
