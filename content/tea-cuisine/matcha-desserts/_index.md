@@ -1,15 +1,10 @@
 ---
-title: "Matcha Desserts: A Journey Through Japanese and Chinese Tea Cuisine"
 date: 2026-03-14T00:00:00+08:00
 draft: false
+
+title: "Matcha Desserts: A Journey Through Japanese and Chinese Tea Cuisine"
 description: "Explore the cultural heritage of matcha in Japanese and Chinese tea cuisine, with delicious matcha dessert recipes including matcha cheesecake, matcha cookies, and matcha mochi."
-keywords: ["matcha", "matcha desserts", "Japanese tea", "Chinese tea cuisine", "green tea recipes", "matcha cheesecake", "matcha cookies"]
-categories: ["Tea Cuisine", "Desserts", "Japanese", "Chinese"]
-tags: ["matcha", "desserts", "recipes", "tea culture"]
-author: "Tea & Me"
-image: "/images/tea-cuisine/matcha-desserts.jpg"
-toc: true
-weight: 2
+tags: [culture, cuisine, recipes]
 ---
 
 # Matcha Desserts: Where Japanese Tradition Meets Modern Sweetness

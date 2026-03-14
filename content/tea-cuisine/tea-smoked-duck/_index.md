@@ -1,15 +1,10 @@
 ---
-title: "Tea-Smoked Duck (茶熏鸭): A Sichuan Culinary Treasure"
 date: 2026-03-13T00:00:00+08:00
 draft: false
+
+title: "Tea-Smoked Duck (茶熏鸭): A Sichuan Culinary Treasure"
 description: "Discover the art of tea-smoking with this authentic Sichuan Tea-Smoked Duck recipe. Learn the cultural background, detailed cooking techniques, and pro tips for perfect results."
-tags: ["tea cuisine", "Sichuan", "duck", "smoking", "Chinese cooking", "traditional recipes"]
-categories: ["Tea Cuisine", "Main Dishes", "Sichuan Cuisine"]
-series: ["Tea Cuisine Blog"]
-author: "Tea & Me"
-image: "/images/tea-smoked-duck-hero.jpg"
-toc: true
-weight: 1
+tags: [culture, cuisine, recipes]
 ---
 
 ## The Art of Tea-Smoking: A Sichuan Heritage

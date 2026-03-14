@@ -1,9 +1,9 @@
 ---
+date: '2026-03-08T10:00:00-08:00'
 draft: false
 
 title: "Longjing Shrimp: The Delicate Hangzhou Dish Where Tea Meets the Wok"
-tags: [cuisine, recipes, culture, green-tea, hangzhou]
-date: '2026-03-08T10:00:00-08:00'
+tags: [culture, cuisine, recipes]
 ---
 
 {{< img src="longjing-shrimp-1.jpg" w="1200x" alt="Elegant plate of Longjing shrimp with fresh tea leaves, West Lake scenery in soft background" >}}

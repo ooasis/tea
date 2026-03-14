@@ -1,9 +1,9 @@
 ---
+date: '2026-02-21T10:00:00-08:00'
 draft: false
 
 title: "Tea Eggs: The Street Food That Bridges Tea and Daily Life"
 tags: [culture, cuisine, recipes]
-date: '2026-02-21T10:00:00-08:00'
 ---
 
 {{< img src="tea-egg-1.jpg" w="1200x" alt="Tea eggs displayed in a traditional street vendor setup, showing the marbled pattern on cracked eggshells simmering in dark tea broth" >}}

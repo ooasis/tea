@@ -1,71 +1,68 @@
 # Tea & Me
 
-A multilingual Hugo static site about tea, featuring the [hugo-paper](https://github.com/nanxiaobei/hugo-paper) theme.
+A Hugo static site about Chinese tea for amateur tea lovers, using the [hugo-paper](https://github.com/nanxiaobei/hugo-paper) theme (loaded as a module).
 
 ## Features
 
-- **Multilingual Support**: English and Chinese (中文)
-- **Navigation Menu**: Blogs, Tea Families, and About sections in both languages
-- **Sample Content**: Home pages and blog posts in both languages
+- **Sections**: The Artisan’s Studio, The Tasting Room, and All Topics (tags)
+- **Content**: Tea categories and varieties, production (harvest, techniques, producers, terroir), teaware, US tea shop samples, tea cuisine, and client-side search
+- **Theme**: Hugo Paper with custom layouts and `assets/custom.css`
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Hugo](https://gohugo.io/) installed (extended version recommended)
+- [Hugo](https://gohugo.io/) (extended version recommended)
 
-### Running the Site
+### Running the site
 
-1. Start the Hugo development server:
-   ```bash
-   hugo server --buildDrafts
-   ```
+```bash
+hugo server --buildDrafts
+```
 
-2. Open your browser to `http://localhost:1313`
+Open `http://localhost:1313`.
 
-### Building for Production
+### Building for production
 
 ```bash
 hugo --buildDrafts
 ```
 
-The site will be built in the `public/` directory.
+Output is in `public/`. For production SEO (canonical, OG, schema), use:
 
-## Site Structure
+```bash
+hugo --environment production
+```
 
-- `content/` - English content
-- `content/zh/` - Chinese content
-- `content/blogs/` - Blog posts (English)
-- `content/zh/blogs/` - Blog posts (Chinese)
-- `content/tea-families/` - Tea families section (English)
-- `content/zh/tea-families/` - Tea families section (Chinese)
-- `content/about/` - About page (English)
-- `content/zh/about/` - About page (Chinese)
+## Site structure
+
+- **`content/`** – All content (page bundles with `_index.md`)
+  - `_index.md` – Homepage
+  - `artisan-studio/` – The Artisan’s Studio
+  - `tasting-room/` – The Tasting Room
+  - `tea-categories/` – Green, white, yellow, oolong, red, black, Japanese green, English tea culture
+  - `tea-varieties/` – Varieties by category (e.g. longjing, tieguanyin, dianhong, sheng-pu-erh)
+  - `tea-production/` – Harvest, techniques, Dancong/Pu-erh producers, Pu-erh mountains
+  - `teaware/` – Gai-wan, tea pot, zi-sha
+  - `tea-shop/us-shops/` – US shops and sample reviews (e.g. White2Tea, Verdant Tea, Yunnan Sourcing)
+  - `tea-cuisine/` – Tea in food (e.g. Longjing shrimp, tea egg, tea-smoked duck, matcha desserts)
+  - `search/` – Search page (client-side, powered by `/index.json`)
+- **`layouts/`** – Templates, shortcodes (`img`, `media-split`, `sample-grid`), partials
+- **`assets/`** – Site CSS (e.g. `custom.css`)
+- **`static/`** – Static assets (JS, images) copied as-is
+- **`hugo.toml`** – Site config (base URL, menu, params, theme module, outputs)
+
+Do **not** edit `public/` or `resources/_gen/`; they are generated.
 
 ## Configuration
 
-The site configuration is in `hugo.toml`. Key settings:
+- **Base URL**: `https://teaandme.com/`
+- **Theme**: `github.com/nanxiaobei/hugo-paper` (Hugo module)
+- **Outputs**: HTML, RSS, JSON (for search index)
+- **Menu**: Artisan’s Studio, Tasting Room, All Topics (see `[menu]` in `hugo.toml`)
 
-- **Languages**: English (en) and Chinese (zh)
-- **Theme**: hugo-paper
-- **Navigation**: Configured in the `[languages]` section
+For detailed conventions (front matter, images, shortcodes, search, SEO), see `.cursor/skills/project-overview/SKILL.md`.
 
-## Adding Content
+## Theme documentation
 
-### English Content
-
-```bash
-hugo new blogs/my-new-post.md
-```
-
-### Chinese Content
-
-```bash
-hugo new zh/blogs/my-new-post.md
-```
-
-## Theme Documentation
-
-For more information about the hugo-paper theme, visit:
 https://github.com/nanxiaobei/hugo-paper
-
