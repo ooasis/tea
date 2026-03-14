@@ -1,1 +1,67 @@
+baseURL = 'https://teaandme.com/'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+title = 'Tea & Me'
+enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 5
+
+# Theme
+# theme = "paper"
+
+# Menu
+[menu]
+  [[menu.main]]
+    identifier = "artisan-studio"
+    name = "The Artisan’s Studio"
+    url = "/artisan-studio/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tasting-room"
+    name = "The Tasting Room"
+    url = "/tasting-room/"
+    weight = 20
+  [[menu.main]]
+    identifier = "all-topics"
+    name = "All Topics"
+    url = "/tags/"
+    weight = 30
+
+[params]
+  color = 'linen'
+  avatar = ''
+  name = 'Latest Articles'
+  bio = 'Explore the world of tea'
+  mainSections = ['blogs']
+  # Logo variants: "sprout-beaker" (default), "badge", "classic"
+  # logoVariant = 'sprout-beaker'
+  favicon = 'favicon.svg'
+  # SEO
+  # The Paper theme gates canonical/OG/schema on production or params.env == "production".
+  # Cloudflare Pages should build with `hugo --environment production`, but this keeps
+  # production SEO tags enabled even if the environment flag is missed.
+  env = 'production'
+  description = 'Explore the world of Chinese tea: varieties, processing, terroir, teaware, and tasting.'
+  # Used by Hugo internal OpenGraph/Twitter templates as a default preview image.
+  images = ['images/green-tea.jpg']
+  author = 'Tea & Me'
+
+# Needed to render raw HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[module]
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
