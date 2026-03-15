@@ -113,10 +113,4 @@ Complete the experience by serving complementary teas:
 **Avoid**: Strong black teas or heavily roasted oolongs—they will overwhelm the delicate jasmine finish.
 
 
-**Related Posts in This Series:**
-- [Tea-Smoked Duck](/tea-cuisine/tea-smoked-duck/) — The classic that started it all
-- [Pu-Erh Braised Pork](/tea-cuisine/pu-erh-braised-pork/) — Rich, earthy comfort food
-- [Matcha Desserts](/tea-cuisine/matcha-desserts/) — Sweet endings with Japanese influence
-
-**Next in the Series**: Day 5 will explore Lapsang Souchong—a dramatically smoky tea that transforms ordinary ingredients into extraordinary dishes.
 
