@@ -1,0 +1,169 @@
+# AI Image Prompts for Tea-Marinated Beef Blog Post
+
+## Hero Image (Main Featured Image)
+
+**Prompt:**
+```
+Professional food photography, tea-marinated beef stir-fry in a black ceramic wok, steam rising, tender beef strips with glossy sauce, colorful bell peppers and broccoli, chopsticks lifting a piece of beef, dark wooden table background, warm ambient lighting, shallow depth of field, 85mm lens, f/2.8, high detail, appetizing, Chinese cuisine, editorial style --ar 16:9 --style raw --v 6
+```
+
+**Alternative (Western steak version):**
+```
+Professional food photography, tea-marinated beef steak sliced on white ceramic plate, pink medium-rare interior, charred exterior, fresh rosemary sprig, small bowl of brewed tea beside plate, dark slate background, dramatic side lighting, fine dining presentation, 50mm lens, f/1.8, ultra detailed, gourmet --ar 4:3 --style raw --v 6
+```
+
+---
+
+## Step-by-Step Process Images
+
+### Image 1: Tea Brewing for Marinade
+
+**Prompt:**
+```
+Close-up food photography, loose-leaf jasmine green tea being steeped in clear glass teapot, golden-green tea liquid, tea leaves unfurling, soft natural window light, white marble countertop, minimalist composition, calming atmosphere, tea ceremony aesthetic --ar 3:2 --v 6
+```
+
+### Image 2: Beef Marinating
+
+**Prompt:**
+```
+Overhead shot, thin beef strips marinating in dark tea-soy mixture in a glass bowl, visible garlic and ginger pieces, fresh scallions on the side, dark wood cutting board, natural diffused lighting, preparation stage, cooking process documentation --ar 4:3 --v 6
+```
+
+### Image 3: High-Heat Stir-Frying
+
+**Prompt:**
+```
+Action food photography, beef stir-fry in carbon steel wok over high flame, flames licking up the sides, chef's hand tossing ingredients with spatula, motion blur on vegetables, dramatic lighting, restaurant kitchen atmosphere, dynamic composition, wok hei energy --ar 16:9 --v 6
+```
+
+### Image 4: Finished Dish Plating
+
+**Prompt:**
+```
+Professional food styling, tea-marinated beef stir-fry served over steamed jasmine rice in a black ceramic bowl, garnished with fresh cilantro and sliced red chili, chopsticks resting on bowl edge, dark textured placemat, warm golden hour lighting, inviting and appetizing, lifestyle food photography --ar 4:3 --v 6
+```
+
+---
+
+## Ingredient Flat Lay
+
+**Prompt:**
+```
+Flat lay photography, tea-marinated beef ingredients arranged artfully: raw beef slices, loose-leaf jasmine tea, soy sauce bottle, fresh ginger, garlic cloves, scallions, bell peppers, broccoli florets, cornstarch small bowl, dark rustic wooden background, organized mise en place, overhead view, soft shadows, natural light --ar 16:9 --v 6
+```
+
+---
+
+## Educational/Science Illustration
+
+### Tea Compounds Diagram
+
+**Prompt:**
+```
+Scientific illustration, molecular structure of tea tannins and catechins interacting with meat protein fibers, clean infographic style, blue and green color scheme, educational diagram, labeled components, white background, medical illustration aesthetic, clear and informative --ar 3:2 --v 6
+```
+
+### Tea Type Comparison Chart
+
+**Prompt:**
+```
+Infographic design, comparison of different tea types for meat marinades: black tea, pu-erh, oolong, green tea, jasmine tea, each with small tea leaf illustration, tannin level bars, best meat pairing icons, clean modern design, muted earth tones, editorial infographic --ar 16:9 --v 6
+```
+
+---
+
+## Cultural/Historical Images
+
+### Traditional Chinese Kitchen Scene
+
+**Prompt:**
+```
+Historical illustration, traditional Chinese kitchen from Tang Dynasty era, cook preparing meat with tea leaves, clay pots and woks, wooden utensils, warm candlelight, ink wash painting style, cultural heritage, atmospheric, muted sepia and brown tones --ar 4:3 --v 6
+```
+
+### Tea Ceremony Meets Cooking
+
+**Prompt:**
+```
+Artistic concept photography, traditional Chinese tea ceremony elements alongside modern cooking ingredients, tea whisk next to beef and wok, ceramic tea set with raw ingredients, fusion of tradition and modernity, dramatic studio lighting, cultural storytelling, editorial style --ar 3:2 --v 6
+```
+
+---
+
+## Social Media Images
+
+### Instagram Square (Recipe Teaser)
+
+**Prompt:**
+```
+Instagram food photography, tea-marinated beef stir-fry close-up, glossy beef strips with visible tea leaves, vibrant vegetables, square composition, bold colors, appetizing and shareable, social media optimized, high contrast, modern food blog aesthetic --ar 1:1 --v 6
+```
+
+### Pinterest Vertical (Recipe Pin)
+
+**Prompt:**
+```
+Pinterest-optimized vertical image, tea-marinated beef recipe collage: top section shows finished dish, middle section shows ingredients, bottom section shows marinating process, text overlay space at top, bright and clean, recipe blog style, vertical composition --ar 2:3 --v 6
+```
+
+---
+
+## Alternative Styling Options
+
+### Dark and Moody
+
+**Prompt:**
+```
+Dark moody food photography, tea-marinated beef in black wok, low key lighting, dramatic shadows, steam visible against dark background, cinematic atmosphere, fine dining editorial, rich colors, chiaroscuro lighting --ar 16:9 --style raw --v 6
+```
+
+### Bright and Airy
+
+**Prompt:**
+```
+Bright airy food photography, tea-marinated beef stir-fry on white plate, natural window light, light wood table, fresh and healthy aesthetic, lifestyle blog style, high key lighting, clean and minimal, morning light --ar 4:3 --v 6
+```
+
+### Rustic Home Cooking
+
+**Prompt:**
+```
+Rustic home cooking photography, tea-marinated beef in cast iron skillet, homey kitchen setting, wooden utensils, checkered napkin, warm cozy atmosphere, family meal aesthetic, natural imperfect styling, documentary food photography --ar 3:2 --v 6
+```
+
+---
+
+## Usage Notes
+
+1. **Hero image**: Use the first prompt for the main featured image (content/_index.md frontmatter)
+2. **In-article images**: Select 3-4 process images to break up the text
+3. **Social media**: Use square and vertical formats for Instagram and Pinterest
+4. **Educational content**: Include science diagrams for the "Science Behind Tea Enzymes" section
+5. **Cultural context**: Add historical illustration for the background section
+
+## Technical Specifications
+
+- **Resolution**: Generate at 2048px minimum on the longest side
+- **Format**: PNG or high-quality JPEG
+- **Color space**: sRGB for web use
+- **File naming**: 
+  - `tea-marinated-beef-hero.jpg`
+  - `tea-marinated-beef-process-01.jpg`
+  - `tea-marinated-beef-ingredients.jpg`
+  - `tea-marinated-beef-science.jpg`
+  - etc.
+
+## AI Image Generation Tools
+
+Recommended tools for generating these images:
+- Midjourney v6 (best for food photography)
+- DALL-E 3 (good for educational diagrams)
+- Stable Diffusion XL (customizable, local generation)
+- Adobe Firefly (commercial-safe, integrated with Creative Cloud)
+
+---
+
+*Last updated: 2026-03-18*
+*Blog post: Tea-Marinated Beef (茶腌牛肉)*
+*Series: Tea Cuisine Blog - Day 6*
