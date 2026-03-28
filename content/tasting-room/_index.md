@@ -81,3 +81,6 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/matcha-desserts/_index.md" >}}'>Matcha Desserts (抹茶甜品)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href="{{< ref "tea-cuisine/pu-erh-braised-pork/_index.md" >}}">Pu-erh Braised Pork (普洱茶红烧肉)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/jasmine-tea-chicken/_index.md" >}}'>Jasmine Tea Chicken (茉莉花茶鸡)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/tea-infused-rice/_index.md" >}}'>Tea-Infused Rice (茶泡饭)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/tea-marinated-beef/_index.md" >}}'>Tea-Marinated Beef (茶腌牛肉)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-cuisine/oolong-tea-fish/_index.md" >}}'>Oolong Tea Fish (乌龙茶鱼)</a></span>
