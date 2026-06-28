@@ -1,12 +1,9 @@
 ---
-title: "Tea-Smoked Tofu: A Vegan Take on a Chinese Classic"
-date: 2026-06-28T00:00:00+08:00
+date: '2026-06-28T00:00:00+08:00'
 draft: false
+title: "Tea-Smoked Tofu (茶熏豆腐): A Vegan Take on a Chinese Classic"
 description: "Transform humble tofu into a showstopper with the ancient technique of tea-smoking. Smoky, savory, and completely plant-based — this recipe brings the magic of tea cuisine to vegan cooking."
-tags: ["tea cuisine", "tofu", "vegan", "smoking", "Chinese cooking", "plant-based", "recipes"]
-categories: ["Tea Cuisine", "Vegan", "Recipes"]
-author: "Tea & Me"
-image: "/images/tea-cuisine/tea-smoked-tofu/hero.jpg"
+tag: "culture, cuisine, recipes"
 ---
 
 # Tea-Smoked Tofu: A Vegan Take on a Chinese Classic
