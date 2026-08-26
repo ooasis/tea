@@ -21,16 +21,18 @@
              style="max-width:100%;height:auto">
       {{ else }}
         {{ if $w }}
-          {{/* Resize the image based on the "w" parameter (e.g., "900x") */}}
-          {{ $resized := $original.Resize $w }}
+          {{/* Resize the image based on the "w" parameter (e.g., "900x"), converting to WebP */}}
+          {{ $resized := $original.Resize (printf "%s webp q80" $w) }}
           <img src="{{ $resized.RelPermalink }}"
                width="{{ $resized.Width }}"
                height="{{ $resized.Height }}"
-               alt="{{ .Get "alt" }}">
+               alt="{{ .Get "alt" }}"
+               loading="lazy" decoding="async">
         {{ else }}
           <img src="{{ $original.RelPermalink }}"
                alt="{{ .Get "alt" }}"
-               style="max-width:100%;height:auto">
+               style="max-width:100%;height:auto"
+               loading="lazy" decoding="async">
         {{ end }}
       {{ end }}
     {{ else }}

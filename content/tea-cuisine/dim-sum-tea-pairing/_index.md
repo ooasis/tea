@@ -6,7 +6,6 @@ description: "Discover which teas pair best with your favorite dim sum. From siu
 tags: ["tea cuisine", "dim sum", "pairing", "Chinese tea", "yum cha", "recipes"]
 categories: ["Tea Cuisine", "Pairing Guide"]
 author: "Tea & Me"
-image: "/images/tea-cuisine/dim-sum-tea-pairing/hero.jpg"
 ---
 
 # Dim Sum & Tea: The Perfect Pairing Guide
