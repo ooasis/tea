@@ -48,7 +48,12 @@ Check existence with `git ls-remote origin 'refs/heads/auto/*'` AND `gh pr list 
 2. **Research**: web search, at least 3 reputable sources. Note factual claims (origin, processing, brewing parameters) only when sources agree.
 3. **Write**: 500–1000 words as a page bundle `content/<section>/.../<slug>/_index.md` per CLAUDE.md front matter and structure conventions. Practical, structured, amateur-friendly. Include a comparison table or actionable brewing/buying guidance where natural.
 4. **Image**: one image via Workers AI (see Image generation below). On any failure, ship text-only and say so in the PR body.
-5. **Verify**: production build passes; the new page renders (check the built HTML exists and the image shortcode resolved).
+5. **Index the post** — every post must appear on its curated index page, in the same PR:
+   - Sections `tea-varieties`, `teaware`, `tea-cuisine` → add an entry to `content/tasting-room/_index.md` under the matching heading.
+   - Sections `tea-categories`, `tea-production`, `tea-shop` → add an entry to `content/artisan-studio/_index.md` under the matching heading.
+   - Entry format: copy an existing line from the index page and change the ref path (`<section>/<slug>/_index.md`) and link text (`Title (中文名)`).
+   - Tags: 3–5 lowercase kebab-case tags in front matter per the CLAUDE.md taxonomy (tea type + topic + region where applicable).
+6. **Verify**: production build passes; the new page renders AND appears on its index page (grep the built index HTML for the slug).
 
 ## Step 4b — Weekly digest (Mondays)
 
@@ -87,7 +92,7 @@ curl -s -X POST \
   -d '{"prompt": "<prompt>", "steps": 8}'
 ```
 
-Response JSON has `result.image` (base64) — decode to `<slug>-1.png` in the bundle. Write the matching `_ai.prompt` file per CLAUDE.md. Style: match the site's existing art (Chinese ink wash / watercolor / soft digital illustration). NEVER ask for Chinese characters or any text in the image. Reference it with `{{< img src="<slug>-1.png" w="1200x" alt="..." >}}`.
+Response JSON has `result.image` (base64) — decode it, check the actual format with `file` (the API returns JPEG despite docs saying PNG), and save as `<slug>-1.jpg` (or matching extension) in the bundle. Write the matching `_ai.prompt` file per CLAUDE.md. Style: match the site's existing art (Chinese ink wash / watercolor / soft digital illustration). NEVER ask for Chinese characters or any text in the image (the model may still add small seal stamps — acceptable). Reference it with the img shortcode, w="1200x".
 
 ## Logging
 
