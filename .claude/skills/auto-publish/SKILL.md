@@ -65,12 +65,12 @@ git checkout -b <auto-branch> && git add <bundle only> && git commit && git push
 gh pr create --title "<post title>" --body "<summary>"
 ```
 
-Commit message ends with: `Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>`.
+Plain commit messages — no Co-Authored-By or other AI attribution trailers.
 Then poll `wrangler pages deployment list --project-name tea` (every 20s, up to 3 min) for this branch's preview URL and add it to the PR body (`gh pr edit`).
 
 ## Step 6 — Email the user
 
-Send via the Gmail MCP tool to `hang.s@taboola.com`:
+Send via the Gmail MCP tool to `sunh11373@gmail.com`:
 - Subject: `[Tea & Me] New <post|digest> pending: <title>`
 - Body: 2–3 sentence summary, preview URL, PR URL, and either "Auto-publishes in 48h unless you comment 'hold' on the PR" or, during calibration, "Calibration mode: this will NOT auto-publish — merge the PR yourself to approve."
 
