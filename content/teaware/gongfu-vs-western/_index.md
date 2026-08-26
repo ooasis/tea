@@ -12,6 +12,8 @@ Every tea you own can be brewed two fundamentally different ways. **Western brew
 
 Neither method is "correct." They answer different questions. Western brewing asks: *how do I get a good, comforting cup with minimal fuss?* Gongfu asks: *what does this leaf have to say, infusion by infusion?*
 
+{{< img src="gongfu-vs-western-1.jpg" w="1200x" alt="Ink wash illustration contrasting a gongfu setup — gaiwan and three tasting cups on a wooden tray — with a single large Western teapot" >}}
+
 ---
 
 ## The Numbers Side by Side
