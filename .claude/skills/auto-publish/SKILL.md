@@ -94,6 +94,16 @@ curl -s -X POST \
 
 Response JSON has `result.image` (base64) — decode it, check the actual format with `file` (the API returns JPEG despite docs saying PNG), and save as `<slug>-1.jpg` (or matching extension) in the bundle. Write the matching `_ai.prompt` file per CLAUDE.md. Style: match the site's existing art (Chinese ink wash / watercolor / soft digital illustration). NEVER ask for Chinese characters or any text in the image (the model may still add small seal stamps — acceptable). Reference it with the img shortcode, w="1200x".
 
+## Step 7 — Shop research (every run, ~20 minutes)
+
+Grow the shop ledger `data/tea-shops.yaml` — data collection only, no blog, no email.
+
+1. Pick ONE angle per run and rotate (specialty pu-erh / oolong / green / teaware-plus-tea / US-based / farm-direct China / community recommendations e.g. reddit r/tea, TeaDB).
+2. Web-search that angle; for each promising shop not already in the ledger, verify the site is reachable (`curl -o /dev/null -w '%{http_code}' -L`) and sells authentic Chinese tea (skip mass-market blend retailers).
+3. Add at most 3 new entries per run: name, url, specialty, ships_from, status: candidate, added: <today>, one-line notes. Match the existing YAML shape exactly.
+4. Also re-check up to 3 of the oldest entries' URLs; mark unreachable ones `status: dead` (don't delete).
+5. This file does not affect the rendered site, so it is EXEMPT from the PR rule: commit it directly to main (`git add data/tea-shops.yaml && git commit -m "Shop research: <angle>, +N candidates" && git push origin main`). Never include other files in this commit.
+
 ## Logging
 
-Print a one-line summary at the end: what was swept/merged, what was created (or "nothing due"), email sent or not.
+Print a one-line summary at the end: what was swept/merged, what was created (or "nothing due"), shop candidates added, email sent or not.

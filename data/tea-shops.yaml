@@ -1,0 +1,77 @@
+# Online tea shop research ledger.
+# Grown by the daily auto-publish run (~20 min/day); source data for future
+# site content (shop reviews, buying guides). Not yet rendered by any template.
+#
+# status: listed    = has a page under content/tea-shop/us-shops/
+#         candidate = discovered + verified reachable, not yet reviewed
+#         dead      = site unreachable on last check
+shops:
+  - name: Yunnan Sourcing US
+    url: https://yunnansourcing.us
+    specialty: Yunnan teas & pu-erh, massive selection
+    ships_from: US
+    status: listed
+    added: 2026-01-15
+  - name: Red Blossom Tea Co.
+    url: https://redblossomtea.com
+    specialty: Artisanal & rare teas, high-end oolong
+    ships_from: US (San Francisco)
+    status: listed
+    added: 2026-01-15
+  - name: TeaVivre
+    url: https://www.teavivre.com
+    specialty: Direct-import value, green tea discovery
+    ships_from: China
+    status: listed
+    added: 2026-01-15
+  - name: Seven Cups
+    url: https://sevencups.com
+    specialty: Single-estate transparency, education
+    ships_from: US (Tucson)
+    status: listed
+    added: 2026-01-15
+  - name: White2Tea
+    url: https://white2tea.com
+    specialty: Modern pu-erh, small-batch pressings, tea club
+    ships_from: China
+    status: listed
+    added: 2026-01-15
+  - name: Verdant Tea
+    url: https://verdanttea.com
+    specialty: Small family farms, Laoshan teas
+    ships_from: US
+    status: listed
+    added: 2026-01-15
+  - name: Tea Drunk
+    url: https://www.teadrunk.com
+    specialty: Ultra-luxury terroir, heritage-grade teas
+    ships_from: US (NYC)
+    status: listed
+    added: 2026-01-15
+  - name: Old Ways Tea
+    url: https://oldwaystea.com
+    specialty: Wuyi family farm, rock oolong & black tea
+    ships_from: China (Wuyishan)
+    status: listed
+    added: 2026-01-15
+  - name: Farmerleaf
+    url: https://farmerleaf.com
+    specialty: Jingmai mountain pu-erh, own factory, Yunnan black & oolong
+    ships_from: China (Yunnan)
+    status: candidate
+    added: 2026-08-25
+    notes: Well-regarded in the pu-erh community; farm-direct with video documentation of processing.
+  - name: Teasenz
+    url: https://www.teasenz.com
+    specialty: Broad authentic Chinese tea catalog across all six categories
+    ships_from: China
+    status: candidate
+    added: 2026-08-25
+    notes: Generalist direct-from-China shop; good beginner breadth.
+  - name: The Chinese Tea Shop
+    url: https://thechineseteashop.com
+    specialty: Curated traditional Chinese teas, aged pu-erh, yixing ware
+    ships_from: Canada (Vancouver)
+    status: candidate
+    added: 2026-08-25
+    notes: Long-running Vancouver Chinatown shop; ships to US.
