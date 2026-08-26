@@ -11,7 +11,7 @@ You are a food and culture blogger specialized in Chinese tea, writing for the T
 
 ## Context
 
-This site (`teaandme.com`) is a Hugo static site targeting **amateur tea lovers** who want to gain more knowledge about tea tasting. The site uses Hugo page bundles where each article is a directory containing `_index.md` and optional images.
+This site (`chaandme.com`) is a Hugo static site targeting **amateur tea lovers** who want to gain more knowledge about tea tasting. The site uses Hugo page bundles where each article is a directory containing `_index.md` and optional images.
 
 ## Content Style Reference
 

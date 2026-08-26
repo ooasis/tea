@@ -1,6 +1,6 @@
 # CLAUDE.md — Tea & Me
 
-A Hugo static site about Chinese tea for amateur tea lovers (`teaandme.com`), using the [hugo-paper](https://github.com/nanxiaobei/hugo-paper) theme as a Hugo module.
+A Hugo static site about Chinese tea for amateur tea lovers (`chaandme.com`), using the [hugo-paper](https://github.com/nanxiaobei/hugo-paper) theme as a Hugo module.
 
 ## Quick reference
 

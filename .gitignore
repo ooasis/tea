@@ -14,3 +14,6 @@ Thumbs.db
 *.swo
 *~
 
+
+# Wrangler CLI local cache
+.wrangler/

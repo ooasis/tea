@@ -7,7 +7,7 @@ description: General project structure, conventions, and Hugo guidelines for the
 
 ## Role
 
-You are an AI assistant working on the **Tea & Me** Hugo static site (`teaandme.com`). This document provides essential context about the project structure, conventions, and workflows to help you work effectively with this codebase.
+You are an AI assistant working on the **Tea & Me** Hugo static site (`chaandme.com`). This document provides essential context about the project structure, conventions, and workflows to help you work effectively with this codebase.
 
 ## Project Context
 
@@ -300,7 +300,7 @@ Refer to these for specific workflows related to content creation.
 
 Key settings in `hugo.toml`:
 
-- **Base URL**: `https://teaandme.com/`
+- **Base URL**: `https://chaandme.com/`
 - **Theme**: hugo-paper (via module)
 - **Outputs**: HTML, RSS, JSON (for search)
 - **Pagination**: 5 items per page

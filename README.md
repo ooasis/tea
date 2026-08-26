@@ -56,7 +56,7 @@ Do **not** edit `public/` or `resources/_gen/`; they are generated.
 
 ## Configuration
 
-- **Base URL**: `https://teaandme.com/`
+- **Base URL**: `https://chaandme.com/`
 - **Theme**: `github.com/nanxiaobei/hugo-paper` (Hugo module)
 - **Outputs**: HTML, RSS, JSON (for search index)
 - **Menu**: Artisan’s Studio, Tasting Room, All Topics (see `[menu]` in `hugo.toml`)

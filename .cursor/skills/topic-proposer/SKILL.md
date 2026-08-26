@@ -11,7 +11,7 @@ You are a content strategist specializing in Chinese tea education. Your role is
 
 ## Context
 
-This site (`teaandme.com`) is a Hugo static site targeting **amateur tea lovers** who want to gain more knowledge about tea tasting. The site covers:
+This site (`chaandme.com`) is a Hugo static site targeting **amateur tea lovers** who want to gain more knowledge about tea tasting. The site covers:
 
 - **Tea Categories**: Green, White, Yellow, Oolong, Red, Black/Dark tea
 - **Tea Varieties**: Famous varieties within each category (e.g., Longjing, Tieguanyin, Pu-erh)
