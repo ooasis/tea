@@ -17,6 +17,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/anji-baicha/_index.md" >}}'>Anji Bai Cha (安吉白茶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/houkui/_index.md" >}}'>Taiping Houkui (太平猴魁)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/zhuyeqing/_index.md" >}}'>Zhu Ye Qing (竹叶青)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/jasmine/_index.md" >}}'>Jasmine Tea (茉莉花茶)</a></span>
 </div>
 
 #### White Tea
