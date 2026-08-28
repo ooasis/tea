@@ -118,3 +118,24 @@ shops:
     status: candidate
     added: 2026-08-28
     notes: West Village tea room since 2015 (founded 2011); loose leaf retail plus tea snacks.
+  - name: One River Tea
+    url: https://onerivertea.com
+    specialty: Farm-direct greens from Henan/Hubei/Jiangsu/Anhui/Zhejiang, plus all six categories
+    ships_from: China
+    status: candidate
+    added: 2026-08-28
+    notes: Cooperative (est. 2018) that visits every farm; notably deep single-origin green tea lineup.
+  - name: iTeaworld
+    url: https://iteaworld.com
+    specialty: Budget-friendly Chinese loose leaf samplers, longjing & biluochun from classic regions
+    ships_from: China
+    status: candidate
+    added: 2026-08-28
+    notes: Direct-from-grower sampler-focused shop; good low-cost entry point for greens.
+  - name: Lapsang Store
+    url: https://lapsangstore.com
+    specialty: Fresh-harvest Chinese teas incl. pre-qingming longjing & biluochun
+    ships_from: China
+    status: candidate
+    added: 2026-08-28
+    notes: Ships current-season grades from origin; green tea freshness angle.
