@@ -24,6 +24,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
+    notes: 2026-08-28 URL check returns 403 to curl (bot blocking); site is alive in browsers.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -75,3 +76,45 @@ shops:
     status: candidate
     added: 2026-08-25
     notes: Long-running Vancouver Chinatown shop; ships to US.
+  - name: Wuyi Origin
+    url: https://www.wuyiorigin.com
+    specialty: Farm-direct Wuyi yancha & Phoenix dancong oolong, Wuyi black tea
+    ships_from: China (Wuyishan)
+    status: candidate
+    added: 2026-08-27
+    notes: Run by Cindy Chen (Wuyishan tea family) and Mr. Zhou (Fenghuang); frequently recommended for yancha/dancong.
+  - name: Jing Tea Shop
+    url: https://www.jingteashop.com
+    specialty: Anxi, Wuyi & dancong oolongs, plus green/white/pu-erh
+    ships_from: China (Guangzhou), EU stock
+    status: candidate
+    added: 2026-08-27
+    notes: Founded 2004; direct long-term farmer relationships, detailed origin notes.
+  - name: What-Cha
+    url: https://what-cha.com
+    specialty: Multi-origin curation incl. Chinese & Taiwanese oolong
+    ships_from: UK
+    status: candidate
+    added: 2026-08-27
+    notes: Community favorite for breadth; ships to US with tariff built in.
+  - name: Song Tea & Ceramics
+    url: https://songtea.com
+    specialty: Premium curated Chinese & Taiwanese teas plus handmade teaware
+    ships_from: US (San Francisco)
+    status: candidate
+    added: 2026-08-28
+    notes: Minimalist Lower Pacific Heights shop; strong teaware-plus-tea curation.
+  - name: Floating Leaves Tea
+    url: https://floatingleaves.com
+    specialty: Small-batch Taiwanese oolong (baozhong, high mountain)
+    ships_from: US (Seattle)
+    status: candidate
+    added: 2026-08-28
+    notes: Owner Shiuwen Tai sources directly from long-time Taiwanese teamakers; hosts tastings.
+  - name: Té Company
+    url: https://tecompanytea.com
+    specialty: Taiwanese oolong sourced from small farms
+    ships_from: US (NYC)
+    status: candidate
+    added: 2026-08-28
+    notes: West Village tea room since 2015 (founded 2011); loose leaf retail plus tea snacks.
