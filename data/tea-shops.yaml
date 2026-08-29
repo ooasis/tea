@@ -139,3 +139,24 @@ shops:
     status: candidate
     added: 2026-08-28
     notes: Ships current-season grades from origin; green tea freshness angle.
+  - name: Crimson Lotus Tea
+    url: https://crimsonlotustea.com
+    specialty: Sheng & shou pu-erh, own pressings, Jianshui teapots
+    ships_from: US (Seattle)
+    status: candidate
+    added: 2026-08-29
+    notes: Husband-wife duo est. 2013; known for ripe pu-erh per TeaDB vendor guide.
+  - name: Bitterleaf Teas
+    url: https://www.bitterleafteas.com
+    specialty: Raw & ripe pu-erh plus heicha, oolong, and yixing/gaiwan teaware
+    ships_from: China (Yunnan)
+    status: candidate
+    added: 2026-08-29
+    notes: Extensive own-label pu-erh pressings; strong teaware catalog incl. Artist Series.
+  - name: Bana Tea Company
+    url: https://www.banateacompany.com
+    specialty: Aged & young gushu pu-erh, curated sample packs
+    ships_from: US (California)
+    status: candidate
+    added: 2026-08-29
+    notes: Run by Linda Louie, ties to Hong Kong aged-tea scene via Vesper Chan; TeaDB-recommended for raw pu-erh intros.
