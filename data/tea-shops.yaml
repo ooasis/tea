@@ -31,6 +31,7 @@ shops:
     ships_from: US (Tucson)
     status: listed
     added: 2026-01-15
+    notes: 2026-08-31 URL check returns 403 to curl (bot blocking); site is alive in browsers.
   - name: White2Tea
     url: https://white2tea.com
     specialty: Modern pu-erh, small-batch pressings, tea club
@@ -160,3 +161,24 @@ shops:
     status: candidate
     added: 2026-08-29
     notes: Run by Linda Louie, ties to Hong Kong aged-tea scene via Vesper Chan; TeaDB-recommended for raw pu-erh intros.
+  - name: Eco-Cha Teas
+    url: https://eco-cha.com
+    specialty: Farm-direct Taiwanese oolong (high mountain, Alishan, Dong Ding)
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-08-31
+    notes: Sustainable small-farm sourcing with detailed batch/farmer write-ups; monthly Tea Club.
+  - name: Mountain Tea
+    url: https://mountaintea.com
+    specialty: Taiwanese high mountain oolong from a family of growers
+    ships_from: US (California)
+    status: candidate
+    added: 2026-08-31
+    notes: Grower-owned (own farms in Taiwan) with US fulfillment; also black and GABA oolong.
+  - name: Yee On Tea Co.
+    url: https://yeeonteaco.com
+    specialty: Traditionally stored aged pu-erh, aged & dancong oolong
+    ships_from: Hong Kong
+    status: candidate
+    added: 2026-08-31
+    notes: Hong Kong shop since 1973 (義安茶莊); known for traditional HK storage and aged oolongs.
