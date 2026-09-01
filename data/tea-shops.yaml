@@ -182,3 +182,24 @@ shops:
     status: candidate
     added: 2026-08-31
     notes: Hong Kong shop since 1973 (義安茶莊); known for traditional HK storage and aged oolongs.
+  - name: Mud and Leaves
+    url: https://mudandleaves.com
+    specialty: Yixing/Nixing teapots & Jingdezhen porcelain plus pu-erh, Wuyi rock tea, greens
+    ships_from: China (Guangzhou)
+    status: candidate
+    added: 2026-09-01
+    notes: Teaware-first shop with a solid loose-leaf lineup; global shipping, duty-paid option.
+  - name: Chawang Shop
+    url: https://www.chawangshop.com
+    specialty: Pu-erh & hei cha with deep zisha/nixing/Jingdezhen teaware catalog
+    ships_from: China (Kunming)
+    status: candidate
+    added: 2026-09-01
+    notes: Kunming studio (Hanshan Tea); long-running budget-friendly pu-erh + teaware source.
+  - name: The Essence of Tea
+    url: https://essenceoftea.com
+    specialty: Ancient-tree pu-erh, Liu Bao, yancha, plus yixing teapots & silver kettles
+    ships_from: Malaysia (Kuala Lumpur)
+    status: candidate
+    added: 2026-09-01
+    notes: Est. 2008, relocated to Malaysia for aged-tea storage climate; high-end aged tea + teaware.
