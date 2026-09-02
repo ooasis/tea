@@ -203,3 +203,24 @@ shops:
     status: candidate
     added: 2026-09-01
     notes: Est. 2008, relocated to Malaysia for aged-tea storage climate; high-end aged tea + teaware.
+  - name: Tea Urchin
+    url: https://teaurchin.com
+    specialty: High-quality young sheng pu-erh, gushu, and Wuyi yancha
+    ships_from: China (Shanghai)
+    status: candidate
+    added: 2026-09-02
+    notes: TeaDB-recommended curator; premium single-source pu-erh & rock oolong, small samples available.
+  - name: The Mandarin's Tea Room
+    url: https://themandarinstearoom.com
+    specialty: Top-grade Zhengyan/Lao Cong Wuyi yancha and aged oolong
+    ships_from: US (New York)
+    status: candidate
+    added: 2026-09-02
+    notes: NYC shop cited in TeaDB's Wuyi guide; focus on high-end and aged rock oolong.
+  - name: Mandala Tea
+    url: https://shopmandalatea.com
+    specialty: Sheng & shou pu-erh, own-pressed cakes, plus greens and oolong
+    ships_from: US (Minnesota)
+    status: candidate
+    added: 2026-09-02
+    notes: TeaDB-recommended domestic vendor; fast US shipping, flat-rate fee.
