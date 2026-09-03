@@ -224,3 +224,24 @@ shops:
     status: candidate
     added: 2026-09-02
     notes: TeaDB-recommended domestic vendor; fast US shipping, flat-rate fee.
+  - name: BornTea
+    url: https://www.borntea.com
+    specialty: Farm-direct Yunnan & Fujian loose leaf (pu-erh, black, oolong)
+    ships_from: China (Yunnan/Fujian)
+    status: candidate
+    added: 2026-09-03
+    notes: Grower-founded shop shipping direct from origin farms, no middlemen; budget-friendly.
+  - name: Nature Pure Tea (NPTEA)
+    url: https://naturepuretea.com
+    specialty: Curated Chinese tea & gongfu teaware, direct from tea gardens
+    ships_from: China
+    status: candidate
+    added: 2026-09-03
+    notes: Family-operated; partners with organic tea gardens and craft studios for direct sourcing.
+  - name: Beautiful Taiwan Tea Co.
+    url: https://beautifultaiwantea.com
+    specialty: Farm-direct single-origin Taiwan oolong plus select China/Japan teas
+    ships_from: US (Midwest)
+    status: candidate
+    added: 2026-09-03
+    notes: "Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping.
