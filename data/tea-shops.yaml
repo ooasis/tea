@@ -245,3 +245,24 @@ shops:
     status: candidate
     added: 2026-09-03
     notes: "Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping.
+  - name: ICHA TEA
+    url: https://ichateashop.com
+    specialty: Authentic Chinese tea across all six categories; pre-Qingming Dongting biluochun with farm-original QR traceability
+    ships_from: Canada (Toronto)
+    status: candidate
+    added: 2026-09-04
+    notes: Toronto-based with physical shops; emphasizes traceable single-origin spring greens.
+  - name: Hey China
+    url: https://www.heychina.com
+    specialty: Traditional single-origin Chinese tea (Xihu Longjing, oolong, pu-erh, jasmine, black, white)
+    ships_from: Australia (Melbourne)
+    status: candidate
+    added: 2026-09-04
+    notes: Melbourne-based; markets mingqian West Lake Longjing and genuine-origin Chinese teas.
+  - name: Teazoe
+    url: https://www.teazoe.com
+    specialty: Chinese green tea specialist (Longjing, Bi Luo Chun), hand-picked loose leaf
+    ships_from: Unknown (ships worldwide)
+    status: candidate
+    added: 2026-09-04
+    notes: Green-tea-forward catalog; base not stated on site, reachable via curl (HTTP 200).
