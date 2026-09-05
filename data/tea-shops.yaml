@@ -31,7 +31,7 @@ shops:
     ships_from: US (Tucson)
     status: listed
     added: 2026-01-15
-    notes: 2026-08-31 URL check returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-09-05 URL check returns 403 to curl (bot blocking); site is alive in browsers.
   - name: White2Tea
     url: https://white2tea.com
     specialty: Modern pu-erh, small-batch pressings, tea club
@@ -244,7 +244,7 @@ shops:
     ships_from: US (Midwest)
     status: candidate
     added: 2026-09-03
-    notes: "Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping.
+    notes: '"Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping.'
   - name: ICHA TEA
     url: https://ichateashop.com
     specialty: Authentic Chinese tea across all six categories; pre-Qingming Dongting biluochun with farm-original QR traceability
@@ -266,3 +266,24 @@ shops:
     status: candidate
     added: 2026-09-04
     notes: Green-tea-forward catalog; base not stated on site, reachable via curl (HTTP 200).
+  - name: Tea Habitat
+    url: https://teahabitat.com
+    specialty: Phoenix (Dancong) oolong specialist, rare Chinese teas, teaware
+    ships_from: US (Alhambra, CA)
+    status: candidate
+    added: 2026-09-05
+    notes: Curated by Imen Shan; long-running Guangdong Dancong focus with direct maker relationships. HTTP 200.
+  - name: Imperial Tea Court
+    url: https://www.imperialtea.com
+    specialty: Traditional Chinese oolong, pu-erh, jasmine and green; teaware
+    ships_from: US (San Francisco, CA)
+    status: candidate
+    added: 2026-09-05
+    notes: Founded 1993 by Roy Fong; Ferry Building teahouse plus online shop, direct grower relationships in China/Taiwan. HTTP 200.
+  - name: Liquid Proust
+    url: https://www.liquidproust.com
+    specialty: Raw/ripe pu-erh cakes, aged pu-erh samplers, oolong
+    ships_from: US (Ohio)
+    status: candidate
+    added: 2026-09-05
+    notes: Small domestic vendor known for aged-puerh "experience" sample sets; often discussed on TeaDB/Steepster. HTTP 200.
