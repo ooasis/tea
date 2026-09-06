@@ -287,3 +287,24 @@ shops:
     status: candidate
     added: 2026-09-05
     notes: Small domestic vendor known for aged-puerh "experience" sample sets; often discussed on TeaDB/Steepster. HTTP 200.
+  - name: Puerh Shop
+    url: https://www.puerhshop.com
+    specialty: Large factory pu-erh selection (Dayi, Xiaguan, ripe bricks/tuo), Yunnan hei cha
+    ships_from: US (Troy, MI)
+    status: candidate
+    added: 2026-09-06
+    notes: Long-running US warehouse-style pu-erh vendor listed in TeaDB's vendor guide; homepage redirects to /new/ (OpenCart). Some community debate over aged-tea claims. HTTP 200.
+  - name: Pure Puer Tea
+    url: https://purepuer.com
+    specialty: Raw (sheng) pu-erh from ancient trees, own California-aged pressings
+    ships_from: US (Sonoma County, CA)
+    status: candidate
+    added: 2026-09-06
+    notes: Higher-end raw pu-erh focus; ages cakes domestically in Sonoma. Listed as a curator vendor on TeaDB. HTTP 200.
+  - name: The Best Tea House
+    url: https://www.bestteaonline.com
+    specialty: Aged dry-stored pu-erh (own stock since 1988), oolong, white and green
+    ships_from: Canada (Vancouver, BC)
+    status: candidate
+    added: 2026-09-06
+    notes: Vancouver branch (since 1996) of the Hong Kong teahouse 茶藝樂園; known for legitimately aged pu-erh. HTTP 200.
