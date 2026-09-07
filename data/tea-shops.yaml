@@ -24,7 +24,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-08-28 URL check returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-09-07 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -308,3 +308,24 @@ shops:
     status: candidate
     added: 2026-09-06
     notes: Vancouver branch (since 1996) of the Hong Kong teahouse 茶藝樂園; known for legitimately aged pu-erh. HTTP 200.
+  - name: King Tea Mall
+    url: https://kingteamall.com
+    specialty: Wuyi yancha depth (~52 rock oolongs), dancong, Tie Guan Yin, Taiwan oolong, pu-erh
+    ships_from: China (Guangzhou)
+    status: candidate
+    added: 2026-09-07
+    notes: Self-described as "Supplying Chinese Tea and Teawares from Guangzhou city, China"; ships via China Post Mon/Wed/Fri. Widest yancha catalog found this run. Grading uses non-standard "A++++"/"S+++++" labels. HTTP 200.
+  - name: Path of Cha
+    url: https://pathofcha.com
+    specialty: Curated single-origin oolong across Wuyi yancha, Fenghuang dancong, Taiwan gaoshan; teaware
+    ships_from: US (Brooklyn, NY)
+    status: candidate
+    added: 2026-09-07
+    notes: ~21 oolongs, $10-35 range; no flavored blends. Brooklyn-based, so fast domestic shipping for NYC-metro readers. HTTP 200.
+  - name: Fang Gourmet Tea
+    url: https://fangtea.com
+    specialty: Chinese and Taiwanese boutique tea, oolong-forward (incl. Songzhong dancong), teaware
+    ships_from: US (Flushing, Queens NY)
+    status: candidate
+    added: 2026-09-07
+    notes: Brick-and-mortar at 3660 Main St, Flushing, open daily 10:30-18:00, plus online orders with free shipping over $75. Sourcing details not published on site. HTTP 200.
