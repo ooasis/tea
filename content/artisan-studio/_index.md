@@ -50,3 +50,4 @@ title = "The Artisan's Studio"
 ### Online Tea Shops
 
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-shop/us-shops/_index.md" >}}'>Popular US Shops</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-shop/buying-guide/_index.md" >}}'>How to Read a Chinese Tea Listing (网上买茶指南)</a></span>
