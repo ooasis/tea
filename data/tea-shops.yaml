@@ -329,3 +329,24 @@ shops:
     status: candidate
     added: 2026-09-07
     notes: Brick-and-mortar at 3660 Main St, Flushing, open daily 10:30-18:00, plus online orders with free shipping over $75. Sourcing details not published on site. HTTP 200.
+  - name: MeiMei Fine Teas
+    url: https://www.meimeitea.com
+    specialty: All six Chinese categories plus jasmine; deep porcelain gaiwan and Yixing/Jianshui teapot selection
+    ships_from: US (Fairfax, VA)
+    status: candidate
+    added: 2026-09-08
+    notes: Founder Victoria sources in China annually and buys direct from farmers per the site; free US shipping over $89. Strongest teaware-plus-tea overlap found this run. HTTP 200.
+  - name: Tea and Whisk
+    url: https://teaandwhisk.com
+    specialty: Chinese, Taiwanese and Japanese loose leaf (incl. heicha, yellow) with Yixing pots, Jianshui/Jingdezhen gaiwans, kyusu and matcha ware
+    ships_from: US (Las Vegas, NV)
+    status: candidate
+    added: 2026-09-08
+    notes: Brick-and-mortar at 6288 Spring Mountain Rd Ste 110, open Mon/Thu-Sat 11:00-17:00; free US shipping over $95. Carries Japanese ware alongside Chinese, so not China-exclusive. HTTP 200.
+  - name: Yiqin Tea House (一沁茶舍)
+    url: https://yiqinteahouse.com
+    specialty: Handmade and full-handmade Yixing zisha teapots, gaiwans, trays; six Chinese tea categories plus jasmine
+    ships_from: China (own warehouses, worldwide)
+    status: candidate
+    added: 2026-09-08
+    notes: Teaware ships to 120+ countries but tea only to ~45 (US included). Claims "Authentic Yixing Zisha" and Intangible Cultural Heritage framing with no third-party certification shown. HTTP 200.
