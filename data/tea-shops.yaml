@@ -350,3 +350,24 @@ shops:
     status: candidate
     added: 2026-09-08
     notes: Teaware ships to 120+ countries but tea only to ~45 (US included). Claims "Authentic Yixing Zisha" and Intangible Cultural Heritage framing with no third-party certification shown. HTTP 200.
+  - name: Pu-erh.sk
+    url: https://www.pu-erh.sk
+    specialty: Young raw and semi-aged pu-erh, maocha, small-batch pressings; oolong and artist-made teaware
+    ships_from: Slovakia (EU)
+    status: candidate
+    added: 2026-09-09
+    notes: Named alongside White2Tea/Crimson Lotus/Chawang Shop in Steepster vendor threads and listed in TeaDB's pu-erh vendor guide. Ships worldwide but US shipping is ~60 EUR DHL plus customs, so samples-first only. HTTP 200.
+  - name: Sun Sing Tea
+    url: https://sunsingtea.com
+    specialty: Aged pu-erh organized by decade (1900s onward), plus oolong, white, green and Yixing/cast-iron ware
+    ships_from: Hong Kong
+    status: candidate
+    added: 2026-09-09
+    notes: Listed as an aged-tea curator vendor in TeaDB's pu-erh vendor guide. Site is Traditional Chinese only; homepage redirects to /PuerhTea and publishes no shipping or location page, so US delivery is unconfirmed. HTTP 200.
+  - name: Seattle Best Tea
+    url: https://www.seattlebesttea.com
+    specialty: High-mountain Taiwanese oolong (Da Yu Ling, Ali Shan, Tie Guan Yin), light and heavy roast, plus green, jasmine, white and pu-erh
+    ships_from: US (Seattle, WA)
+    status: candidate
+    added: 2026-09-09
+    notes: Family-run shop at 506 S King St in Seattle's Chinatown-International District with an online store; $25-95 range. Taiwan-leaning rather than mainland-focused. HTTP 200.
