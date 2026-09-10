@@ -371,3 +371,24 @@ shops:
     status: candidate
     added: 2026-09-09
     notes: Family-run shop at 506 S King St in Seattle's Chinatown-International District with an online store; $25-95 range. Taiwan-leaning rather than mainland-focused. HTTP 200.
+  - name: West China Tea
+    url: https://westchinatea.com
+    specialty: Farm-direct artisan Chinese tea across all six categories, incl. yellow tea (Jun Shan) and pu-erh; gongfu teaware
+    ships_from: US (Austin, TX)
+    status: candidate
+    added: 2026-09-10
+    notes: Gongfu cha teahouse and importer founded by So Han Fan, who also runs a YouTube tea channel; describes itself as "artisan and farm direct". Named producers on product pages (Jun Shan, Li Shulin). Free US shipping over $35. HTTP 200.
+  - name: Orientaleaf
+    url: https://orientaleaf.com
+    specialty: Heritage dark teas - fu brick, liu bao, pu-erh - plus oolong and white; own dry-storage facility
+    ships_from: China (Xi'an)
+    status: candidate
+    added: 2026-09-10
+    notes: Founded 2018 in Xi'an; unusual among China-based vendors in emphasizing controlled dry storage, which matters for the fu brick and liu bao it leads with. Flat $9.50 worldwide shipping. HTTP 200.
+  - name: Hence Tea
+    url: https://hencetea.com
+    specialty: Small-batch farmer-direct tea across all six categories plus flower teas; Wuyi yancha from one family farm since 2018
+    ships_from: US (Los Angeles)
+    status: candidate
+    added: 2026-09-10
+    notes: Founder Jack Jiao sources direct from independent Chinese farmers; the Wuyi rock tea comes from a single family farm they have worked with since founding in 2018. Da Hong Pao from ~$21/50g. Free US shipping over $50. HTTP 200.
