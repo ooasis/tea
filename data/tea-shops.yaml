@@ -392,3 +392,24 @@ shops:
     status: candidate
     added: 2026-09-10
     notes: Founder Jack Jiao sources direct from independent Chinese farmers; the Wuyi rock tea comes from a single family farm they have worked with since founding in 2018. Da Hong Pao from ~$21/50g. Free US shipping over $50. HTTP 200.
+  - name: Teasthetic
+    url: https://teasthetic.com
+    specialty: Pre-Qingming Chinese green tea - West Lake and Fuyang Longjing, Dongting Biluochun, Xinyang Maojian, Anji Baicha
+    ships_from: US (New York, NY)
+    status: candidate
+    added: 2026-09-11
+    notes: Green-tea specialist with a physical tea studio at 89 5th Ave running ceremonies and tastings. Every listing names harvest window (Pre-Qingming) and a specific producing area; $30-85 per 30g, shipped from New York so spring greens arrive fresh. HTTP 200.
+  - name: Mei Leaf
+    url: https://meileaf.com
+    specialty: Single-estate Chinese and Taiwanese tea across all six categories, sourced on annual buying trips
+    ships_from: UK (London, Camden)
+    status: candidate
+    added: 2026-09-11
+    notes: Founded 2006 as chinalife, renamed Mei Leaf; Don Mei sources direct and publishes a large tea-education YouTube channel. Product pages name harvest timing (e.g. "Imperial Green - Pre Qing Ming"). Worldwide delivery, so US orders carry international shipping and possible customs. HTTP 200.
+  - name: BestLeafTea
+    url: https://www.bestleaftea.com
+    specialty: Premium loose-leaf Chinese green and other classic varieties, current-spring harvests
+    ships_from: US (California)
+    status: candidate
+    added: 2026-09-11
+    notes: Ships domestically from California, free US shipping over $68. Lists harvest year and producing region per product (e.g. 2026 spring Biluochun from Dongting Mountain, Jiangsu); larger 300g formats at ~$52 make it cheaper per gram than most US specialty sellers. HTTP 200.
