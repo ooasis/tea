@@ -413,3 +413,24 @@ shops:
     status: candidate
     added: 2026-09-11
     notes: Ships domestically from California, free US shipping over $68. Lists harvest year and producing region per product (e.g. 2026 spring Biluochun from Dongting Mountain, Jiangsu); larger 300g formats at ~$52 make it cheaper per gram than most US specialty sellers. HTTP 200.
+  - name: Grand Tea & Imports
+    url: https://grandteaimports.com
+    specialty: Loose-leaf Chinese tea (pu-erh, oolong, green, white) plus traditional cultural goods and teaware
+    ships_from: US (NYC Chinatown)
+    status: candidate
+    added: 2026-09-12
+    notes: Multi-generational family shop in Manhattan Chinatown (est. 2006, formerly Good Tea Water); online store ships from the shop. HTTP 200.
+  - name: Floating Mountain
+    url: https://www.floating-mountain.com
+    specialty: Curated Chinese tea for gongfu brewing plus ceremony teaware
+    ships_from: US (NYC, Upper West Side)
+    status: candidate
+    added: 2026-09-12
+    notes: Upper West Side tea house running gongfu ceremonies and classes, with an online shop (shop.floating-mountain.com). NYC-metro relevance for events. HTTP 200.
+  - name: Little Red Cup Tea Co.
+    url: https://littleredcuptea.com
+    specialty: Organic everyday Chinese loose leaf from farmers' co-ops (green, black, white, oolong, yellow, pu-erh)
+    ships_from: US (Brunswick, ME)
+    status: candidate
+    added: 2026-09-12
+    notes: Small family company, organic and fair-trade positioning, sources from worker-owned Chinese co-ops; everyday grades rather than premium. HTTP 200.
