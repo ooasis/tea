@@ -24,7 +24,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-09-07 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-09-13 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -434,3 +434,24 @@ shops:
     status: candidate
     added: 2026-09-12
     notes: Small family company, organic and fair-trade positioning, sources from worker-owned Chinese co-ops; everyday grades rather than premium. HTTP 200.
+  - name: Teas We Like
+    url: https://teaswelike.com
+    specialty: Curated aged pu-erh (Malaysian/Taiwan dry storage) plus antique and handmade Yixing teapots
+    ships_from: China / Taiwan / Malaysia (EMS)
+    status: candidate
+    added: 2026-09-13
+    notes: US LLC run as a curated catalog of aged sheng/shou (Dayi, Xiaguan, CNNP, Biyun Hao); ships EMS from Asia with FDA prior-notice for US orders, 1-3 weeks. HTTP 200 (403 to non-browser fetchers).
+  - name: Kuura
+    url: https://kuura.co
+    specialty: Modern small-batch pu-erh (raw and ripe) with own pressings, plus teaware
+    ships_from: Australia (Melbourne)
+    status: candidate
+    added: 2026-09-13
+    notes: Self-described "Pu-erh Tea Specialists" with a physical store in North Melbourne; ships internationally. HTTP 200.
+  - name: Tea Encounter
+    url: https://tea-encounter.com
+    specialty: Pu-erh only, multiple regions/producers and harvest years (e.g. Zheng Si Long)
+    ships_from: UK
+    status: candidate
+    added: 2026-09-13
+    notes: UK-based pu-erh specialist; US shipping with "all fees included, no custom fees" and a separate EU storefront. teaencounter.com redirects here. HTTP 200.
