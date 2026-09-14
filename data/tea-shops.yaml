@@ -455,3 +455,24 @@ shops:
     status: candidate
     added: 2026-09-13
     notes: UK-based pu-erh specialist; US shipping with "all fees included, no custom fees" and a separate EU storefront. teaencounter.com redirects here. HTTP 200.
+  - name: Tea From Taiwan
+    url: https://www.teafromtaiwan.com
+    specialty: Taiwanese high-mountain (gaoshan) oolong — Lishan, Alishan, Nantou
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-09-14
+    notes: Farm-direct gaoshan oolong specialist working with central mountain range growers. HTTP 200; blocks some automated fetchers but serves browser user-agents.
+  - name: Wan Ling Tea House
+    url: https://www.wanlingteahouse.com
+    specialty: Fujian oolong (Anxi Tieguanyin grades, Wuyi) plus pu-erh
+    ships_from: China (Xiamen, Fujian)
+    status: candidate
+    added: 2026-09-14
+    notes: Long-running Fujian-based shop; sells Anxi Tieguanyin in multiple named grades rather than one generic tier. HTTP 200.
+  - name: Teacuppa
+    url: https://www.teacuppa.com
+    specialty: Artisanal Chinese tea across all six types, oolong-strong
+    ships_from: Not stated; worldwide shipping $8, free express over $89
+    status: candidate
+    added: 2026-09-14
+    notes: Founder sources in person from grower families; explicitly positions against mass-produced tea. HTTP 200. Older vendor — confirm order fulfillment before a first large order.
