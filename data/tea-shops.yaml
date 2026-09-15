@@ -476,3 +476,24 @@ shops:
     status: candidate
     added: 2026-09-14
     notes: Founder sources in person from grower families; explicitly positions against mass-produced tea. HTTP 200. Older vendor — confirm order fulfillment before a first large order.
+  - name: Yunnan Craft
+    url: https://www.yunnancraft.com/en/
+    specialty: Yunnan pu-erh sourced direct, plus Jianshui purple pottery and Dai pottery teaware
+    ships_from: China (Kunming, Yunnan)
+    status: candidate
+    added: 2026-09-15
+    notes: Tea-plus-teaware shop; commissions handmade pots from Yunnan potters, including wood-fired Jianshui white clay cups with ash glaze. Also runs a wholesale/b2b line. HTTP 200.
+  - name: Cha Moods
+    url: https://www.chamoods.com
+    specialty: Single-origin Chinese tea across all six types, plus Yixing, Chaozhou and Jingdezhen artist teaware
+    ships_from: Netherlands (Amsterdam)
+    status: candidate
+    added: 2026-09-15
+    notes: Explicitly positions as "Single-Origin Chinese Tea & Teaware"; carries tasting sets and subscriptions alongside handmade ceramics. Runs tastings in Amsterdam. Multi-currency checkout. HTTP 200.
+  - name: Happy Lucky's Teahouse
+    url: https://happyluckys.com
+    specialty: Chinese pu-erh/oolong/green plus a full gongfu teaware line (Yixing, gaiwans, tea pets)
+    ships_from: US (Fort Collins, CO)
+    status: candidate
+    added: 2026-09-15
+    notes: Brick-and-mortar teahouse with real gongfu teaware at accessible prices ($19-55 gaiwans). Caveat - catalog mixes single-origin Chinese tea with house blends, matcha and herbals, so filter by origin when ordering. HTTP 200.
