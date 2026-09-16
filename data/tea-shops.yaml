@@ -497,3 +497,24 @@ shops:
     status: candidate
     added: 2026-09-15
     notes: Brick-and-mortar teahouse with real gongfu teaware at accessible prices ($19-55 gaiwans). Caveat - catalog mixes single-origin Chinese tea with house blends, matcha and herbals, so filter by origin when ordering. HTTP 200.
+  - name: Dragon Tea House
+    url: https://dragonteahouse.biz
+    specialty: Hong Kong-style aged pu-erh and Dayi/Xiaguan factory cakes, very broad catalog plus teaware
+    ships_from: Hong Kong
+    status: candidate
+    added: 2026-09-16
+    notes: Long-running vendor recommended in TeaDB's pu-erh and Wuyi vendor guides; started as an eBay seller, now on its own storefront with free worldwide shipping. Also one of the largest yancha selections. HTTP 200.
+  - name: TeaSpring
+    url: https://teaspring.com
+    specialty: Named Chinese classics (Xi Hu Long Jing, Da Hong Pao) across all six types, with sample sizes
+    ships_from: China
+    status: candidate
+    added: 2026-09-16
+    notes: Listed in TeaDB's Wuyi vendor guide as a curated selection with sample sizes and flat-rate shipping. Veteran direct-from-China shop; also sells Yixing pots and gaiwans. HTTP 200.
+  - name: Tea Masters
+    url: https://www.tea-masters.com
+    specialty: Taiwanese high-mountain and aged oolong, plus puerh, with a deep antique/porcelain teaware line
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-09-16
+    notes: Run by Stephane Erler, whose long-running tea blog is a common community reference. Seasonal spring batches dated by harvest; bilingual EN/FR store. HTTP 200.
