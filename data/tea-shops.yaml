@@ -518,3 +518,24 @@ shops:
     status: candidate
     added: 2026-09-16
     notes: Run by Stephane Erler, whose long-running tea blog is a common community reference. Seasonal spring batches dated by harvest; bilingual EN/FR store. HTTP 200.
+  - name: Tea Hong
+    url: https://www.teahong.com
+    specialty: Phoenix (Fenghuang) dancong oolong depth from small family farms, plus other Chinese categories
+    ships_from: Hong Kong
+    status: candidate
+    added: 2026-09-17
+    notes: Run by Leo Kwan; sources first-flush dancong from named small farms (e.g. Master Lin's ~80-year-old Song cultivar bushes). 403 to curl (bot blocking); site is alive in browsers/search.
+  - name: Hugo Tea Company
+    url: https://www.hugotea.com
+    specialty: Direct-trade Chinese tea (dancong, green, white, black, compressed cakes) from named partner farms
+    ships_from: US (Kansas City, MO)
+    status: candidate
+    added: 2026-09-17
+    notes: Publishes farm pages for partners like the 3rd-generation Lin dancong farm in Chaozhou. Caveat - catalog also includes matcha, chai and herbals, so filter by origin. HTTP 200.
+  - name: Zhen Tea
+    url: https://zhentea.ca
+    specialty: All six Chinese categories with rare/aged focus (aged pu-erh, Wuyi yancha, Hubei teas)
+    ships_from: Canada (Ottawa)
+    status: candidate
+    added: 2026-09-17
+    notes: Run by Zhen (from a Chinese tea family) and Phil; frequently recommended on r/tea for farm-direct sourcing. Ships to US with tariffs at checkout; free shipping over $75. HTTP 200.
