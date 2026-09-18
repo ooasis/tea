@@ -539,3 +539,24 @@ shops:
     status: candidate
     added: 2026-09-17
     notes: Run by Zhen (from a Chinese tea family) and Phil; frequently recommended on r/tea for farm-direct sourcing. Ships to US with tariffs at checkout; free shipping over $75. HTTP 200.
+  - name: Tea Trekker
+    url: https://www.teatrekker.com
+    specialty: Deep Chinese green tea selection (Longjing, Huangshan Maofeng, Lu'an Gua Pian) alongside all six types
+    ships_from: US (Northampton, MA)
+    status: candidate
+    added: 2026-09-18
+    notes: Recommended on TeaForum's green tea vendor thread for an extensive selection with terroir and pluck details on each listing. Run by longtime importers; also sells cupping and tasting sets. HTTP 200.
+  - name: Life in Teacup
+    url: http://www.lifeinteacup.com
+    specialty: Chinese greens with Anhui and Zhejiang depth, seasonal pre-Qingming batches
+    ships_from: US
+    status: candidate
+    added: 2026-09-18
+    notes: Called out on TeaForum for "stunning" green teas; small owner-run operation, dated storefront but responsive by email. HTTP 200 (plain HTTP only, no HTTPS).
+  - name: Adhara Tea & Botanicals
+    url: https://www.adharatea.com
+    specialty: Single-origin Chinese greens by region (Longjing, Biluochun, Enshi Yulu, Lu Shan Yun Wu, Zhu Ye Qing), plus the other five types
+    ships_from: US (Clayton, NC)
+    status: candidate
+    added: 2026-09-18
+    notes: Sources regional greens from Zhejiang, Fujian, Hubei, Sichuan, Anhui, Hunan and Jiangxi; single-origin focus rather than blends. Catalog also includes herbals, so filter by origin. HTTP 200.
