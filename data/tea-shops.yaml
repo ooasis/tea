@@ -560,3 +560,24 @@ shops:
     status: candidate
     added: 2026-09-18
     notes: Sources regional greens from Zhejiang, Fujian, Hubei, Sichuan, Anhui, Hunan and Jiangxi; single-origin focus rather than blends. Catalog also includes herbals, so filter by origin. HTTP 200.
+  - name: Upton Tea Imports
+    url: https://www.uptontea.com
+    specialty: Very large single-origin catalog; Chinese section organized by province (Fujian, Guangdong, Anhui, Hunan)
+    ships_from: US (Holliston, MA)
+    status: candidate
+    added: 2026-09-19
+    notes: Long-running Massachusetts importer, on r/tea's user-choice vendor list. Catalog also carries flavored blends and Indian/Ceylon teas, so filter to the Chinese origin pages. Tieguanyin and province-level sourcing named on site. HTTP 200.
+  - name: Mansa Tea
+    url: https://mansatea.com
+    specialty: Aged tea, raw and ripe pu-erh led; single-origin only, no flavored blends
+    ships_from: US
+    status: candidate
+    added: 2026-09-19
+    notes: Founded by a certified tea sommelier; positions around aged single-origin terroir and tea education rather than blending. US Shopify storefront; exact city not stated on site. HTTP 200.
+  - name: Wild Tea Qi
+    url: https://wildteaqi.com
+    specialty: Ancient tea tree Yunnan teas, farmer-direct; also Wuyi oolong and wild herbs
+    ships_from: China (Kunming, Yunnan)
+    status: candidate
+    added: 2026-09-19
+    notes: Shop-by-farmer catalog naming individual producing families (Dali and Puer, Yunnan; Wuyi Mountain oolong). Shipping policy states all orders originate in Kunming, so expect long transit. HTTP 200.
