@@ -581,3 +581,24 @@ shops:
     status: candidate
     added: 2026-09-19
     notes: Shop-by-farmer catalog naming individual producing families (Dali and Puer, Yunnan; Wuyi Mountain oolong). Shipping policy states all orders originate in Kunming, so expect long transit. HTTP 200.
+  - name: Chen Sheng Hao (CSPuerh)
+    url: https://cspuerh.com
+    specialty: Yunnan pu-erh only - raw and ripe cakes, samples, with Lao Ban Zhang, Bu Lang, Na Ka and Yi Wu mountain traceability
+    ships_from: China (Sanya, Hainan)
+    status: candidate
+    added: 2026-09-20
+    notes: Founded 2007; own ancient tea gardens in southern Yunnan plus aging facilities in Yunnan and Guangzhou. Sells direct to consumers as well as wholesale; free shipping over $70. HTTP 200.
+  - name: YangQingHao (YQH)
+    url: https://yangqinghao.com
+    specialty: YQH aged sheng pu-erh under Taiwan natural storage; also aged oolong, hongcha and Liu An
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-09-20
+    notes: Official YQH storefront run by authorized distributor Emmett Guzman. Prices $10-$950; samples by email. A collector-facing brand rather than a general catalog. HTTP 200.
+  - name: Tea Side
+    url: https://tea-side.com
+    specialty: Aged raw pu-erh and hei cha from named old brands (Hong Tai Chang 1988 cake, 1993 Liu Bao) alongside Thai-grown leaf
+    ships_from: Thailand (Chiang Rai)
+    status: candidate
+    added: 2026-09-20
+    notes: Sells vintage Chinese cakes said to come straight from the original factory warehouse, plus its own Thai forest tea - filter by origin if you only want Chinese material. Ships worldwide in 5-15 days. HTTP 200.
