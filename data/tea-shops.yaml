@@ -44,6 +44,7 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
+    notes: 2026-09-21 URL check returns 403 to curl (Cloudflare bot challenge); site is alive in browsers.
   - name: Tea Drunk
     url: https://www.teadrunk.com
     specialty: Ultra-luxury terroir, heritage-grade teas
@@ -602,3 +603,24 @@ shops:
     status: candidate
     added: 2026-09-20
     notes: Sells vintage Chinese cakes said to come straight from the original factory warehouse, plus its own Thai forest tea - filter by origin if you only want Chinese material. Ships worldwide in 5-15 days. HTTP 200.
+  - name: Nannuoshan
+    url: https://www.nannuoshan.org
+    specialty: Oolong depth across all four homes - Anxi Tieguanyin, Taiwan, Wuyi Yan Cha and Fenghuang Dancong, each its own menu section
+    ships_from: Europe (Germany); separate EUR Europe and USD USA storefronts
+    status: candidate
+    added: 2026-09-21
+    notes: Named after the Nannuo Shan tea region. Splits oolong into four navigable sub-categories plus a "Rare Oolong" tier, which is unusual - most generalists lump them. Free samples over EUR 50. Runs a blog, seminars and a YouTube channel. HTTP 200.
+  - name: Dofo Tea
+    url: https://dofotea.com
+    specialty: Fenghuang Dancong from Chaozhou - dedicated Dancong menu section alongside oolong, black, pu-erh and teaware
+    ships_from: China (Chaozhou) with a US warehouse option
+    status: candidate
+    added: 2026-09-21
+    notes: Based in Chaozhou, the Dancong heartland, so this is origin-local rather than a reseller. Dual fulfilment - free shipping over $49 from China, free from the US warehouse; states price includes customs and duties. HTTP 200.
+  - name: Qiful Life
+    url: https://qifullife.com
+    specialty: Taiwan high mountain oolong and Wuyi rock tea, plus aged pu-erh, aged black and aged Tibetan tea
+    ships_from: US (importer; city not stated)
+    status: candidate
+    added: 2026-09-21
+    notes: Claims direct sourcing from single-origin organic farms in Taiwan and China. Catalog is browsable by "tea function" (low acid, low caffeine, cha qi) as well as origin - a framing to read skeptically, but the underlying origin categories are specific. Free shipping on all orders. HTTP 200.
