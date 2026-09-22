@@ -624,3 +624,24 @@ shops:
     status: candidate
     added: 2026-09-21
     notes: Claims direct sourcing from single-origin organic farms in Taiwan and China. Catalog is browsable by "tea function" (low acid, low caffeine, cha qi) as well as origin - a framing to read skeptically, but the underlying origin categories are specific. Free shipping on all orders. HTTP 200.
+  - name: Fook Ming Tong Tea Shop
+    url: https://www.fookmingtong.com
+    specialty: Heritage Hong Kong tea house - all six categories plus jasmine, with Anxi Tieguanyin as the house specialty; Yixing, porcelain and glass teaware
+    ships_from: Hong Kong
+    status: candidate
+    added: 2026-09-22
+    notes: Founded 1987, multiple physical Hong Kong storefronts, so the catalog reflects a retail buyer rather than a single farm. Regions named on the site - Anxi, Yunnan, Zhejiang (Longjing), Fuding, Wuyi. Free overseas shipping only above HK$2,500, which is a high bar for a first order. HTTP 200.
+  - name: Masters Teas
+    url: https://www.mastersteas.com
+    specialty: Single-lot artisan Chinese, Taiwanese, Japanese and Indian tea, catalogued by named farmer and harvest
+    ships_from: US
+    status: candidate
+    added: 2026-09-22
+    notes: The single-origin arm of Adagio Teas - note the parentage, but the catalog itself is straight leaf, not blends, and lots are listed under the maker's name (e.g. Zhao Li Li's Qimen Caixia). Chinese coverage spans Anhui, Fujian, Hunan, Sichuan, Yunnan, Zhejiang. Browsable by region, which makes it easy to cross-check against variety pages. HTTP 200.
+  - name: TeaSource
+    url: https://www.teasource.com
+    specialty: Large straight-leaf Chinese catalog (~115 items) broken out by province - Fujian, Yunnan, Hunan, Anhui, Guangdong, Guangxi, Guizhou, Zhejiang
+    ships_from: US (Minneapolis/St. Anthony, MN)
+    status: candidate
+    added: 2026-09-22
+    notes: Retail plus wholesale with a physical storefront. Chinese section is 116 straight teas against a single flavored blend, so despite the generalist front page this is a genuine single-origin program. Unusually deep Hunan and Guangxi sections for a US shop - useful for dark tea. HTTP 200.
