@@ -645,3 +645,24 @@ shops:
     status: candidate
     added: 2026-09-22
     notes: Retail plus wholesale with a physical storefront. Chinese section is 116 straight teas against a single flavored blend, so despite the generalist front page this is a genuine single-origin program. Unusually deep Hunan and Guangxi sections for a US shop - useful for dark tea. HTTP 200.
+  - name: Eastern Leaves
+    url: https://easternleaves.com
+    specialty: Yunnan-based tea and teaware house - pu-erh, white, wulong, red, green/yellow, sold alongside its own commissioned Yixing, Jingdezhen and Dai minority pottery
+    ships_from: China (Yunnan)
+    status: candidate
+    added: 2026-09-23
+    notes: The clearest teaware-plus-tea pairing found this run - both sides are sourced in-house rather than resold, with named artisan potters and direct farmer relationships in Yunnan. Catalog is organised by the six categories, so it maps cleanly onto the site's tea-categories section. HTTP 200.
+  - name: Tea & Leaf
+    url: https://teanleaf.com
+    specialty: Yunnan pu-erh specialist (raw, ripe, aged) with a matched teaware line - Yixing pots, Jingdezhen porcelain gaiwans and cups
+    ships_from: China
+    status: candidate
+    added: 2026-09-23
+    notes: Narrow by design - pu-erh only on the tea side, which makes the teaware selection read as chosen for that tea rather than a generic add-on. Stated delivery 10-21 days for most countries, so treat it as a slow-shipping direct-from-China order, not a quick restock. HTTP 200.
+  - name: The Tao of Tea
+    url: https://taooftea.com
+    specialty: US generalist carrying single-origin Chinese, Japanese, Taiwanese and Indian leaf plus hand-made artisan teaware (Yixing, gaiwans, chai pots)
+    ships_from: US (Portland, OR)
+    status: candidate
+    added: 2026-09-23
+    notes: Mixed catalog - genuine single-origin lots sit next to flavored blends, so the Chinese section needs filtering rather than trusting the storefront wholesale. Teaware is the stronger half of the pairing: sourced from family-run artisan crafters rather than a wholesale importer. Portland storefront and national shipping. HTTP 200.
