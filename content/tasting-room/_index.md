@@ -19,6 +19,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/zhuyeqing/_index.md" >}}'>Zhu Ye Qing (竹叶青)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/jasmine/_index.md" >}}'>Jasmine Tea (茉莉花茶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/enshi-yulu/_index.md" >}}'>Enshi Yulu (恩施玉露)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/green/mengding-ganlu/_index.md" >}}'>Mengding Ganlu (蒙顶甘露)</a></span>
 </div>
 
 #### White Tea
