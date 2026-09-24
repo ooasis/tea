@@ -666,3 +666,24 @@ shops:
     status: candidate
     added: 2026-09-23
     notes: Mixed catalog - genuine single-origin lots sit next to flavored blends, so the Chinese section needs filtering rather than trusting the storefront wholesale. Teaware is the stronger half of the pairing: sourced from family-run artisan crafters rather than a wholesale importer. Portland storefront and national shipping. HTTP 200.
+  - name: Hou De Fine Tea
+    url: https://houdefinetea.com
+    specialty: Vintage US-stored factory pu-erh and Taiwanese boutique pu-erh, long-held collector inventory
+    ships_from: US (Texas)
+    status: candidate
+    added: 2026-09-24
+    notes: Named in TeaDB's non-mainland pu-erh vendor guide as a source for vintage factory and Taiwanese boutique cakes stored stateside - dry US storage is the draw, not price. Long-running vendor, small catalog that turns over slowly. HTTP 200.
+  - name: The Jade Leaf
+    url: https://thejadeleaf.com
+    specialty: Taiwanese boutique and factory pu-erh (Xiaguan, Dayi, small-factory) plus hand-thrown teaware
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-09-24
+    notes: Listed in TeaDB's vendor guide for Taiwan-stored pu-erh with sampler availability. Operating since 2014; teaware is thrown in-house in small batches rather than resold, which makes the pairing more coherent than a generic add-on shelf. HTTP 200.
+  - name: Mountain Stream Teas
+    url: https://mountainstreamteas.com
+    specialty: Taiwanese high-mountain oolong (Alishan, Dong Ding), charcoal-roasted lots, single-origin greens and blacks
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-09-24
+    notes: Recurring community recommendation for jade oolongs; free samples with orders are a frequently cited perk. Agrochemical-free single-origin family-grown sourcing stated site-wide. Free US shipping only above $75, so small orders carry real freight cost. HTTP 200.
