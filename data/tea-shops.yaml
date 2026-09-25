@@ -687,3 +687,24 @@ shops:
     status: candidate
     added: 2026-09-24
     notes: Recurring community recommendation for jade oolongs; free samples with orders are a frequently cited perk. Agrochemical-free single-origin family-grown sourcing stated site-wide. Free US shipping only above $75, so small orders carry real freight cost. HTTP 200.
+  - name: Happy Earth Tea
+    url: https://happyearthtea.com
+    specialty: Organic single-origin green tea with a spring-harvest focus - Longjing, Anji Bai Cha, Lu An Gua Pian, Biluochun, dated by year
+    ships_from: US (Rochester, NY)
+    status: candidate
+    added: 2026-09-25
+    notes: The green side is the strong half - batches are labelled by spring year (Spring 2026 Long Jing, Anji Bai Cha), and its Long Jing comes from a village roughly 30 miles from West Lake rather than the West Lake protected zone, which it states openly. Mixed catalog otherwise - flavored blends sit alongside the single-origin lots. Says it sources through a small set of direct garden relationships supplemented by distributors. Ships US/Canada/Mexico only. HTTP 200.
+  - name: Yoshien
+    url: https://www.yoshien.com
+    specialty: Japanese-tea house with a deep Chinese single-origin side range - Anji Bai Cha, Biluochun, Taiping Houkui, Emei Shan green, plus yancha, dancong and aged pu-erh
+    ships_from: Germany
+    status: candidate
+    added: 2026-09-25
+    notes: Unusually wide Chinese green selection for a Japanese-focused shop, named by region rather than blended. Product pages claim farm-direct, pesticide-free, laboratory-tested leaf, but the site carries no general sourcing-transparency page - treat the claims as per-product, not house-wide. EU shipping origin means duties for US buyers. HTTP 200.
+  - name: Rare Tea Company
+    url: https://rareteacompany.com
+    specialty: UK independent selling single-garden leaf globally; Chinese greens include a West Lake Longjing from the Lin family farm
+    ships_from: UK (US orders ship from a Texas warehouse)
+    status: candidate
+    added: 2026-09-25
+    notes: Names the farm for its Longjing (Lin family, organically farmed near West Lake) but sells most Chinese greens under house names - "Chinese Misty Green", "Chinese Emerald Green" - rather than variety names, which makes comparison shopping hard. Strongest on estate relationships outside China (Nepal, Malawi, Sri Lanka). US fulfilment from Texas avoids transatlantic freight. HTTP 200.
