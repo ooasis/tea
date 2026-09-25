@@ -77,6 +77,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/zi-sha/_index.md" >}}'>Zi-Sha Pot (紫砂壶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/gongfu-vs-western/_index.md" >}}'>Gongfu vs. Western Brewing (工夫茶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/water-for-tea/_index.md" >}}'>Water for Tea (泡茶用水)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "teaware/cha-hai-cups/_index.md" >}}'>Cha Hai, Cups & Strainers (公道杯)</a></span>
 
 ## Tea Cuisine
 
