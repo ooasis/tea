@@ -708,3 +708,24 @@ shops:
     status: candidate
     added: 2026-09-25
     notes: Names the farm for its Longjing (Lin family, organically farmed near West Lake) but sells most Chinese greens under house names - "Chinese Misty Green", "Chinese Emerald Green" - rather than variety names, which makes comparison shopping hard. Strongest on estate relationships outside China (Nepal, Malawi, Sri Lanka). US fulfilment from Texas avoids transatlantic freight. HTTP 200.
+  - name: Denong Tea
+    url: https://www.denongtea.com
+    specialty: Own-brand Yunnan pu-erh (raw, ripe, famous-mountain series) from old-tree material, plus teaware
+    ships_from: US (Pasadena, CA)
+    status: candidate
+    added: 2026-09-26
+    notes: US branch (est. 2012, launched 2016) of a Yunnan producer with Hong Kong and Taiwan arms; sells its own pressings rather than a curated multi-vendor catalog, and cites SGS pesticide-residue testing. Pasadena flagship shop is reported closed on Yelp (April 2026) and the site currently shows a "Temporary Pause on Shipments" banner - re-check before recommending. HTTP 200.
+  - name: In Pursuit of Tea
+    url: https://inpursuitoftea.com
+    specialty: Single-origin, unblended Chinese tea across all six types - Anji Bai Cha, Huo Shan Huang Ya, Bailin Gongfu, aged pu-erh bingcha and bamboo-stick pu-erh
+    ships_from: US (New York / Boston)
+    status: candidate
+    added: 2026-09-26
+    notes: Founded 1999 by Sebastian Beckwith; long-running hospitality supplier (restaurants) with a retail web shop. No blends, no flavoring; Chinese collection priced roughly $12-$190. Includes rarer categories like yellow tea. Manhattan tasting room (Crosby St) is listed closed on Yelp, so treat as online-only. HTTP 200.
+  - name: Stone Leaf Teahouse
+    url: https://www.stoneleaftea.com
+    specialty: Chinese and Taiwanese green, light and dark oolong, black, white, raw and ripe pu-erh, alongside Japanese, Nepali and Indian tea
+    ships_from: US (Middlebury, VT)
+    status: candidate
+    added: 2026-09-26
+    notes: Brick-and-mortar teahouse (est. 2009) with an online shop; states it sources around 300 teas working directly with growers. Broad multi-country range means the Chinese side is one shelf among several, not a specialist depth. HTTP 200.
