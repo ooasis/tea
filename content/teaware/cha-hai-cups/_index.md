@@ -8,8 +8,6 @@ date: '2026-09-25T09:00:00-08:00'
 
 ## The Half of the Table Nobody Shops For
 
-{{< img src="cha-hai-cups-1.jpg" w="1200x" alt="Ink wash painting of a glass fairness pitcher, small porcelain tasting cups, and a mesh strainer arranged on a wooden tea tray" >}}
-
 Everyone agonizes over the first gaiwan and the first zisha pot. Almost nobody thinks about what the tea lands in after it leaves them — and that is where most beginner gongfu sessions quietly go wrong. A pitcher, a set of small cups, and a strainer cost a fraction of a pot and fix more problems than an upgrade ever will.
 
 Here is what each one actually does, and how to pick it without overspending.
