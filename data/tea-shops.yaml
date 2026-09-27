@@ -24,7 +24,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-09-13 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-09-27 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -729,3 +729,24 @@ shops:
     status: candidate
     added: 2026-09-26
     notes: Brick-and-mortar teahouse (est. 2009) with an online shop; states it sources around 300 teas working directly with growers. Broad multi-country range means the Chinese side is one shelf among several, not a specialist depth. HTTP 200.
+  - name: FatBat Puerh
+    url: https://fatbatpuerh.com
+    specialty: Small-batch raw and ripe pu-erh from named Yunnan micro-regions (Lao Ban Zhang, Yiwu villages), plus Yixing zisha teaware and aged orange peel
+    ships_from: China (Xishuangbanna, Yunnan)
+    status: candidate
+    added: 2026-09-27
+    notes: Origin-local producer-vendor that states control "from picking to wrapping" and labels lots by micro-region, tree grade and picking time. Samples $4.70-$10, cakes $12-$50 mid-range, Lao Ban Zhang ~$109; zisha pots $230-$390. Quotes US delivery in 2-5 days, which is fast for a China-shipped order - verify on first purchase. HTTP 200.
+  - name: Teapals
+    url: https://teapals.com
+    specialty: Semi-aged Chen Yuan Hao boutique pu-erh (2003-2022 Yiwu-village cakes) with Malaysian storage, plus Liubao and teaware
+    ships_from: Malaysia
+    status: candidate
+    added: 2026-09-27
+    notes: Listed in TeaDB's non-mainland pu-erh vendor guide as the go-to for Chen Yuan Hao. Prices shown in MYR/USD/EUR; featured cakes run roughly MYR 1,700-1,800 (~$370-390), so this is a collector-tier shop rather than a daily-drinker source. No sample sizes visible on the homepage. HTTP 200.
+  - name: Puerh Northwest
+    url: https://puerhnw.com
+    specialty: Collector's private stash of over 800 different pu-erh cakes (Farmer Leaf, Chen Sheng Hao, Yunnan Sourcing pressings and factory tea) sold by producer, region and value tier
+    ships_from: US (Idaho)
+    status: candidate
+    added: 2026-09-27
+    notes: Listed in TeaDB's non-mainland pu-erh vendor guide as a collector reselling an extensive personal inventory with US dry storage. Featured items $7.50-$35; full listing available on request by email, and multi-cake discounts by contact. Free US shipping over $100; international by email only. HTTP 200.
