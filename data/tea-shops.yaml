@@ -750,3 +750,24 @@ shops:
     status: candidate
     added: 2026-09-27
     notes: Listed in TeaDB's non-mainland pu-erh vendor guide as a collector reselling an extensive personal inventory with US dry storage. Featured items $7.50-$35; full listing available on request by email, and multi-cake discounts by contact. Free US shipping over $100; international by email only. HTTP 200.
+  - name: Siam Teas
+    url: https://www.siam-teas.com
+    specialty: Zhengyan Wuyi yancha (Shui Xian, Rou Gui, Shui Jin Gui) from the Chen family of Wuyishan, alongside Thai and other Asian teas
+    ships_from: Germany
+    status: candidate
+    added: 2026-09-28
+    notes: Sells the same Cindy Chen / Wuyi Origin family yancha in 25/50/100 g sizes (Zhengyan Shui Xian EUR 11.40-37.80); product pages name the garden (near Shui Lian Dong). Shipping page not found and US shipping not stated - confirm before ordering. Homepage resets curl connections but product URLs return 200.
+  - name: The Chinese Tea Company
+    url: https://the-chinese-tea-company.com
+    specialty: Phoenix Dan Cong from Wudong / Fenghuang mountain (Song Zhong, Ya Shi Xiang, Old Bush Mi Lan Xiang), plus Wuyi rock tea and Tieguanyin
+    ships_from: UK (London, Portobello Road)
+    status: candidate
+    added: 2026-09-28
+    notes: Founded by Juyan Webster (Zhejiang-born); team visits farmers in China every April and samples every batch. Six Dan Cong listed at GBP 15-45. Ships worldwide but free shipping only at GBP 500 for rest-of-world, so expect a shipping charge on US orders. Also runs Zoom tea classes. HTTP 200.
+  - name: Chinese Tea Group
+    url: https://www.chineseteagroup.com
+    specialty: Fujian and Guangdong oolong (eight Dan Cong grades, Wuyi Da Hong Pao / Shui Xian / Rou Gui, Anxi Tieguanyin) plus pu-erh cakes and samplers
+    ships_from: China (ships internationally)
+    status: candidate
+    added: 2026-09-28
+    notes: Operates teahouses in China including one in Chaozhou; USD pricing with free shipping over $88. Dan Cong $19-$125 and yancha $22-$90, but listing sizes are not shown on the collection page - check grams before comparing. About page gives no headquarters address. HTTP 200.
