@@ -771,3 +771,24 @@ shops:
     status: candidate
     added: 2026-09-28
     notes: Operates teahouses in China including one in Chaozhou; USD pricing with free shipping over $88. Dan Cong $19-$125 and yancha $22-$90, but listing sizes are not shown on the collection page - check grams before comparing. About page gives no headquarters address. HTTP 200.
+  - name: Born Tea
+    url: https://www.borntea.com
+    specialty: Farm-direct loose leaf from 14 Chinese provinces with a Yunnan and Fujian focus, including lab-tested sheng pu-erh from a Xishuangbanna garden above 2,000 m
+    ships_from: China
+    status: candidate
+    added: 2026-09-29
+    notes: Founders Leo and Ray partner directly with tea makers and ship from origin; states every tea is certified by an independent third-party lab for pesticides and heavy metals. Several featured products showed sold out and no sample sizes or US shipping terms were visible on the homepage - check the catalog before ordering. HTTP 200.
+  - name: Teadrunkard
+    url: https://teadrunkard.us
+    specialty: Farm-direct Yunnan sheng and shou pu-erh (Banzhang 2019, Mansong 2021) plus white, green, oolong, red and GABA teas from named growers
+    ships_from: Not stated ("shipped from the mountain"); lists presence in US, Spain, Poland, Ukraine, Israel
+    status: candidate
+    added: 2026-09-29
+    notes: Pitch is "bought at the source, from growers we can name, no brokers, no mystery blends"; sells loose tea at about $0.25/g with $5 samples, and cheap teaware (mini teapots $10). Origin warehouse and US delivery times are not stated on the homepage - confirm which location ships to the US before relying on it. HTTP 200.
+  - name: Yiwu Mountain Tea
+    url: https://www.yiwumountaintea.com
+    specialty: Single-estate Yiwu pu-erh (gushu cakes, spring harvests, aged prior-year selections) sold from Yiwu Gaoshan Village in Mengla County
+    ships_from: China (Xishuangbanna, Yunnan)
+    status: candidate
+    added: 2026-09-29
+    notes: Origin-local shop whose listed address is in Yiwu Gaoshan Village; prices display in GBP (about GBP 18-315) with most cakes 200-357 g, and a sample pack is promised with every order. No owner name and no US shipping policy visible on the homepage; was advertising 10% off for the Mid-Autumn/October holidays when checked. HTTP 200.
