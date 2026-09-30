@@ -24,7 +24,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-09-27 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-09-30 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -792,3 +792,24 @@ shops:
     status: candidate
     added: 2026-09-29
     notes: Origin-local shop whose listed address is in Yiwu Gaoshan Village; prices display in GBP (about GBP 18-315) with most cakes 200-357 g, and a sample pack is promised with every order. No owner name and no US shipping policy visible on the homepage; was advertising 10% off for the Mid-Autumn/October holidays when checked. HTTP 200.
+  - name: MoriMa Tea Co.
+    url: https://www.morimatea.com
+    specialty: Farm-direct Chinese loose leaf (West Lake Longjing, Anji white, Wuyi rock oolong) paired with Yixing zisha teapots, gaiwans and full gongfu sets
+    ships_from: US (Jeffersonville, NY)
+    status: candidate
+    added: 2026-09-30
+    notes: One of the few teaware-heavy shops with a US warehouse, so no origin-shipping wait; free international shipping over $99 and 30-day returns. Tea runs about $5-$10 for small sizes up to $300+, but teaware starts near $150 and climbs past $1,400 - this is not a budget teapot source. No named owner on the site. HTTP 200.
+  - name: China Tea Spirit
+    url: https://www.cnteaspirit.com
+    specialty: Huangshan-region greens and reds (Mao Feng, Keemun, Tai Ping Hou Kui) sold alongside artisan-studio Yixing teapots, gaiwans, cups and tea pets
+    ships_from: China (Huangshan, Anhui)
+    status: candidate
+    added: 2026-09-30
+    notes: Sellers describe themselves as Huangshan natives buying directly from tea farmers, which makes this a useful Anhui-focused source to compare against generalist shops. Gaiwans start at $7.90 and Yixing pots run $129-$299+. Note tea and teaware ship in separate parcels for customs, so expect two deliveries. No owner named; support@cnteaspirit.com only. HTTP 200.
+  - name: Tealibere
+    url: https://tealibere.com
+    specialty: Six-category Chinese loose leaf plus teaware sourced from named kiln towns - Jianyang (Jian Zhan), Yixing, Jingdezhen, Dehua and Jianshui
+    ships_from: Not stated (ships worldwide, multi-currency)
+    status: candidate
+    added: 2026-09-30
+    notes: Pitches fully handmade teaware ("no machines, just hands, clay and fire") and publishes separate selection-philosophy and sourcing pages. Tea about $15-$189; teaware $29.99 to $479.99+. No headquarters, company registration or owner name disclosed anywhere on the site - treat provenance claims as unverified until an order confirms origin. HTTP 200.
