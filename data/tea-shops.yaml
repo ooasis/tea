@@ -813,3 +813,24 @@ shops:
     status: candidate
     added: 2026-09-30
     notes: Pitches fully handmade teaware ("no machines, just hands, clay and fire") and publishes separate selection-philosophy and sourcing pages. Tea about $15-$189; teaware $29.99 to $479.99+. No headquarters, company registration or owner name disclosed anywhere on the site - treat provenance claims as unverified until an order confirms origin. HTTP 200.
+  - name: Living Tea
+    url: https://www.livingtea.net
+    specialty: Curated seasonal Chinese leaf across all six categories plus Liu Bao, sold as a practice-oriented catalog with brewing guidance, seasonal collections and a subscription club
+    ships_from: US
+    status: candidate
+    added: 2026-10-01
+    notes: Appears in TeaForum's consolidated vendor list alongside white2tea and Cha Wang Shop, so it carries community standing rather than just marketing copy. Specialty loose leaf with teaware, not flavored blends. Free US shipping over $150; international shipping with a currency selector. HTTP 200.
+  - name: Wuyi Star Tea
+    url: https://wuyistartea.com
+    specialty: Wuyi Mountain yancha (Da Hong Pao, Rou Gui), Lapsang Souchong and Silver Needle from the Wuyi Star producer, sold as an authorized distributor
+    ships_from: Canada (Ontario warehouse) for US/Canada orders; tea from Wuyi Shan, Fujian
+    status: candidate
+    added: 2026-10-01
+    notes: Listed under "Tea Only" in TeaForum's vendor thread. Site states the parent producer was established in Wuyi Mountains in 2001 and that it is officially authorized, which is a stronger provenance claim than most resellers make - worth confirming on a first order. Local Ontario stock means no China customs wait for North American buyers. HTTP 200.
+  - name: Kong Mountain Tea
+    url: https://www.kongmountaintea.com
+    specialty: Region-led Chinese selection (Wuyi, Feng Huang, Yunnan, Fuding white, Jiangnan greens and jasmine) with studio teaware, tea sommelier classes and origin trips
+    ships_from: US (Cambridge, MA)
+    status: candidate
+    added: 2026-10-01
+    notes: Named in TeaForum's "Tea and Teaware" vendor list. Has a physical storefront at 1132 Massachusetts Ave, Cambridge MA, which makes it a rare East Coast option for tasting before buying. Organizes classes, workshops and tea trips to China alongside retail. HTTP 200.
