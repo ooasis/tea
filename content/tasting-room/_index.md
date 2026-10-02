@@ -28,6 +28,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/white/bai-mudan/_index.md" >}}'>Bai Mudan (白牡丹)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/white/gong-mei/_index.md" >}}'>Gong Mei (贡眉)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/white/shou-mei/_index.md" >}}'>Shou Mei (寿眉)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/white/yue-guang-bai/_index.md" >}}'>Yue Guang Bai (月光白)</a></span>
 </div>
 
 #### Yellow Tea
