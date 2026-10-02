@@ -834,3 +834,24 @@ shops:
     status: candidate
     added: 2026-10-01
     notes: Named in TeaForum's "Tea and Teaware" vendor list. Has a physical storefront at 1132 Massachusetts Ave, Cambridge MA, which makes it a rare East Coast option for tasting before buying. Organizes classes, workshops and tea trips to China alongside retail. HTTP 200.
+  - name: TenFu's Tea (天福茗茶)
+    url: https://tea-tao.com
+    specialty: Full-range Chinese tea from self-owned gardens across eight provinces, with a deep green tea line (Taihu Biluochun, first-flush Longjing)
+    ships_from: China
+    status: candidate
+    added: 2026-10-02
+    notes: English storefront of Ten Fu Group, founded 1993 and ranked first among China's top 100 tea companies 2013-2017, with over 1,200 retail stores in mainland China. Vertically integrated - own gardens, no middleman - which is unusual at this scale and means consistent supply rather than small-lot scarcity. Expect a large-brand catalog rather than single-farm lots. Free shipping over $59. HTTP 200.
+  - name: Oriarm
+    url: https://oriarm.com
+    specialty: Chinese tea and teaware generalist with well-documented green tea listings (pre-Qingming Longjing, Anji Bai Cha) carrying explicit harvest dates and grades
+    ships_from: China
+    status: candidate
+    added: 2026-10-02
+    notes: Listings state specific harvest windows (e.g. "2026 Longjing Pre-QingMing 1st Grade, harvested March 20-25, 2026") and name the province down to the production area, which is the kind of disclosure worth checking a green tea vendor for. Also widely sold on Amazon as "oriarmcha" - the direct site carries the fuller catalog. No organic or fair-trade certification claims. HTTP 200.
+  - name: GOARTEA
+    url: https://www.goartea.com
+    specialty: Broad loose-leaf Chinese tea catalog with strong regional green coverage (Xihu Longjing, Suzhou Biluochun, Xinyang Maojian, Emei Zhuyeqing) plus teaware
+    ships_from: China (Guangzhou)
+    status: candidate
+    added: 2026-10-02
+    notes: Long-running marketplace seller (eBay/Amazon) that also runs its own storefront. Grading language leans on "Supreme" and "Nonpareil" rather than documented sourcing, so provenance is thinner than Oriarm or One River - useful mainly for breadth and price on named green varieties. Worldwide shipping quoted at 11-24 days. HTTP 200.
