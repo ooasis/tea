@@ -31,7 +31,7 @@ shops:
     ships_from: US (Tucson)
     status: listed
     added: 2026-01-15
-    notes: 2026-09-05 URL check returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-10-03 URL recheck returns HTTP 200; earlier 403s were transient bot blocking.
   - name: White2Tea
     url: https://white2tea.com
     specialty: Modern pu-erh, small-batch pressings, tea club
@@ -44,7 +44,7 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
-    notes: 2026-09-21 URL check returns 403 to curl (Cloudflare bot challenge); site is alive in browsers.
+    notes: 2026-10-03 URL check still returns 403 to curl (Cloudflare bot challenge); site is alive in browsers.
   - name: Tea Drunk
     url: https://www.teadrunk.com
     specialty: Ultra-luxury terroir, heritage-grade teas
@@ -855,3 +855,24 @@ shops:
     status: candidate
     added: 2026-10-02
     notes: Long-running marketplace seller (eBay/Amazon) that also runs its own storefront. Grading language leans on "Supreme" and "Nonpareil" rather than documented sourcing, so provenance is thinner than Oriarm or One River - useful mainly for breadth and price on named green varieties. Worldwide shipping quoted at 11-24 days. HTTP 200.
+  - name: Jesse's Teahouse
+    url: https://jessesteahouse.com
+    specialty: Gongfu-focused Chinese whole leaf tea (pu'er, red, white, oolong) plus tea pets, tea tables and brewing equipment
+    ships_from: US (Los Angeles, CA)
+    status: candidate
+    added: 2026-10-03
+    notes: Founded 2021 by Jesse Appell, an American who spent nine years in China; the catalog is built around named farmer partners (Duidui, a 30-year industry veteran; Sister Ai, a 4th-generation farmer) rather than anonymous grades. Education-forward - the shop exists alongside a gongfu-culture video channel - so useful for a beginner who wants the why with the leaf. Has expanded to warehouses in Canada, the EU and the UK. HTTP 200.
+  - name: JIN YUN FU
+    url: https://www.jinyunfuteashop.com
+    specialty: Single-origin loose-leaf Chinese tea with curated teaware and in-person tea service
+    ships_from: US (New York, NY)
+    status: candidate
+    added: 2026-10-03
+    notes: Brick-and-mortar shop at 12 W 29th St in Manhattan, founded 1995, selling online alongside the storefront - a rare East Coast option for tasting before buying. Small operation (closed Tuesdays except by reservation), so expect a curated rather than broad catalog. Site does not break out which varieties it specializes in; worth a visit-and-taste before an online order. HTTP 200.
+  - name: Pu-Erh & Palms
+    url: https://www.chinese-tea.la
+    specialty: Small curated Chinese selection - milk oolong, Sparrow Tongue green, Da Hong Pao, flower teas - plus in-person tea ceremony sessions
+    ships_from: US (Los Angeles, CA)
+    status: candidate
+    added: 2026-10-03
+    notes: Owner-operated (Elena) micro-shop pairing retail with LA tea-ceremony experiences. Pricing starts around $15/oz and the site credits "the finest suppliers" without naming farms or gardens, so provenance disclosure is thinner than Jesse's Teahouse or Tea Drunk. Best read as a local-experience vendor first, mail-order source second. HTTP 200.
