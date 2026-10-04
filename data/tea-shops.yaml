@@ -665,7 +665,7 @@ shops:
     ships_from: US (Portland, OR)
     status: candidate
     added: 2026-09-23
-    notes: Mixed catalog - genuine single-origin lots sit next to flavored blends, so the Chinese section needs filtering rather than trusting the storefront wholesale. Teaware is the stronger half of the pairing: sourced from family-run artisan crafters rather than a wholesale importer. Portland storefront and national shipping. HTTP 200.
+    notes: "Mixed catalog - genuine single-origin lots sit next to flavored blends, so the Chinese section needs filtering rather than trusting the storefront wholesale. Teaware is the stronger half of the pairing: sourced from family-run artisan crafters rather than a wholesale importer. Portland storefront and national shipping. HTTP 200."
   - name: Hou De Fine Tea
     url: https://houdefinetea.com
     specialty: Vintage US-stored factory pu-erh and Taiwanese boutique pu-erh, long-held collector inventory
@@ -876,3 +876,24 @@ shops:
     status: candidate
     added: 2026-10-03
     notes: Owner-operated (Elena) micro-shop pairing retail with LA tea-ceremony experiences. Pricing starts around $15/oz and the site credits "the finest suppliers" without naming farms or gardens, so provenance disclosure is thinner than Jesse's Teahouse or Tea Drunk. Best read as a local-experience vendor first, mail-order source second. HTTP 200.
+  - name: Xizi Hao
+    url: https://www.xizihaotea.com
+    specialty: High-end boutique pu-erh pressed under the Xizihao label, catalogued by vintage (2014-2024), plus ripe tea, samples and teaware
+    ships_from: Taiwan (Tainan)
+    status: candidate
+    added: 2026-10-04
+    notes: Long-running boutique producer rather than a reseller - cakes are its own pressings, with wrapper art commissioned from calligraphers. Still active, a buy-one-get-one on new Chawangbing was running and 2024 Yun Tai 8582 had just landed when checked. Site does not state its location; Tainan base is per TeaDB's non-mainland vendor guide, not the shop's own copy. Expect boutique pricing and small lots. HTTP 200.
+  - name: Quiche Teas
+    url: https://quicheteas.com
+    specialty: Taiwan-stored factory pu-erh - Dayi, Xiaguan, Mengku Rongshi - sourced via Taishunhe, alongside oolong, heicha, white and green
+    ships_from: Taiwan
+    status: candidate
+    added: 2026-10-04
+    notes: Factory-tea specialist rather than a gushu curator, which makes it a cheaper route into aged sheng than the boutique vendors; samples sit well under $10 and premium aged cakes run past $100. Storage provenance (Taiwan, via Taishunhe) is the selling point, so verify the storage claim on a given cake before paying up. Location not stated on site; Taiwan base is per TeaDB. HTTP 200.
+  - name: Puerh Guy
+    url: https://www.puerhguy.com
+    specialty: Pu-erh only - boutique and factory cakes, weighted toward semi-aged
+    ships_from: UK
+    status: candidate
+    added: 2026-10-04
+    notes: Tagline is "Authentic puerh tea. Buy the leaves, not the stories," and the catalog is narrow by design - a single-category vendor, not a general Chinese tea shop. UK base confirmed from the site's own footer. A useful European-stock alternative to Essence of Tea or Tea Encounter; US buyers should price transatlantic shipping before committing. HTTP 200.
