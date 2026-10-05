@@ -18,6 +18,7 @@ shops:
     ships_from: US (San Francisco)
     status: listed
     added: 2026-01-15
+    notes: 2026-10-05 URL recheck HTTP 200; full 154-product catalog scanned, zero discounted variants.
   - name: TeaVivre
     url: https://www.teavivre.com
     specialty: Direct-import value, green tea discovery
@@ -51,12 +52,14 @@ shops:
     ships_from: US (NYC)
     status: listed
     added: 2026-01-15
+    notes: 2026-10-05 URL recheck HTTP 200; first markdown seen in weeks (2019 Da Hong Pao, discolored labels) but sold out.
   - name: Old Ways Tea
     url: https://oldwaystea.com
     specialty: Wuyi family farm, rock oolong & black tea
     ships_from: China (Wuyishan)
     status: listed
     added: 2026-01-15
+    notes: 2026-10-05 URL recheck HTTP 200; front page still shows the "2026 harvest is complete" notice, fifth consecutive week.
   - name: Farmerleaf
     url: https://farmerleaf.com
     specialty: Jingmai mountain pu-erh, own factory, Yunnan black & oolong
@@ -897,3 +900,24 @@ shops:
     status: candidate
     added: 2026-10-04
     notes: Tagline is "Authentic puerh tea. Buy the leaves, not the stories," and the catalog is narrow by design - a single-category vendor, not a general Chinese tea shop. UK base confirmed from the site's own footer. A useful European-stock alternative to Essence of Tea or Tea Encounter; US buyers should price transatlantic shipping before committing. HTTP 200.
+  - name: Music City Tea
+    url: https://musiccitytea.com
+    specialty: Wuyi yancha and gongfu teaware - a US bricks-and-mortar shop with a mid-fired rock oolong reputation
+    ships_from: US (Murfreesboro, Tennessee)
+    status: candidate
+    added: 2026-10-05
+    notes: TeaDB's Wuyi vendor guide names it alongside JK Tea Shop as a mid-range source for properly mid-fired, smooth yancha. Roughly 20 oolongs, with genuine Wuyi names (Da Hong Pao, Shui Xian, Rougui) plus Dong Ding and Tieguanyin; no Dan Cong. Caveat - the catalog also carries flavored/chai and fruit tea, so it is a mixed retailer rather than a pure specialist. Also stocks Yixing pots, gaiwans and tea trays. HTTP 200.
+  - name: Valley of Tea
+    url: https://www.valleyoftea.com
+    specialty: Single-origin unflavored teas with a long-running direct Anxi Tieguanyin line
+    ships_from: Belgium (Oostkamp)
+    status: candidate
+    added: 2026-10-05
+    notes: Claims fifteen-plus years sourcing Tieguanyin directly from multi-generational family producers in higher-elevation Anxi villages that hand-pick and process their own leaf. Site-wide position is "no added flavours," single-origin only. European warehouse, so a stock alternative for EU buyers; US buyers should price shipping first. HTTP 200.
+  - name: Living Roots
+    url: https://www.livingrootsusa.com
+    specialty: Taiwan high-mountain oolong, farm-direct and farm-traceable, alongside Japanese tea
+    ships_from: US (Sacramento, California)
+    status: candidate
+    added: 2026-10-05
+    notes: Single-origin only, sourced from family growers the owners say they visit personally; the Alishan high-mountain oolong comes from one family-run garden. Not a China-only shop - the range spans Taiwan, Japan and India, so it is narrower on mainland Chinese tea than most of this ledger. Free US shipping over $49. HTTP 200.
