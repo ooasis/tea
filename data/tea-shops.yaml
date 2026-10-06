@@ -921,3 +921,24 @@ shops:
     status: candidate
     added: 2026-10-05
     notes: Single-origin only, sourced from family growers the owners say they visit personally; the Alishan high-mountain oolong comes from one family-run garden. Not a China-only shop - the range spans Taiwan, Japan and India, so it is narrower on mainland Chinese tea than most of this ledger. Free US shipping over $49. HTTP 200.
+  - name: Serene Tea Studio
+    url: https://serenetea-cha.com
+    specialty: Farm-direct Chinese loose leaf from named individual growers; Fuding white, Phoenix Dancong, Wuyi rock oolong
+    ships_from: US (Seattle, Washington)
+    status: candidate
+    added: 2026-10-06
+    notes: Unusually explicit farm-direct model - a public "Meet Our Farmers" page names each grower behind a tea (Bei Bei Zhang for Lapsang Souchong, Farmer Liu and Xie Xin Xu for Dancong, Farmer Wen for white tea, Farmer Luo for Yunnan red). No blends or flavourings; some Taiwan and Thai wild tea alongside the Chinese range. Also stocks gaiwans and cups. HTTP 200.
+  - name: Silk Road Teas
+    url: https://silkroadteas.com
+    specialty: Single-origin seasonal Chinese tea, strong pre-Qingming spring greens; some organic certification
+    ships_from: US (San Francisco Bay Area, California)
+    status: candidate
+    added: 2026-10-06
+    notes: Family owned and operated since 1992, so one of the longer-running US direct importers. Says it travels China annually to buy from small farms, farm cooperatives and regional tea markets rather than a single importer. China-only range plus a little teaware. Also sold through Bay Area grocers, which makes it easy to taste before ordering online. HTTP 200.
+  - name: Rishi Tea
+    url: https://www.rishi-tea.com
+    specialty: Direct-trade organic Chinese tea; maintains a distinct "Garden Direct Teas from China" line
+    ships_from: US (Milwaukee, Wisconsin)
+    status: candidate
+    added: 2026-10-06
+    notes: Larger and more mainstream than most of this ledger - it does sell flavoured blends and tea bags - but the garden-direct Chinese collection is genuine single-origin direct trade with organic certification, and it publishes harvest reporting from Fujian. Treat the garden-direct line as the part worth reviewing, not the catalogue as a whole. HTTP 200.
