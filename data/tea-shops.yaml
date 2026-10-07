@@ -12,6 +12,7 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
+    notes: 2026-10-07 URL recheck HTTP 200.
   - name: Red Blossom Tea Co.
     url: https://redblossomtea.com
     specialty: Artisanal & rare teas, high-end oolong
@@ -39,6 +40,7 @@ shops:
     ships_from: China
     status: listed
     added: 2026-01-15
+    notes: 2026-10-07 URL recheck HTTP 200. Teaware is now split into a separate sibling storefront, Teaware.House.
   - name: Verdant Tea
     url: https://verdanttea.com
     specialty: Small family farms, Laoshan teas
@@ -66,7 +68,7 @@ shops:
     ships_from: China (Yunnan)
     status: candidate
     added: 2026-08-25
-    notes: Well-regarded in the pu-erh community; farm-direct with video documentation of processing.
+    notes: Well-regarded in the pu-erh community; farm-direct with video documentation of processing. 2026-10-07 URL recheck HTTP 200.
   - name: Teasenz
     url: https://www.teasenz.com
     specialty: Broad authentic Chinese tea catalog across all six categories
@@ -942,3 +944,24 @@ shops:
     status: candidate
     added: 2026-10-06
     notes: Larger and more mainstream than most of this ledger - it does sell flavoured blends and tea bags - but the garden-direct Chinese collection is genuine single-origin direct trade with organic certification, and it publishes harvest reporting from Fujian. Treat the garden-direct line as the part worth reviewing, not the catalogue as a whole. HTTP 200.
+  - name: HOJO Tea
+    url: https://hojotea.com/en/
+    specialty: Origin-selected Chinese pu-erh, oolong, Dancong and white tea alongside natural-clay teapots
+    ships_from: Malaysia (Kuala Lumpur) and Japan (Nagano)
+    status: candidate
+    added: 2026-10-07
+    notes: Run by Akira Hojo, who trained in agricultural chemistry and food science and buys at origin in China, Taiwan and Japan. The teaware side is unusually opinionated - pots are selected for unglazed natural clay and its effect on the brew rather than for decoration - which makes this the rare shop where the tea and the pot are argued as one system. Mixed Japanese and Chinese catalogue, so the Chinese range is narrower than a China-only vendor, and forum reports note slow replies to email. HTTP 200.
+  - name: Cha Zhi Ji
+    url: https://chazhijitea.com
+    specialty: Aged and rare Chinese tea (Wuyi yancha, Liu Bao, sheng and shou pu-erh) paired with Yixing and antique teaware
+    ships_from: Malaysia
+    status: candidate
+    added: 2026-10-07
+    notes: Founded 1995, so one of the longest-running sellers in this ledger, operating as The Fine Cup Enterprise. Both halves of the catalogue aim at collectors - antique teacups and Yixing pots next to aged dark tea - and free shipping only kicks in above USD 1,500, which signals the price tier. Useful as a reference point for aged tea and antique ware, less so for everyday buying. HTTP 200.
+  - name: Fong's Tea
+    url: https://www.fongstea.com
+    specialty: Pu-erh and oolong bought direct from Chinese tea regions, with Yixing teapots and gaiwans
+    ships_from: Not stated on site
+    status: candidate
+    added: 2026-10-07
+    notes: The most tea-led of this run's teaware-plus-tea finds - a real dated pu-erh catalogue (2018 Fu Jin raw cake, 2012 Da Yi Sun Ke Qing Zhuan) and a tea club, with teaware as the companion rather than the main act. Says it travels to Chinese tea regions yearly and buys from farmers directly, but names no owner, no founding date and no shipping origin, so verify lead times before ordering. HTTP 200.
