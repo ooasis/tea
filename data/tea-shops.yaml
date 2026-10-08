@@ -75,14 +75,14 @@ shops:
     ships_from: China
     status: candidate
     added: 2026-08-25
-    notes: Generalist direct-from-China shop; good beginner breadth.
+    notes: Generalist direct-from-China shop; good beginner breadth. 2026-10-08 URL recheck HTTP 200.
   - name: The Chinese Tea Shop
     url: https://thechineseteashop.com
     specialty: Curated traditional Chinese teas, aged pu-erh, yixing ware
     ships_from: Canada (Vancouver)
     status: candidate
     added: 2026-08-25
-    notes: Long-running Vancouver Chinatown shop; ships to US.
+    notes: Long-running Vancouver Chinatown shop; ships to US. 2026-10-08 URL recheck HTTP 200.
   - name: Wuyi Origin
     url: https://www.wuyiorigin.com
     specialty: Farm-direct Wuyi yancha & Phoenix dancong oolong, Wuyi black tea
@@ -96,7 +96,7 @@ shops:
     ships_from: China (Guangzhou), EU stock
     status: candidate
     added: 2026-08-27
-    notes: Founded 2004; direct long-term farmer relationships, detailed origin notes.
+    notes: Founded 2004; direct long-term farmer relationships, detailed origin notes. 2026-10-08 URL recheck HTTP 200.
   - name: What-Cha
     url: https://what-cha.com
     specialty: Multi-origin curation incl. Chinese & Taiwanese oolong
@@ -965,3 +965,24 @@ shops:
     status: candidate
     added: 2026-10-07
     notes: The most tea-led of this run's teaware-plus-tea finds - a real dated pu-erh catalogue (2018 Fu Jin raw cake, 2012 Da Yi Sun Ke Qing Zhuan) and a tea club, with teaware as the companion rather than the main act. Says it travels to Chinese tea regions yearly and buys from farmers directly, but names no owner, no founding date and no shipping origin, so verify lead times before ordering. HTTP 200.
+  - name: Lazy Cat Tea
+    url: https://www.lazycattea.com
+    specialty: Wuyi yancha rock oolong selected yearly from Wuyishan producers, plus Wuyi black tea and gongfu teaware
+    ships_from: Europe (prices in EUR); sourcing team based in China since 2015
+    status: candidate
+    added: 2026-10-08
+    notes: Named repeatedly in TeaForum yancha vendor threads and tagged on TeaDB, which is why it surfaced on the community angle. Narrow by design - Rougui, Shuixian, Qilan, Huangguanyin, Bairuixiang and Tieluohan with vintage years on the labels - and the tasting boxes make it cheap to sample a cultivar spread before committing. Does not publish a street address or shipping origin, only EUR pricing. HTTP 200.
+  - name: Si Cha
+    url: https://www.si-cha.com
+    specialty: High-end Wuyi yancha with some white and black tea, sold alongside gaiwans and gong dao bei
+    ships_from: Europe (EUR pricing, iDEAL and Bancontact checkout - likely Netherlands or Germany)
+    status: candidate
+    added: 2026-10-08
+    notes: A second European Wuyi specialist found on the same community sweep, positioned around yan yun rock rhyme and terroir rather than breadth. EUR 12-85 per item puts it above Lazy Cat Tea on average, and the Dutch and Belgian payment rails suggest fast intra-EU delivery - a useful counterpart to the China-direct Wuyi sellers already in this ledger. Location is inferred from checkout options, not stated. HTTP 200.
+  - name: Tuocha Tea
+    url: http://tuochatea.com
+    specialty: Factory pu-erh in traditional compressed forms - tuocha, bricks and cakes from Xiaguan, Menghai, Haiwan and Yubang
+    ships_from: China (Yunnan)
+    status: candidate
+    added: 2026-10-08
+    notes: Listed in the TeaDB pu-erh vendor guide as a no-nonsense source for factory recipes, and useful mainly as a price benchmark when buying big-factory tea elsewhere. Caveats - the site is plain HTML served over HTTP with no TLS, and the featured cakes are 2008-2010 pressings, so the catalogue may not be actively refreshed. Verify stock and shipping before ordering. HTTP 200 over http only; https did not connect.
