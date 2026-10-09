@@ -49,6 +49,8 @@ title = "The Artisan's Studio"
   • <a class="no-underline" href='{{< ref "tea-production/roast-levels/_index.md" >}}'>Understanding Roast Levels in Oolong (焙火)</a> </span> 
   <span class="text-blue-600 dark:text-blue-400">
   • <a class="no-underline" href='{{< ref "tea-production/leaf-bottom/_index.md" >}}'>Reading the Leaf Bottom (叶底)</a> </span> 
+  <span class="text-blue-600 dark:text-blue-400">
+  • <a class="no-underline" href='{{< ref "tea-production/harvest-seasons/_index.md" >}}'>Spring, Summer, Autumn (春茶、夏茶、秋茶)</a> </span> 
 </div>
 
 ### Online Tea Shops
