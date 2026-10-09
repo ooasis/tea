@@ -166,7 +166,7 @@ shops:
     ships_from: US (California)
     status: candidate
     added: 2026-08-29
-    notes: Run by Linda Louie, ties to Hong Kong aged-tea scene via Vesper Chan; TeaDB-recommended for raw pu-erh intros.
+    notes: Run by Linda Louie, ties to Hong Kong aged-tea scene via Vesper Chan; TeaDB-recommended for raw pu-erh intros. 2026-10-09 URL recheck HTTP 200.
   - name: Eco-Cha Teas
     url: https://eco-cha.com
     specialty: Farm-direct Taiwanese oolong (high mountain, Alishan, Dong Ding)
@@ -250,7 +250,7 @@ shops:
     ships_from: US (Midwest)
     status: candidate
     added: 2026-09-03
-    notes: '"Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping.'
+    notes: '"Face to Farmer" sourcing, owners curate from independent farmers; fast US shipping. 2026-10-09 URL recheck HTTP 200.'
   - name: ICHA TEA
     url: https://ichateashop.com
     specialty: Authentic Chinese tea across all six categories; pre-Qingming Dongting biluochun with farm-original QR traceability
@@ -565,7 +565,7 @@ shops:
     ships_from: US (Clayton, NC)
     status: candidate
     added: 2026-09-18
-    notes: Sources regional greens from Zhejiang, Fujian, Hubei, Sichuan, Anhui, Hunan and Jiangxi; single-origin focus rather than blends. Catalog also includes herbals, so filter by origin. HTTP 200.
+    notes: Sources regional greens from Zhejiang, Fujian, Hubei, Sichuan, Anhui, Hunan and Jiangxi; single-origin focus rather than blends. Catalog also includes herbals, so filter by origin. 2026-10-09 URL recheck HTTP 200.
   - name: Upton Tea Imports
     url: https://www.uptontea.com
     specialty: Very large single-origin catalog; Chinese section organized by province (Fujian, Guangdong, Anhui, Hunan)
@@ -986,3 +986,24 @@ shops:
     status: candidate
     added: 2026-10-08
     notes: Listed in the TeaDB pu-erh vendor guide as a no-nonsense source for factory recipes, and useful mainly as a price benchmark when buying big-factory tea elsewhere. Caveats - the site is plain HTML served over HTTP with no TLS, and the featured cakes are 2008-2010 pressings, so the catalogue may not be actively refreshed. Verify stock and shipping before ordering. HTTP 200 over http only; https did not connect.
+  - name: Terza Luna
+    url: https://www.terzaluna.com/en/chinese-tea
+    specialty: Curated single-origin Chinese tea across all six categories, with a green tea run of Longjing and Biluochun
+    ships_from: Europe (Bari, Italy)
+    status: candidate
+    added: 2026-10-09
+    notes: Surfaced on the specialty green tea angle. An Italian shop of ~600 total tea products with roughly 41 Chinese teas, sourced from what it describes as small artisan producers and organized by region and processing type. EUR 3.50-24.90 per item and 48-hour European shipping make it a cheap sampling route for EU buyers, though the Chinese selection is a slice of a much broader catalog rather than the whole business. HTTP 200.
+  - name: China Tea Wholesale
+    url: https://www.chinateawholesale.com/green-tea
+    specialty: Province-by-province Chinese green tea - Xihu Longjing, Biluochun, Huangshan Maofeng - sold direct from China
+    ships_from: China
+    status: candidate
+    added: 2026-10-09
+    notes: Despite the name it sells to individuals as well as wholesale buyers, with a normal cart and a sample section, no stated minimum order. Catalog is organized across 13+ provinces, which makes it useful for finding the less-exported green teas, and it offers door-to-door UPS/FedEx/DHL to the EU and US. USD 20-135 per unit. The wholesale framing means grading language is looser than a curated shop - treat as a breadth source, not a quality signal. HTTP 200.
+  - name: ChiCha Tea
+    url: https://chichatea.com
+    specialty: Sichuan farm-direct Chinese tea across six categories, led by West Lake Longjing and Jin Jun Mei
+    ships_from: US
+    status: candidate
+    added: 2026-10-09
+    notes: Found on the green tea sweep. Claims its own production base in Sichuan since 2016 and sells from US stock, so delivery is 5-7 days rather than the two to three weeks typical of China-direct sellers - a useful trait for green tea, where freshness decays fastest. USD 15.90-37.90, free shipping over USD 45. The 6,000-acre farm claim is self-reported and unverified, and selling West Lake Longjing while farming in Sichuan means at least part of the catalog is sourced, not grown. HTTP 200.
