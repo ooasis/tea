@@ -89,7 +89,7 @@ shops:
     ships_from: China (Wuyishan)
     status: candidate
     added: 2026-08-27
-    notes: Run by Cindy Chen (Wuyishan tea family) and Mr. Zhou (Fenghuang); frequently recommended for yancha/dancong.
+    notes: Run by Cindy Chen (Wuyishan tea family) and Mr. Zhou (Fenghuang); frequently recommended for yancha/dancong. 2026-10-10 URL recheck HTTP 200.
   - name: Jing Tea Shop
     url: https://www.jingteashop.com
     specialty: Anxi, Wuyi & dancong oolongs, plus green/white/pu-erh
@@ -103,14 +103,14 @@ shops:
     ships_from: UK
     status: candidate
     added: 2026-08-27
-    notes: Community favorite for breadth; ships to US with tariff built in.
+    notes: Community favorite for breadth; ships to US with tariff built in. 2026-10-10 URL recheck HTTP 200.
   - name: Song Tea & Ceramics
     url: https://songtea.com
     specialty: Premium curated Chinese & Taiwanese teas plus handmade teaware
     ships_from: US (San Francisco)
     status: candidate
     added: 2026-08-28
-    notes: Minimalist Lower Pacific Heights shop; strong teaware-plus-tea curation.
+    notes: Minimalist Lower Pacific Heights shop; strong teaware-plus-tea curation. 2026-10-10 URL recheck HTTP 200.
   - name: Floating Leaves Tea
     url: https://floatingleaves.com
     specialty: Small-batch Taiwanese oolong (baozhong, high mountain)
@@ -1007,3 +1007,24 @@ shops:
     status: candidate
     added: 2026-10-09
     notes: Found on the green tea sweep. Claims its own production base in Sichuan since 2016 and sells from US stock, so delivery is 5-7 days rather than the two to three weeks typical of China-direct sellers - a useful trait for green tea, where freshness decays fastest. USD 15.90-37.90, free shipping over USD 45. The 6,000-acre farm claim is self-reported and unverified, and selling West Lake Longjing while farming in Sichuan means at least part of the catalog is sourced, not grown. HTTP 200.
+  - name: Spirit Tea
+    url: https://spirittea.co
+    specialty: Seasonal single-origin Chinese and Taiwanese tea curated by a specialty-coffee-trained importer
+    ships_from: US (Chicago)
+    status: candidate
+    added: 2026-10-10
+    notes: Found on the US-based specialty sweep. Founded by Jordan Scherer and Taylor Cowan, former specialty coffee and retail tea professionals, and it imports direct from producers with a rotating seasonal catalog rather than a fixed one - including a Taiwan-China collaboration series pairing Taiwanese processing with Yunnan terroir. The coffee-industry framing means strong harvest and producer documentation, but the rotating catalog means a tea you like may not return. Prices were not visible to the fetch used here, so check before ordering. HTTP 200.
+  - name: Hidden Peak Teahouse
+    url: https://www.hiddenpeakteahouse.com
+    specialty: Organic Yunnan pu-erh - sheng, shou and aged bricks - plus aged Yunnan black tea
+    ships_from: US (Santa Cruz, California)
+    status: candidate
+    added: 2026-10-10
+    notes: A Santa Cruz teahouse with a real online shop, narrow and deep on pu-erh - named pressings like Mang Fei Shan, Lotus Brick and factory recipe 7572, up to a 1980s Human Brick. USD 7-438, with sample sizes at the bottom end making it cheap to try aged tea. Shipping terms are not spelled out on the shop page, so confirm before a large order. HTTP 200.
+  - name: Qifu Teahouse
+    url: https://www.qifutea.com
+    specialty: Single-origin Chinese tea across all six categories plus teapots and tea accessories, led by pu-erh and Wuyi rock oolong
+    ships_from: China
+    status: candidate
+    added: 2026-10-10
+    notes: Surfaced on the US-based sweep but is in fact a China-direct seller - 10-15 day delivery, free shipping over USD 120, USD 25-198 per item. Lists estate-specific teas such as Kunlu Mountain pu-erh and Wuyi rock oolong rather than blends. Note the close resemblance in catalog and site structure to Jesse's Teahouse, already in this ledger; the two may share a supplier or operator. HTTP 200.
