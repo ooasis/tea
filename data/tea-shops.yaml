@@ -117,7 +117,7 @@ shops:
     ships_from: US (Seattle)
     status: candidate
     added: 2026-08-28
-    notes: Owner Shiuwen Tai sources directly from long-time Taiwanese teamakers; hosts tastings.
+    notes: Owner Shiuwen Tai sources directly from long-time Taiwanese teamakers; hosts tastings. 2026-10-11 URL recheck HTTP 200.
   - name: Té Company
     url: https://tecompanytea.com
     specialty: Taiwanese oolong sourced from small farms
@@ -131,7 +131,7 @@ shops:
     ships_from: China
     status: candidate
     added: 2026-08-28
-    notes: Cooperative (est. 2018) that visits every farm; notably deep single-origin green tea lineup.
+    notes: Cooperative (est. 2018) that visits every farm; notably deep single-origin green tea lineup. 2026-10-11 URL recheck HTTP 200.
   - name: iTeaworld
     url: https://iteaworld.com
     specialty: Budget-friendly Chinese loose leaf samplers, longjing & biluochun from classic regions
@@ -145,7 +145,7 @@ shops:
     ships_from: China
     status: candidate
     added: 2026-08-28
-    notes: Ships current-season grades from origin; green tea freshness angle.
+    notes: Ships current-season grades from origin; green tea freshness angle. 2026-10-11 URL recheck HTTP 200.
   - name: Crimson Lotus Tea
     url: https://crimsonlotustea.com
     specialty: Sheng & shou pu-erh, own pressings, Jianshui teapots
@@ -1028,3 +1028,24 @@ shops:
     status: candidate
     added: 2026-10-10
     notes: Surfaced on the US-based sweep but is in fact a China-direct seller - 10-15 day delivery, free shipping over USD 120, USD 25-198 per item. Lists estate-specific teas such as Kunlu Mountain pu-erh and Wuyi rock oolong rather than blends. Note the close resemblance in catalog and site structure to Jesse's Teahouse, already in this ledger; the two may share a supplier or operator. HTTP 200.
+  - name: Generation Tea
+    url: https://generationtea.com
+    specialty: Aged and vintage unblended Chinese tea - aged loose pu-erh, Liu Bao, Liu An, Tibetan tea, aged oolong, plus beeng cha and tuo cha
+    ships_from: unconfirmed
+    status: candidate
+    added: 2026-10-11
+    notes: Listed under curator-type vendors in TeaDB's pu-erh vendor guide. Unusual in leading with aged dark teas beyond pu-erh - Liu Bao and Liu An are hard to source elsewhere. Shipping origin is not stated on the homepage; confirm before ordering. HTTP 200.
+  - name: Tea by Yuan
+    url: https://www.teabyyuan.com
+    specialty: Single-origin Chinese tea across all six categories with a pu-erh focus, plus teaware, incense and art prints
+    ships_from: Europe (likely Germany) - unconfirmed
+    status: candidate
+    added: 2026-10-11
+    notes: Surfaced on the aged-sheng sweep. Prices in EUR with a region selector covering the EU, UK, US and Switzerland, and ties to C*Space Berlin events, so European-based despite the US shipping option. HTTP 200.
+  - name: The Steeping Room
+    url: https://www.thesteepingroom.com
+    specialty: Broad leaf-tea catalog with a deep Puerh and Heicha section - Dayi and Menghai factory productions, aged sheng, plus White2Tea pressings
+    ships_from: US (Austin, Texas)
+    status: candidate
+    added: 2026-10-11
+    notes: Austin teahouse with a fulfillment center on N Lamar Blvd and local pickup. Also stocks border pu-erh from Vietnam, Laos, Myanmar and Thailand, which is rare for a US shop. Carries scented and herbal blends alongside the serious pu-erh, so filter the catalog. HTTP 200.
