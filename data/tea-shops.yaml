@@ -12,21 +12,21 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
-    notes: 2026-10-07 URL recheck HTTP 200.
+    notes: 2026-10-12 URL recheck HTTP 200; sale collection re-scanned, 9 discounted variants, all last-season stock.
   - name: Red Blossom Tea Co.
     url: https://redblossomtea.com
     specialty: Artisanal & rare teas, high-end oolong
     ships_from: US (San Francisco)
     status: listed
     added: 2026-01-15
-    notes: 2026-10-05 URL recheck HTTP 200; full 154-product catalog scanned, zero discounted variants.
+    notes: 2026-10-12 URL recheck HTTP 200; full 154-product catalog re-scanned, zero discounted variants for a 6th week.
   - name: TeaVivre
     url: https://www.teavivre.com
     specialty: Direct-import value, green tea discovery
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-09-30 URL check still returns 403 to curl (bot blocking); site is alive in browsers.
+    notes: 2026-10-12 URL check still returns 403 to curl (bot blocking, 6th consecutive week); site is alive in browsers so not marked dead.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -1049,3 +1049,24 @@ shops:
     status: candidate
     added: 2026-10-11
     notes: Austin teahouse with a fulfillment center on N Lamar Blvd and local pickup. Also stocks border pu-erh from Vietnam, Laos, Myanmar and Thailand, which is rare for a US shop. Carries scented and herbal blends alongside the serious pu-erh, so filter the catalog. HTTP 200.
+  - name: Tea Repertoire
+    url: https://tearepertoire.com
+    specialty: Phoenix dancong oolong graded by tea-tree age (50+ to 300+ years), plus broader single-origin Chinese tea
+    ships_from: Europe (storefront reports CH/CHF) - unconfirmed
+    status: candidate
+    added: 2026-10-12
+    notes: Surfaced on the oolong sweep. Dancong sourced from one garden at 1100-1200m on Wudong Mountain run by 8th-generation farmer Mr. Huang; listings are separated by tree age, which is unusually specific grading for a Western shop. Shopify country code is CH but the brand presents as UK - confirm shipping origin before ordering. HTTP 200.
+  - name: Taiwan Leaf Tea
+    url: https://taiwanleaftea.com
+    specialty: Taiwanese oolong - high-mountain (Dayuling, Alishan), Baozhong, Oriental Beauty, annual competition winners
+    ships_from: Taiwan (Taipei)
+    status: candidate
+    added: 2026-10-12
+    notes: Surfaced on the oolong sweep. Sells plantation-specific lots (e.g. Rare Organic Dayuling from Plantation 101K) and current-year competition-winning Baozhong, which is a strong authenticity signal. Does carry some milk and flavored oolong alongside the pure teas, so filter the catalog. Free standard shipping over $60. HTTP 200.
+  - name: The Tea SHOP (tshopNY)
+    url: https://www.tshopny.com
+    specialty: Chinese pu-erh and green plus Taiwanese oolong and Korean green; handmade teaware by Korean artists
+    ships_from: US (New York City)
+    status: candidate
+    added: 2026-10-12
+    notes: Surfaced on the oolong sweep via its traditional Anxi Tie Guan Yin. Physical NYC tearoom running tastings and gongfu brewing classes, so it doubles as an events source for the weekly digest. Multi-origin rather than China-only - narrower Chinese selection than most shops here. HTTP 200.
