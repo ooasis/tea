@@ -1070,3 +1070,17 @@ shops:
     status: candidate
     added: 2026-10-12
     notes: Surfaced on the oolong sweep via its traditional Anxi Tie Guan Yin. Physical NYC tearoom running tastings and gongfu brewing classes, so it doubles as an events source for the weekly digest. Multi-origin rather than China-only - narrower Chinese selection than most shops here. HTTP 200.
+  - name: Wang Family Tea
+    url: https://www.wangfamilytea.com
+    specialty: Taiwanese oolong from Lishan, Shanlin Xi, Alishan and Sun Moon Lake, finished with longan-wood charcoal roasting; also black and white tea, competition grades and teaware
+    ships_from: Taiwan (Nantou City)
+    status: candidate
+    added: 2026-10-13
+    notes: Surfaced on the farm-direct sweep. Family-run operation on Bagua Road in Nantou; the longan charcoal roasting is their signature and is rarely offered by Western resellers. Listings are organized by growing area rather than by blend name. Free international shipping over $125, free US shipping over $65. Site does not state whether they grow all their own leaf or also buy from neighboring gardens. HTTP 200.
+  - name: Yu Garden Tea (好季茶 / Good Season Tea)
+    url: https://www.yugardentea.com
+    specialty: Chinese tea across green, oolong, red and pu-erh - aged pu-erh, mountain oolong, traditionally scented jasmine
+    ships_from: China (Shanghai)
+    status: candidate
+    added: 2026-10-13
+    notes: Surfaced on the farm-direct sweep. Physical shop in the City God Temple center in the Yu Garden district of Shanghai, now shipping worldwide. Advertises fixed marked prices and refuses the tourist-district practice of pouring a better tea at tasting than the one sold - a useful signal in that neighborhood. Sourcing model is not disclosed, so treat as a curated reseller rather than farm-direct until confirmed. HTTP 200.
