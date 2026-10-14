@@ -59,6 +59,7 @@ date: '2026-01-15T21:37:44-08:00'
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/red/jin-jun-mei/_index.md" >}}'>Jin Jun Mei (金骏眉)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/red/yingde-hongcha/_index.md" >}}'>Yingde Hongcha (英德红茶)</a></span>
   <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/red/chuan-hong/_index.md" >}}'>Chuan Hong (川红)</a></span>
+  <span class="text-blue-600 dark:text-blue-400">• <a class="no-underline" href='{{< ref "tea-varieties/red/tanyang-gongfu/_index.md" >}}'>Tanyang Gongfu (坦洋工夫)</a></span>
 </div>
 
 #### Black (Dark) Tea
