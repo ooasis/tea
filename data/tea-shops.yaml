@@ -33,7 +33,7 @@ shops:
     ships_from: US (Tucson)
     status: listed
     added: 2026-01-15
-    notes: 2026-10-03 URL recheck returns HTTP 200; earlier 403s were transient bot blocking.
+    notes: 2026-10-14 URL recheck HTTP 200; stable for a second straight check after the earlier transient 403s.
   - name: White2Tea
     url: https://white2tea.com
     specialty: Modern pu-erh, small-batch pressings, tea club
@@ -47,7 +47,7 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
-    notes: 2026-10-03 URL check still returns 403 to curl (Cloudflare bot challenge); site is alive in browsers.
+    notes: 2026-10-14 URL check still returns 403 to curl (Cloudflare bot challenge); gaiwan, tea-set and jian-zhan teaware pages all surfaced live in search this run, so the site is alive and not marked dead.
   - name: Tea Drunk
     url: https://www.teadrunk.com
     specialty: Ultra-luxury terroir, heritage-grade teas
@@ -61,7 +61,7 @@ shops:
     ships_from: China (Wuyishan)
     status: listed
     added: 2026-01-15
-    notes: 2026-10-05 URL recheck HTTP 200; front page still shows the "2026 harvest is complete" notice, fifth consecutive week.
+    notes: 2026-10-14 URL recheck HTTP 200; front page still shows the "2026 harvest is complete" notice, seventh consecutive week.
   - name: Farmerleaf
     url: https://farmerleaf.com
     specialty: Jingmai mountain pu-erh, own factory, Yunnan black & oolong
@@ -1084,3 +1084,24 @@ shops:
     status: candidate
     added: 2026-10-13
     notes: Surfaced on the farm-direct sweep. Physical shop in the City God Temple center in the Yu Garden district of Shanghai, now shipping worldwide. Advertises fixed marked prices and refuses the tourist-district practice of pouring a better tea at tasting than the one sold - a useful signal in that neighborhood. Sourcing model is not disclosed, so treat as a curated reseller rather than farm-direct until confirmed. HTTP 200.
+  - name: Blue Willow Tea
+    url: https://www.bluewillowtea.com
+    specialty: Origin-focused Chinese tea across all six categories plus a deep teaware catalog organized by brewing style (gongfu, Japanese, Western) - gaiwans, Yixing pots, chawans, trays
+    ships_from: US (Berkeley, California)
+    status: candidate
+    added: 2026-10-14
+    notes: Surfaced on the teaware-plus-tea sweep. Physical teashop at 1200 Tenth Street in Berkeley, so it doubles as a Bay Area events source. Catalog is origin teas rather than flavored blends, with a "Meet Our Farmers" section and a sustainability page, but no named producers or direct-trade specifics are published - treat sourcing claims as unverified. Multi-origin (also Japanese tea and matcha), so the Chinese selection is narrower than a China-only shop. International shipping terms not stated. HTTP 200.
+  - name: Tea in Town
+    url: https://teaintown.store
+    specialty: Sommelier-curated gongfu tea across all six categories plus scented tea, with a matched teaware line (gaiwans, Yixing zisha, glass and porcelain pots, pitchers)
+    ships_from: Not disclosed
+    status: candidate
+    added: 2026-10-14
+    notes: Surfaced on the teaware-plus-tea sweep. Listings carry regional specificity and harvest years (e.g. 2026 first-flush Longjing), no flavored blends. Teaware is curated to pair with the tea rather than sold as a separate catalog. Free worldwide shipping over $99 with a $50 order minimum. Neither the physical location nor the named sommelier is published anywhere on the site - verify before ordering. HTTP 200.
+  - name: TangPin Tea
+    url: https://www.tangpintea.com
+    specialty: Teaware-first - Dehua and Jingdezhen porcelain from named craft regions - with a secondary loose-leaf line in green, black, oolong, white and pu-er
+    ships_from: China (Dehua / Jingdezhen region)
+    status: candidate
+    added: 2026-10-14
+    notes: Surfaced on the teaware-plus-tea sweep. Sells under the TangPin and LUWU labels and publishes background on Dehua ceramic history; identifies the sourcing regions but no individual makers or kilns. Free shipping worldwide. Tea is the smaller half of the business, so judge it as a teaware shop that also stocks tea rather than the reverse. HTTP 200.
