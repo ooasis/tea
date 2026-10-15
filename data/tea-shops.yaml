@@ -68,6 +68,7 @@ shops:
     ships_from: China (Yunnan)
     status: candidate
     added: 2026-08-25
+    notes: 2026-10-15 URL recheck HTTP 200 (first recheck since it was added on 2026-08-25).
     notes: Well-regarded in the pu-erh community; farm-direct with video documentation of processing. 2026-10-07 URL recheck HTTP 200.
   - name: Teasenz
     url: https://www.teasenz.com
@@ -75,6 +76,7 @@ shops:
     ships_from: China
     status: candidate
     added: 2026-08-25
+    notes: 2026-10-15 URL recheck HTTP 200 (first recheck since it was added on 2026-08-25).
     notes: Generalist direct-from-China shop; good beginner breadth. 2026-10-08 URL recheck HTTP 200.
   - name: The Chinese Tea Shop
     url: https://thechineseteashop.com
@@ -82,6 +84,7 @@ shops:
     ships_from: Canada (Vancouver)
     status: candidate
     added: 2026-08-25
+    notes: 2026-10-15 URL recheck HTTP 200 (first recheck since it was added on 2026-08-25).
     notes: Long-running Vancouver Chinatown shop; ships to US. 2026-10-08 URL recheck HTTP 200.
   - name: Wuyi Origin
     url: https://www.wuyiorigin.com
@@ -1105,3 +1108,24 @@ shops:
     status: candidate
     added: 2026-10-14
     notes: Surfaced on the teaware-plus-tea sweep. Sells under the TangPin and LUWU labels and publishes background on Dehua ceramic history; identifies the sourcing regions but no individual makers or kilns. Free shipping worldwide. Tea is the smaller half of the business, so judge it as a teaware shop that also stocks tea rather than the reverse. HTTP 200.
+  - name: Chanting Pines
+    url: https://chantingpines.com
+    specialty: Aged liu bao from a single Malaysian family vault (1950s to present), plus Wuyi yancha, Yunnan pu-erh and antique teaware
+    ships_from: Malaysia
+    status: candidate
+    added: 2026-10-15
+    notes: Surfaced on the community-recommendations sweep (long-running TeaForum vendor thread, cited in tea-adventures.net's liu bao shop guide). The liu bao vault is the draw - one of the few Western-facing sources for genuinely aged liu bao with stated provenance. Top-end pricing and a small rotating catalog; antique teaware is sold alongside the tea. Ships worldwide. HTTP 200.
+  - name: Treasure Green Tea Company
+    url: https://treasuregreentea.com
+    specialty: Traditional Chinese tea across all six categories with a pu-erh lead; Vancouver Chinatown storefront
+    ships_from: Canada (Vancouver)
+    status: candidate
+    added: 2026-10-15
+    notes: Surfaced on the community-recommendations sweep. Self-described as the first authentic Chinese tea shop in Vancouver, established 1981 (妙品馨茶莊) - the longest trading history of any shop added this cycle. Physical Chinatown storefront, so it doubles as a Vancouver events source. Catalog is origin teas, not flavored blends. Note Vancouver already has The Chinese Tea Shop and Best Tea House in this ledger. HTTP 200.
+  - name: Jiangnan Sourcing
+    url: https://www.jiangnansourcing.com
+    specialty: Jiangnan-region tea (green, white, oolong, black, pu-erh) paired with hand-sourced Chinese teaware - Yixing and Jingdezhen teapots, porcelain cups, travel gongfu sets
+    ships_from: US (Michigan)
+    status: candidate
+    added: 2026-10-15
+    notes: Surfaced on the community-recommendations sweep. Despite the name it is a US-domiciled operation (Auburn Hills, MI) sourcing from Jiangnan artisans and gardens, not a China-direct seller - no relation to Yunnan Sourcing. Free worldwide shipping over USD 49, free returns to the UK, US, Canada and much of Western Europe. Teaware is at least half the business. HTTP 200.
