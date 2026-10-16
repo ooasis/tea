@@ -12,21 +12,21 @@ shops:
     ships_from: US
     status: listed
     added: 2026-01-15
-    notes: 2026-10-12 URL recheck HTTP 200; sale collection re-scanned, 9 discounted variants, all last-season stock.
+    notes: 2026-10-16 URL recheck HTTP 200; stable.
   - name: Red Blossom Tea Co.
     url: https://redblossomtea.com
     specialty: Artisanal & rare teas, high-end oolong
     ships_from: US (San Francisco)
     status: listed
     added: 2026-01-15
-    notes: 2026-10-12 URL recheck HTTP 200; full 154-product catalog re-scanned, zero discounted variants for a 6th week.
+    notes: 2026-10-16 URL recheck HTTP 200; stable.
   - name: TeaVivre
     url: https://www.teavivre.com
     specialty: Direct-import value, green tea discovery
     ships_from: China
     status: listed
     added: 2026-01-15
-    notes: 2026-10-12 URL check still returns 403 to curl (bot blocking, 6th consecutive week); site is alive in browsers so not marked dead.
+    notes: 2026-10-16 URL check still returns 403 to curl (bot blocking, 7th consecutive week); site is alive in browsers so not marked dead.
   - name: Seven Cups
     url: https://sevencups.com
     specialty: Single-estate transparency, education
@@ -1129,3 +1129,17 @@ shops:
     status: candidate
     added: 2026-10-15
     notes: Surfaced on the community-recommendations sweep. Despite the name it is a US-domiciled operation (Auburn Hills, MI) sourcing from Jiangnan artisans and gardens, not a China-direct seller - no relation to Yunnan Sourcing. Free worldwide shipping over USD 49, free returns to the UK, US, Canada and much of Western Europe. Teaware is at least half the business. HTTP 200.
+  - name: Cha Wu
+    url: https://cha-wu.com
+    specialty: Anhui-centred Chinese green tea (Taiping Houkui, Huangshan Maofeng) plus Keemun red, oolong, white and pu-erh
+    ships_from: China (Huangshan, Anhui)
+    status: candidate
+    added: 2026-10-16
+    notes: Surfaced on the specialty-green sweep. Catalog is organised by the six traditional categories with named single-origin varieties rather than flavored blends; a small flower-with-tea line sits alongside. Grew out of an Amazon storefront running since 2017, so the direct site is newer and prices are value-tier rather than artisanal. Good coverage of the Huangshan greens the site already writes about. HTTP 200.
+  - name: MoonTea
+    url: https://www.moontea.it/en/
+    specialty: Pure single-origin leaf from China, Japan, India and Vietnam - Longjing, Keemun, Da Hong Pao - with an EU storefront
+    ships_from: Italy (Brescia)
+    status: candidate
+    added: 2026-10-16
+    notes: Surfaced on the specialty-green sweep. First EU-mainland shop in this ledger worth noting for European readers - free shipping over EUR 69 and 2-3 day EU delivery, which beats the China-direct wait. Named varieties with tasting notes, not flavored blends, but the China catalog is narrower than the dedicated China-direct vendors here. English site available. HTTP 200.
